@@ -1,0 +1,2021 @@
+[
+ {
+  "person": {
+   "code": "009316",
+   "name": "PLIAUGA, VYTAUTAS",
+   "alias": "PLIAUGA, VYTAUTAS",
+   "aliasRaw": "PLIAUGA, VYTAUTAS",
+   "passportName": "VYTAUTAS",
+   "passportSurname": "PLIAUGA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "LTU",
+    "name": "Lithuania"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1984-09-14T00:00:00",
+   "birthCountry": {
+    "code": "LTU",
+    "name": "Lithuania"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-08-25T10:19:12.784",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 6,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55061,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015122",
+   "name": "HORTON, LANDRIUS",
+   "alias": "HORTON, LANDRIUS",
+   "aliasRaw": "HORTON, LANDRIUS",
+   "passportName": "LANDRIUS ZACCHEUS",
+   "passportSurname": "HORTON",
+   "jerseyName": "Horton",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 193,
+   "weight": 82,
+   "birthDate": "1998-07-31T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-14T15:15:53.791",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "23",
+  "dorsalRaw": "23",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "DZIKI WARSAW",
+  "externalId": 56671,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4f7b8a52-82e0-4ab2-8822-c1b1fba56596.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4f7b8a52-82e0-4ab2-8822-c1b1fba56596.png"
+  },
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015121",
+   "name": "O'GARRO, JOSHUA",
+   "alias": "O'GARRO, JOSHUA",
+   "aliasRaw": "O'GARRO, JOSHUA",
+   "passportName": "JOSHUA DWIGHT",
+   "passportSurname": "O GARRO",
+   "jerseyName": "O'GARRO",
+   "abbreviatedName": null,
+   "country": {
+    "code": "UK ",
+    "name": "United Kingdom"
+   },
+   "height": 0,
+   "weight": 100,
+   "birthDate": "2001-09-18T00:00:00",
+   "birthCountry": {
+    "code": "CAY",
+    "name": "Cayman Islands"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-14T15:15:53.386",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "7",
+  "dorsalRaw": "7",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "CAL STATE UNI NORTHBRIDGE",
+  "externalId": 56670,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/aadf783d-bdaa-43cd-bde9-111e77bba1a7.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/aadf783d-bdaa-43cd-bde9-111e77bba1a7.png"
+  },
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015120",
+   "name": "LEWIS III, MAXWELL",
+   "alias": "LEWIS III, MAXWELL",
+   "aliasRaw": "LEWIS III, MAXWELL",
+   "passportName": "MAXWELL ROBERT",
+   "passportSurname": "LEWIS III",
+   "jerseyName": "Lewis III",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 201,
+   "weight": 97,
+   "birthDate": "2002-07-27T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-14T15:15:52.962",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "2",
+  "dorsalRaw": "2",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "JUVENTUS",
+  "externalId": 56669,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/3d8d811c-f86c-4c56-a614-6b83c1f20c29.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/3d8d811c-f86c-4c56-a614-6b83c1f20c29.png"
+  },
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013973",
+   "name": "KENNEDY, THOMAS",
+   "alias": "KENNEDY, THOMAS",
+   "aliasRaw": "KENNEDY, THOMAS",
+   "passportName": "THOMAS JOSEPH PATRICK",
+   "passportSurname": "KENNEDY",
+   "jerseyName": "KENNEDY",
+   "abbreviatedName": null,
+   "country": {
+    "code": "IRL",
+    "name": "Ireland"
+   },
+   "height": 207,
+   "weight": 111,
+   "birthDate": "2000-09-01T00:00:00",
+   "birthCountry": {
+    "code": "CAN",
+    "name": "Canada"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-14T15:15:11.956",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "54",
+  "dorsalRaw": "54",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "CEDEVITA",
+  "externalId": 56668,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/c54671f7-6d91-4cba-b643-c700b5367bec.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/c54671f7-6d91-4cba-b643-c700b5367bec.png"
+  },
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014098",
+   "name": "WILLIAMS, DEANE",
+   "alias": "WILLIAMS, DEANE",
+   "aliasRaw": "WILLIAMS, DEANE",
+   "passportName": "DEANE ALEXANDER",
+   "passportSurname": "WILLIAMS",
+   "jerseyName": "Williams",
+   "abbreviatedName": null,
+   "country": {
+    "code": "GBR",
+    "name": "United Kingdom"
+   },
+   "height": 203,
+   "weight": 102,
+   "birthDate": "1996-09-23T00:00:00",
+   "birthCountry": {
+    "code": "GBR",
+    "name": "United Kingdom"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-14T15:15:11.683",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "31",
+  "dorsalRaw": "31",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "BC LONDON LIONS",
+  "externalId": 56667,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/b22b80cd-0b52-4083-84ab-0eda34457d35.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/b22b80cd-0b52-4083-84ab-0eda34457d35.png"
+  },
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009649",
+   "name": "PHILLIP, TARIK",
+   "alias": "PHILLIP, TARIK",
+   "aliasRaw": "PHILLIP, TARIK",
+   "passportName": "TARIK TOBIAS",
+   "passportSurname": "PHILLIP",
+   "jerseyName": "PHILLIP",
+   "abbreviatedName": "Phillip, T.",
+   "country": {
+    "code": "UK ",
+    "name": "United Kingdom"
+   },
+   "height": 191,
+   "weight": 85,
+   "birthDate": "1993-08-10T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "t_r.e.x",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-14T15:15:11.428",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "22",
+  "dorsalRaw": "22",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "BC LONDON LIONS",
+  "externalId": 56666,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/c419edef-7b9f-4363-b494-1899292e2d5f.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/c419edef-7b9f-4363-b494-1899292e2d5f.png"
+  },
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014099",
+   "name": "RAI, AARYN",
+   "alias": "RAI, AARYN",
+   "aliasRaw": "RAI, AARYN",
+   "passportName": "AARYNDEEP SINGH",
+   "passportSurname": "RAI",
+   "jerseyName": "Rai",
+   "abbreviatedName": null,
+   "country": {
+    "code": "UK ",
+    "name": "United Kingdom"
+   },
+   "height": 197,
+   "weight": 97,
+   "birthDate": "1998-07-20T00:00:00",
+   "birthCountry": {
+    "code": "CAN",
+    "name": "Canada"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-14T15:15:11.054",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "21",
+  "dorsalRaw": "21",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "BC LONDON LIONS",
+  "externalId": 56665,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/9aa558bb-0065-41a1-9792-2f262feee6dd.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/9aa558bb-0065-41a1-9792-2f262feee6dd.png"
+  },
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011218",
+   "name": "EVANS, KEENAN",
+   "alias": "EVANS, KEENAN",
+   "aliasRaw": "EVANS, KEENAN",
+   "passportName": "KEENAN CORTEZ",
+   "passportSurname": "EVANS",
+   "jerseyName": "EVANS",
+   "abbreviatedName": "Evans, K.",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 191,
+   "weight": 86,
+   "birthDate": "1996-08-23T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "K3vans12",
+   "instagramAccount": "k3vans12/",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": false,
+  "startDate": "2026-09-14T15:15:10.61",
+  "endDate": "2026-10-23T09:24:46.923",
+  "order": 0,
+  "dorsal": "12",
+  "dorsalRaw": "12",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "OLYMPIACOS",
+  "externalId": 56664,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4pa/6de325b1-8e32-4075-b704-acea65d7b9f6.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4pa/6de325b1-8e32-4075-b704-acea65d7b9f6.png"
+  },
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014135",
+   "name": "PRICE, ETHAN",
+   "alias": "PRICE, ETHAN",
+   "aliasRaw": "PRICE, ETHAN",
+   "passportName": "ETHAN JACK",
+   "passportSurname": "PRICE",
+   "jerseyName": "Price",
+   "abbreviatedName": null,
+   "country": {
+    "code": "GBR",
+    "name": "United Kingdom"
+   },
+   "height": 206,
+   "weight": 108,
+   "birthDate": "2001-10-01T00:00:00",
+   "birthCountry": {
+    "code": "GBR",
+    "name": "United Kingdom"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-14T15:15:10.21",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "10",
+  "dorsalRaw": "10",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "BC LONDON LIONS",
+  "externalId": 56663,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/7d8bb7f5-9997-4d63-8cf2-58b905120d2e.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/7d8bb7f5-9997-4d63-8cf2-58b905120d2e.png"
+  },
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014391",
+   "name": "ZIBUDA, EMILIS",
+   "alias": "ZIBUDA, EMILIS",
+   "aliasRaw": "ZIBUDA, EMILIS",
+   "passportName": "EMILIS",
+   "passportSurname": "ZIBUDA",
+   "jerseyName": "Zibuda",
+   "abbreviatedName": null,
+   "country": {
+    "code": "UK ",
+    "name": "United Kingdom"
+   },
+   "height": 198,
+   "weight": 88,
+   "birthDate": "2008-02-12T00:00:00",
+   "birthCountry": {
+    "code": "UK ",
+    "name": "United Kingdom"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-14T15:15:09.944",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "8",
+  "dorsalRaw": "8",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "LONDON STARS",
+  "externalId": 56662,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/ae75e0aa-8913-4599-845d-c79d0214818d.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/ae75e0aa-8913-4599-845d-c79d0214818d.png"
+  },
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "004479",
+   "name": "SOLUADE, MO",
+   "alias": "Soluade",
+   "aliasRaw": "Soluade",
+   "passportName": "MORAYONINUOLUWA CHUKWUEMEKA",
+   "passportSurname": "SOLUADE",
+   "jerseyName": "SOLUADE",
+   "abbreviatedName": "Soluade, M.",
+   "country": {
+    "code": "GBR",
+    "name": "United Kingdom"
+   },
+   "height": 196,
+   "weight": 93,
+   "birthDate": "1995-07-12T00:00:00",
+   "birthCountry": {
+    "code": "UK ",
+    "name": "United Kingdom"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-14T15:15:09.608",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "6",
+  "dorsalRaw": "6",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "BC LONDON LIONS",
+  "externalId": 56661,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/30a76460-1379-47ac-834e-0d5c94fea509.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/30a76460-1379-47ac-834e-0d5c94fea509.png"
+  },
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013260",
+   "name": "JONES, DEVANTE",
+   "alias": "JONES, DEVANTE",
+   "aliasRaw": "JONES, DEVANTE",
+   "passportName": "DEVANTE GIANNI",
+   "passportSurname": "JONES",
+   "jerseyName": "JONES",
+   "abbreviatedName": "",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 183,
+   "weight": 91,
+   "birthDate": "1998-04-09T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-14T15:15:09.262",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "3",
+  "dorsalRaw": "3",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "TRENTO",
+  "externalId": 56660,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/59b477e4-de93-4f37-9c78-9a1540a1bdaf.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/59b477e4-de93-4f37-9c78-9a1540a1bdaf.png"
+  },
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014095",
+   "name": "SCOTT, JOEL",
+   "alias": "SCOTT, JOEL",
+   "aliasRaw": "SCOTT, JOEL",
+   "passportName": "JOEL ISAAC",
+   "passportSurname": "SCOTT",
+   "jerseyName": "Scott",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 201,
+   "weight": 107,
+   "birthDate": "2001-04-19T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-14T15:15:08.828",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "1",
+  "dorsalRaw": "1",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "LONDON LIONS",
+  "externalId": 56659,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/a77105ab-7aa6-4717-a29d-27198f8abab1.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/a77105ab-7aa6-4717-a29d-27198f8abab1.png"
+  },
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010179",
+   "name": "SABONIS, TAUTVYDAS",
+   "alias": "SABONIS, TAUTVYDAS",
+   "aliasRaw": "SABONIS, TAUTVYDAS",
+   "passportName": "TAUTVYDAS",
+   "passportSurname": "SABONIS",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "LTU",
+    "name": "Lithuania"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1992-05-01T00:00:00",
+   "birthCountry": {
+    "code": "ESP",
+    "name": "Spain"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "E",
+  "typeName": "Coach",
+  "active": true,
+  "startDate": "2026-09-08T10:58:57.276",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55946,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014114",
+   "name": "HANSON-MORRIS, MICHAEL",
+   "alias": "HANSON-MORRIS, MICHAEL",
+   "aliasRaw": "HANSON-MORRIS, MICHAEL",
+   "passportName": "MICHAEL JAMES",
+   "passportSurname": "HANSON-MORRIS",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1993-03-04T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-28T09:30:23.144",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55200,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012539",
+   "name": "WALTON, MATT",
+   "alias": "WALTON, MATTHEW",
+   "aliasRaw": "WALTON, MATTHEW",
+   "passportName": "MATTHEW RICHARD",
+   "passportSurname": "WALTON",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1983-11-15T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-28T09:30:22.959",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55199,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012538",
+   "name": "BIRCH, EMMA",
+   "alias": "BIRCH, EMMA",
+   "aliasRaw": "BIRCH, EMMA",
+   "passportName": "EMMA LOUISE",
+   "passportSurname": "BIRCH",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1997-05-31T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-28T09:30:22.789",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55198,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012537",
+   "name": "CUTTS, STEVE",
+   "alias": "CUTTS, STEPHEN",
+   "aliasRaw": "CUTTS, STEPHEN",
+   "passportName": "STEPHEN ALEXANDER",
+   "passportSurname": "CUTTS",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1975-10-27T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-28T09:30:22.606",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55197,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011762",
+   "name": "SHOREY, TONY",
+   "alias": "SHOREY, ANTHONY",
+   "aliasRaw": "SHOREY, ANTHONY",
+   "passportName": "ANTHONY CHARLES",
+   "passportSurname": "SHOREY",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1963-06-30T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-28T09:30:22.417",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55196,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011759",
+   "name": "OSUNSAMI, ABI",
+   "alias": "OSUNSAMI, OLADUNI",
+   "aliasRaw": "OSUNSAMI, OLADUNI",
+   "passportName": "OLADUNI ABIOLA JUMOKE",
+   "passportSurname": "OSUNSAMI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1980-10-07T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-28T09:30:22.226",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55195,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011758",
+   "name": "ALLAN, CARA",
+   "alias": "ALLAN, CARA",
+   "aliasRaw": "ALLAN, CARA",
+   "passportName": "CARA SARAH ELIZABETH",
+   "passportSurname": "ALLAN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1997-06-16T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-28T09:30:22.003",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55194,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011757",
+   "name": "LATCHEM, MARK",
+   "alias": "LATCHEM, MARK",
+   "aliasRaw": "LATCHEM, MARK",
+   "passportName": "MARK ANDREW",
+   "passportSurname": "LATCHEM",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1983-10-31T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-28T09:30:21.787",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55193,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011756",
+   "name": "GRAY, HAZEL",
+   "alias": "GRAY, HAZEL",
+   "aliasRaw": "GRAY, HAZEL",
+   "passportName": "HAZEL LOUISE",
+   "passportSurname": "GRAY",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1983-06-18T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-28T09:30:21.594",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55192,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011753",
+   "name": "WILLIAMS, SHAUN",
+   "alias": "WILLIAMS, SHAUN",
+   "aliasRaw": "WILLIAMS, SHAUN",
+   "passportName": "SHAUN AARON",
+   "passportSurname": "WILLIAMS",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1995-12-31T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-28T09:30:21.403",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55191,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009319",
+   "name": "TAUTKUS, DOMANTAS",
+   "alias": "TAUTKUS, DOMANTAS",
+   "aliasRaw": "TAUTKUS, DOMANTAS",
+   "passportName": "DOMANTAS",
+   "passportSurname": "TAUTKUS",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "LTU",
+    "name": "Lithuania"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1993-06-02T00:00:00",
+   "birthCountry": {
+    "code": "LTU",
+    "name": "Lithuania"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-08-25T10:19:14.654",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55069,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013825",
+   "name": "GODFREY, JORDAN",
+   "alias": "GODFREY, JORDAN",
+   "aliasRaw": "GODFREY, JORDAN",
+   "passportName": "JORDAN JAMES",
+   "passportSurname": "GODFREY",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "UK ",
+    "name": "United Kingdom"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1997-06-19T00:00:00",
+   "birthCountry": {
+    "code": "UK ",
+    "name": "United Kingdom"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-08-25T10:19:14.439",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55068,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013824",
+   "name": "HANSON-PARSONS, COURTENEY",
+   "alias": "HANSON-PARSONS, COURTENEY",
+   "aliasRaw": "HANSON-PARSONS, COURTENEY",
+   "passportName": "COURTENEY JORDAN",
+   "passportSurname": "HANSON-PARSONS",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "GBR",
+    "name": "United Kingdom"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1998-11-29T00:00:00",
+   "birthCountry": {
+    "code": "GBR",
+    "name": "United Kingdom"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-08-25T10:19:14.123",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55067,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013823",
+   "name": "AUSTIN, THOMAS",
+   "alias": "AUSTIN, THOMAS",
+   "aliasRaw": "AUSTIN, THOMAS",
+   "passportName": "THOMAS PETER",
+   "passportSurname": "AUSTIN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "GBR",
+    "name": "United Kingdom"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1999-03-11T00:00:00",
+   "birthCountry": {
+    "code": "GBR",
+    "name": "United Kingdom"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-08-25T10:19:13.91",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55066,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011893",
+   "name": "JOBSON, ELENA",
+   "alias": "JOBSON, ELENA",
+   "aliasRaw": "JOBSON, ELENA",
+   "passportName": "ELENA MAY",
+   "passportSurname": "JOBSON",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "UK ",
+    "name": "United Kingdom"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1993-01-21T00:00:00",
+   "birthCountry": {
+    "code": "UK ",
+    "name": "United Kingdom"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-08-25T10:19:13.706",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55065,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011892",
+   "name": "PAKRAVAN, AMIR",
+   "alias": "PAKRAVAN, AMIR",
+   "aliasRaw": "PAKRAVAN, AMIR",
+   "passportName": "AMIR HOSSEIN",
+   "passportSurname": "PAKRAVAN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "UK ",
+    "name": "United Kingdom"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1973-04-17T00:00:00",
+   "birthCountry": {
+    "code": "IRI",
+    "name": "Iran"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-08-25T10:19:13.461",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55064,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011891",
+   "name": "GUSIEV, ARTEM",
+   "alias": "GUSIEV, ARTEM",
+   "aliasRaw": "GUSIEV, ARTEM",
+   "passportName": "ARTEM",
+   "passportSurname": "GUSIEV",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "UKR",
+    "name": "Ukraine"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1989-05-22T00:00:00",
+   "birthCountry": {
+    "code": "UKR",
+    "name": "Ukraine"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "U",
+  "typeName": "Team_Manager",
+  "active": true,
+  "startDate": "2026-08-25T10:19:13.241",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55063,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014674",
+   "name": "PITKIN, MATTHEW",
+   "alias": "PITKIN, MATTHEW",
+   "aliasRaw": "PITKIN, MATTHEW",
+   "passportName": "MATTHEW JOHN",
+   "passportSurname": "PITKIN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "UK ",
+    "name": "United Kingdom"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1988-11-22T00:00:00",
+   "birthCountry": {
+    "code": "UK ",
+    "name": "United Kingdom"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-08-25T10:19:13.02",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55062,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011890",
+   "name": "JAMES, DANIEL",
+   "alias": "JAMES, DANIEL",
+   "aliasRaw": "JAMES, DANIEL",
+   "passportName": "DANIEL STEWART",
+   "passportSurname": "JAMES",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "UK ",
+    "name": "United Kingdom"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1991-07-29T00:00:00",
+   "birthCountry": {
+    "code": "UK ",
+    "name": "United Kingdom"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-08-25T10:19:12.558",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55060,
+  "images": {},
+  "club": {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ }
+]

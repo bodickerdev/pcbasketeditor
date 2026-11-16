@@ -1,0 +1,1358 @@
+{
+ "E": [
+  {
+   "code": "IST",
+   "name": "Anadolu Efes Istanbul",
+   "abbreviatedName": "Anadolu Efes",
+   "editorialName": "Efes",
+   "tvCode": "EFS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCxM/a844756c-a58d-4666-93b8-48f7337bc79d.png"
+   },
+   "sponsor": "Anadolu Efes Istanbul",
+   "clubPermanentName": "Anadolu Efes Istanbul",
+   "clubPermanentAlias": "Efes",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "address": "Kazliçesme Mahallesi 10. Yil Caddesi No : 9/1 Basketbol Gelisim Merkezi 34020, Istanbul, Turkiye",
+   "website": "https://www.anadoluefessk.org/",
+   "ticketsUrl": "https://www.anadoluefessk.org/en/tickets",
+   "twitterAccount": "AnadoluEfesSK",
+   "venueCode": "AVG",
+   "city": "ISTANBUL",
+   "president": "Tuncay Ozilhan",
+   "phone": "+90 212 449 38 84"
+  },
+  {
+   "code": "MIL",
+   "name": "Armani Olimpia Milan",
+   "abbreviatedName": "Milan",
+   "editorialName": "Milan",
+   "tvCode": "MIL",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/5c2f0ab6-f86a-4df0-b2f3-f9ab92f7267b.png"
+   },
+   "sponsor": "Armani Olimpia Milan",
+   "clubPermanentName": "EA7 Emporio Armani Milan",
+   "clubPermanentAlias": "Olimpia Milano",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "address": "Via Borgonuovo 11, 20121 Milan, Italy",
+   "website": "http://www.olimpiamilano.com",
+   "ticketsUrl": "http://www.olimpiamilano.com/ticketing/",
+   "twitterAccount": "OlimpiaMI1936",
+   "venueCode": "ASX",
+   "city": "Milan",
+   "president": "Pantaleo Dell’Orco",
+   "phone": "+39 0270001615 "
+  },
+  {
+   "code": "BES",
+   "name": "Besiktas Istanbul",
+   "abbreviatedName": "Besiktas",
+   "editorialName": "Besiktas",
+   "tvCode": "BJK",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/b05e3c54-e672-4b31-9f86-c91e9de7715c.png"
+   },
+   "sponsor": "Besiktas Istanbul",
+   "clubPermanentName": "Besiktas Istanbul",
+   "clubPermanentAlias": "Besiktas Istanbul",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "address": "Akat Mahallesi, Gelincik Sokak No.2 Besiktas/Istambul, Turkiye",
+   "website": "http://www.bjk.com.tr",
+   "ticketsUrl": "https://www.passo.com.tr/en/serie/besiktas-emlakjet-basketbol-2324-basketbol-kombine/465746",
+   "twitterAccount": "BJK_Basketbol",
+   "venueCode": "APX",
+   "city": "ISTANBUL",
+   "president": "Serdal Adali",
+   "phone": "+90 2122 836 600"
+  },
+  {
+   "code": "RED",
+   "name": "Crvena Zvezda Meridianbet Belgrade",
+   "abbreviatedName": "Crvena Zvezda",
+   "editorialName": "Crvena",
+   "tvCode": "CZV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/d2eef4a8-62df-4fdd-9076-276004268515.png"
+   },
+   "sponsor": "Crvena Zvezda Meridianbet Belgrade",
+   "clubPermanentName": "Crvena Zvezda Meridianbet Belgrade",
+   "clubPermanentAlias": "Crvena Zvezda",
+   "country": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "address": "Mali Kalemegdan 2, 11000 Belgrade, Serbia",
+   "website": "http://www.kkcrvenazvezda.rs/",
+   "ticketsUrl": "https://www.tickets.kkcrvenazvezda.rs/ ",
+   "twitterAccount": "kkcrvenazvezda",
+   "venueCode": "ATM",
+   "city": "BELGRADE",
+   "president": "Zeljko Drcelic",
+   "phone": "+381 116550549"
+  },
+  {
+   "code": "DUB",
+   "name": "Dubai Basketball",
+   "abbreviatedName": "Dubai",
+   "editorialName": "Dubai",
+   "tvCode": "DUB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1efae090-16e2-4963-ae47-4b94f249c244.png"
+   },
+   "sponsor": "Dubai Basketball",
+   "clubPermanentName": "Dubai Basketball",
+   "clubPermanentAlias": "Dubai Basketball",
+   "country": {
+    "code": "UAE",
+    "name": "United Arab Emirates"
+   },
+   "address": "Al Shoala Building 129, P.O Box-99903, Dubai, United Arab Emirates",
+   "website": "https://dubaibasketball.com/",
+   "ticketsUrl": "https://dubaibasketball.com/tickets/",
+   "twitterAccount": "dubaibasket",
+   "venueCode": "ACA",
+   "city": "Dubai",
+   "president": "Dejan Kamenjasevic",
+   "phone": "+971 42019501"
+  },
+  {
+   "code": "BAR",
+   "name": "FC Barcelona",
+   "abbreviatedName": "FC Barcelona",
+   "editorialName": "Barca",
+   "tvCode": "BAR",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/35dfa503-e417-481f-963a-bdf6f013763e.png"
+   },
+   "sponsor": "FC Barcelona",
+   "clubPermanentName": "FC Barcelona",
+   "clubPermanentAlias": "Barcelona",
+   "country": {
+    "code": "ESP",
+    "name": "Spain"
+   },
+   "address": "Aristides Maillol s/n, 08028 Barcelona, Spain",
+   "website": "https://www.fcbarcelona.com/sections/basketball",
+   "ticketsUrl": "https://www.fcbarcelona.com/tickets/basketball/basketball-tickets",
+   "twitterAccount": "FCBbasket",
+   "venueCode": "AMH",
+   "city": "BARCELONA",
+   "president": "Joan Laporta",
+   "phone": "+34 934963600"
+  },
+  {
+   "code": "MUN",
+   "name": "FC Bayern Munich",
+   "abbreviatedName": "Bayern Munich",
+   "editorialName": "Bayern",
+   "tvCode": "BAY",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/817b0e58-d595-4b09-ab0b-1e7cc26249ff.png"
+   },
+   "sponsor": "FC Bayern Munich",
+   "clubPermanentName": "FC Bayern Munich",
+   "clubPermanentAlias": "Bayern Munich",
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "address": "Siegenburger Strasse 45, 81373, Munich, Germany",
+   "website": "http://www.fcbayernbasketball.com/",
+   "ticketsUrl": "https://fc.bayern/Tickets-EuroLeague",
+   "twitterAccount": "FCBBasketball",
+   "venueCode": "AVE",
+   "city": "Munich",
+   "president": "Herbert Hainer",
+   "phone": "+49 8920057000"
+  },
+  {
+   "code": "ULK",
+   "name": "Fenerbahce Tarfin Istanbul",
+   "abbreviatedName": "Fenerbahce",
+   "editorialName": "Fenerbahce",
+   "tvCode": "FBT",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezrk/aa39750a-6203-49ee-a87d-edd0c6f0397d.png"
+   },
+   "sponsor": "Fenerbahce Tarfin Istanbul",
+   "clubPermanentName": "Fenerbahce Beko Istanbul",
+   "clubPermanentAlias": "Fenerbahce",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "address": "Barbaros Mahallesi, Ihlamur Sokak Bati Atasehir,34764 Istanbul, Turkiye",
+   "website": "http://www.fenerbahce.org/basketbolerkek/",
+   "ticketsUrl": "https://taraftarkart.fenerbahce.org/",
+   "twitterAccount": "FBBasketbol",
+   "venueCode": "AMY",
+   "city": "Istanbul",
+   "president": "Aziz Yildirim",
+   "phone": "+90 2166872424 "
+  },
+  {
+   "code": "HTA",
+   "name": "Hapoel IBI Tel Aviv",
+   "abbreviatedName": "Hapoel TLV",
+   "editorialName": "Hapoel",
+   "tvCode": "HTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png"
+   },
+   "sponsor": "Hapoel IBI Tel Aviv",
+   "clubPermanentName": "Hapoel Tel Aviv",
+   "clubPermanentAlias": "Hapoel Tel Aviv",
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "address": "Kehilat Saloniki 7, 6951307, Tel Aviv, Israel",
+   "website": "https://www.hapoeluta.org/",
+   "ticketsUrl": "",
+   "twitterAccount": "HapoelTLVBC",
+   "venueCode": "AQO",
+   "city": "Tel Aviv",
+   "president": "Tzhaki Reichenstein",
+   "phone": "+972 522229428"
+  },
+  {
+   "code": "BAS",
+   "name": "Kosner Baskonia Vitoria-Gasteiz",
+   "abbreviatedName": "Baskonia",
+   "editorialName": "Baskonia",
+   "tvCode": "KBA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png"
+   },
+   "sponsor": "Kosner Baskonia Vitoria-Gasteiz",
+   "clubPermanentName": "Saski Baskonia",
+   "clubPermanentAlias": "Baskonia",
+   "country": {
+    "code": "ESP",
+    "name": "Spain"
+   },
+   "address": "Avda De Los Olmos, 4, 01013,  Vitoria-Gasteiz, Spain",
+   "website": "http://www.baskonia.com",
+   "ticketsUrl": "https://entradas.baskonia.com/baskonia/events/47790",
+   "twitterAccount": "Baskonia",
+   "venueCode": "AUC",
+   "city": "VITORIA-GASTEIZ",
+   "president": "Jose Antonio Querejeta",
+   "phone": "+34 94 273400"
+  },
+  {
+   "code": "ASV",
+   "name": "LDLC ASVEL Villeurbanne",
+   "abbreviatedName": "LDLC ASVEL",
+   "editorialName": "ASVEL",
+   "tvCode": "ASV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png"
+   },
+   "sponsor": "LDLC ASVEL Villeurbanne",
+   "clubPermanentName": "LDLC ASVEL Villeurbanne",
+   "clubPermanentAlias": "ASVEL",
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "address": "Cours Emile Zola 451, 69100 Villeurbanne, France",
+   "website": "https://ldlcasvel.com/",
+   "ticketsUrl": "http://web.digitick.com/index-css5-asvel-pg1.html",
+   "twitterAccount": "LDLCASVEL",
+   "venueCode": "AUZ",
+   "city": "Lyon",
+   "president": "Tony Parker",
+   "phone": "+33 472141717"
+  },
+  {
+   "code": "TEL",
+   "name": "Maccabi Rapyd Tel Aviv",
+   "abbreviatedName": "Maccabi",
+   "editorialName": "Maccabi",
+   "tvCode": "MTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1b533342-78f5-4932-b714-a7d80b5826b5.png"
+   },
+   "sponsor": "Maccabi Rapyd Tel Aviv",
+   "clubPermanentName": "Maccabi Rapyd Tel Aviv",
+   "clubPermanentAlias": "Maccabi Tel Aviv",
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "address": "Yigal Alon 53, 6706206 Tel Aviv, Israel",
+   "website": "http://www.maccabi.co.il",
+   "ticketsUrl": "https://maccabi.co.il/tickets-2.asp?lang=en",
+   "twitterAccount": "MaccabitlvBC",
+   "venueCode": "AQO",
+   "city": "Tel Aviv",
+   "president": "Shimon Mizrahi",
+   "phone": "+972 36059333"
+  },
+  {
+   "code": "OLY",
+   "name": "Olympiacos Piraeus",
+   "abbreviatedName": "Olympiacos",
+   "editorialName": "Olympiacos",
+   "tvCode": "OLY",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png"
+   },
+   "sponsor": "Olympiacos Piraeus",
+   "clubPermanentName": "Olympiacos BC",
+   "clubPermanentAlias": "Olympiacos",
+   "country": {
+    "code": "GRE",
+    "name": "Greece"
+   },
+   "address": "Ethnarchou Makariou 1  Avenue,18547, Piraeus, Greece",
+   "website": "http://www.olympiacosbc.gr",
+   "ticketsUrl": "https://www.olympiacosbc.gr/el/tickets-el.html",
+   "twitterAccount": "Olympiacos_BC",
+   "venueCode": "ASF",
+   "city": "PIRAEUS",
+   "president": "Panagiotis and Georgios Angelopoulos",
+   "phone": "+30 2104527600"
+  },
+  {
+   "code": "PAN",
+   "name": "Panathinaikos AKTOR Athens",
+   "abbreviatedName": "Panathinaikos",
+   "editorialName": "Panathinaikos",
+   "tvCode": "PAO",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/e3dff28a-9ec6-4faf-9d96-ecbc68f75780.png"
+   },
+   "sponsor": "Panathinaikos AKTOR Athens",
+   "clubPermanentName": "Panathinaikos BC",
+   "clubPermanentAlias": "Panathinaikos",
+   "country": {
+    "code": "GRE",
+    "name": "Greece"
+   },
+   "address": "Karyatidon 16, Kifissia, 14564, Athens, Greece",
+   "website": "http://www.paobc.gr",
+   "ticketsUrl": "https://4gcaz.app.link/tickets",
+   "twitterAccount": "paobcgr",
+   "venueCode": "AUM",
+   "city": "ATHENS",
+   "president": "Vassilis Parthenopoulos",
+   "phone": "+30 2106107160"
+  },
+  {
+   "code": "PRS",
+   "name": "Paris Basketball",
+   "abbreviatedName": "Paris",
+   "editorialName": "Paris",
+   "tvCode": "PBB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png"
+   },
+   "sponsor": "Paris Basketball",
+   "clubPermanentName": "Paris Basketball",
+   "clubPermanentAlias": "Paris Basketball",
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "address": "81 Boulevard Massena, 75013, Paris, France",
+   "website": "https://parisbasketball.com/",
+   "ticketsUrl": "https://parisbasketball.com/billetterie/",
+   "twitterAccount": "ParisBasketball",
+   "venueCode": "AVB1",
+   "city": "Paris",
+   "president": "David Kahn",
+   "phone": "+33 689961370"
+  },
+  {
+   "code": "PAR",
+   "name": "Partizan Mozzart Bet Belgrade",
+   "abbreviatedName": "Partizan",
+   "editorialName": "Partizan",
+   "tvCode": "PAR",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png"
+   },
+   "sponsor": "Partizan Mozzart Bet Belgrade",
+   "clubPermanentName": "Partizan Mozzart Bet Belgrade",
+   "clubPermanentAlias": "Partizan",
+   "country": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "address": "Humska 1, 11040, Belgrade, Serbia",
+   "website": "http://www.kkpartizan.rs",
+   "ticketsUrl": "https://partizan.basketball/tickets",
+   "twitterAccount": "partizanbc",
+   "venueCode": "ATM",
+   "city": "BELGRADE",
+   "president": "Ostoja Mijailovic",
+   "phone": "+381 113690395"
+  },
+  {
+   "code": "MAD",
+   "name": "Real Madrid",
+   "abbreviatedName": "Real Madrid",
+   "editorialName": "Real",
+   "tvCode": "RMB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png"
+   },
+   "sponsor": "Real Madrid",
+   "clubPermanentName": "Real Madrid",
+   "clubPermanentAlias": "Real Madrid",
+   "country": {
+    "code": "ESP",
+    "name": "Spain"
+   },
+   "address": "Avenida De Las Fuerzas Armadas, 402, 28055, Madrid, Spain",
+   "website": "https://www.realmadrid.com/baloncesto",
+   "ticketsUrl": "http://www.realmadrid.com/entradas/baloncesto",
+   "twitterAccount": "RMBaloncesto",
+   "venueCode": "ATI",
+   "city": "Madrid",
+   "president": "Florentino Perez",
+   "phone": "+34 913984300"
+  },
+  {
+   "code": "PAM",
+   "name": "Valencia Basket",
+   "abbreviatedName": "Valencia",
+   "editorialName": "Valencia",
+   "tvCode": "VBC",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHL/bc3e00b2-fea4-40be-a7ec-1e633129bde3.png"
+   },
+   "sponsor": "Valencia Basket",
+   "clubPermanentName": "Valencia Basket",
+   "clubPermanentAlias": "Valencia",
+   "country": {
+    "code": "ESP",
+    "name": "Spain"
+   },
+   "address": "Angel Villena, 16 Accesorio, Roig Arena Puerta L1, 46013 Valencia, Spain",
+   "website": "http://www.valenciabasket.com/",
+   "ticketsUrl": "https://www.valenciabasket.com/ca/calendario?teamId=57&competitionId=14&place=home",
+   "twitterAccount": "valenciabasket",
+   "venueCode": "AVJ",
+   "city": "VALENCIA",
+   "president": "Vicente Jose Sola Sanz",
+   "phone": "+34 963957084"
+  },
+  {
+   "code": "VIR",
+   "name": "Virtus Bologna",
+   "abbreviatedName": "Virtus Bologna",
+   "editorialName": "Virtus",
+   "tvCode": "VIR",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvk/a92d4c3b-9f9c-4163-8a10-bcf8fc15893e.png"
+   },
+   "sponsor": "Virtus Bologna",
+   "clubPermanentName": "Virtus Bologna",
+   "clubPermanentAlias": "Virtus Bologna",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "address": "Via dell'Arcoveggio, 49/2, 40129 Bologna,  Italy",
+   "website": "https://www.virtus.it/",
+   "ticketsUrl": "https://www.virtus.it/acquisto-biglietti/",
+   "twitterAccount": "VirtusBo",
+   "venueCode": "AUK",
+   "city": "BOLOGNA",
+   "president": "Massimo Zanetti",
+   "phone": "+39 0514155911"
+  },
+  {
+   "code": "ZAL",
+   "name": "Zalgiris Kaunas",
+   "abbreviatedName": "Zalgiris",
+   "editorialName": "Zalgiris",
+   "tvCode": "ZAL",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/0aa09358-3847-4c4e-b228-3582ee4e536d.png"
+   },
+   "sponsor": "Zalgiris Kaunas",
+   "clubPermanentName": "Zalgiris Kaunas",
+   "clubPermanentAlias": "Zalgiris",
+   "country": {
+    "code": "LTU",
+    "name": "Lithuania"
+   },
+   "address": "Karaliaus Mindaugo 50, 44334 Kaunas, Lithuania",
+   "website": "http://www.zalgiris.lt",
+   "ticketsUrl": "https://zalgiris.koobin.com/?id_tipo_evento=3&utm_source=euroleague_web&utm_medium=referral",
+   "twitterAccount": "bczalgiris",
+   "venueCode": "ATJ",
+   "city": "Kaunas",
+   "president": "Paulius Jankunas",
+   "phone": "+370 61598636"
+  }
+ ],
+ "U": [
+  {
+   "code": "ARI",
+   "name": "Aris Thessaloniki",
+   "abbreviatedName": "Aris",
+   "editorialName": "Aris",
+   "tvCode": "ARI",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4tl/056002af-8da9-4134-b3b6-8d3ac5e8945b.png"
+   },
+   "sponsor": "Aris Thessaloniki",
+   "clubPermanentName": "Aris Thessaloniki",
+   "clubPermanentAlias": "Aris Thessaloniki",
+   "country": {
+    "code": "GRE",
+    "name": "Greece"
+   },
+   "address": "Grigoriou Lambraki 2, 54636 Thessaloniki, Greece",
+   "website": "https://arisbasketball.com",
+   "ticketsUrl": "https://arisbasketball.com/en/tickets-en",
+   "twitterAccount": "",
+   "venueCode": "AFZ",
+   "city": "Thessaloniki",
+   "president": "Charilaos Papageorgiou",
+   "phone": "+30 2310265600"
+  },
+  {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   },
+   "sponsor": "Baglietto Derthona Tortona",
+   "clubPermanentName": "Baglietto Derthona Tortona",
+   "clubPermanentAlias": "Baglietto Derthona Tortona",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "address": "Strada Comunale Bosco S/N, Tortona, 15057, Italy",
+   "website": "https://www.derthonabasket.it/",
+   "ticketsUrl": "",
+   "twitterAccount": "DerthonaBasket",
+   "venueCode": "AIF",
+   "city": "Tortona",
+   "president": "Picchi Marco",
+   "phone": ""
+  },
+  {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   },
+   "sponsor": "Bahcesehir College Istanbul",
+   "clubPermanentName": "Bahcesehir Koleji Istanbul",
+   "clubPermanentAlias": "Bahcesehir Koleji Istanbul",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "address": "Abbasaga Mh. Ihlamur Yildiz CD. No:10 Kat:9, Besiktas/Istanbul, Turkiye",
+   "website": "https://bahcesehirsporkulubu.org/",
+   "ticketsUrl": "https://mobilet.com/tr/event/bahcesehir-koleji-2024-2025-kombine-34867/",
+   "twitterAccount": "BKBasketbol",
+   "venueCode": "AUT",
+   "city": "Istanbul",
+   "president": "Begüm Yücel",
+   "phone": "+90 216 2660976"
+  },
+  {
+   "code": "BLK",
+   "name": "Balkan Botevgrad",
+   "abbreviatedName": "Balkan",
+   "editorialName": "Balkan",
+   "tvCode": "BLK",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/ba6e2d99-3ea9-4730-a0ce-830cccca4657.png"
+   },
+   "sponsor": "Balkan Botevgrad",
+   "clubPermanentName": "Balkan Botevgrad",
+   "clubPermanentAlias": "Balkan Botevgrad",
+   "country": {
+    "code": "BUL",
+    "name": "Bulgaria"
+   },
+   "address": "2 Zahari Stoyanov Str, Botevgrad, 2140, Bulgaria",
+   "website": "https://balkan-basket.com/en",
+   "ticketsUrl": "https://balkan-basket.com/en/tickets/list",
+   "twitterAccount": "",
+   "venueCode": "AVN",
+   "city": "Botevgrad",
+   "president": "Sashko Vezenkov",
+   "phone": ""
+  },
+  {
+   "code": "BOS",
+   "name": "BOSNA BH Telecom Sarajevo",
+   "abbreviatedName": "BOSNA",
+   "editorialName": "BOSNA",
+   "tvCode": "BOS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOJl/0024f0d4-55d9-4ed0-be41-68c0e90c41d5.png"
+   },
+   "sponsor": "BOSNA BH Telecom Sarajevo",
+   "clubPermanentName": "Bosna Sarajevo",
+   "clubPermanentAlias": "BOSNA SARAJEVO",
+   "country": {
+    "code": "BIH",
+    "name": "Bosnia and Herzegovina"
+   },
+   "address": "Hamze Hume 2<br>71000 Sarajevo, Bosnia-Herzegovina",
+   "website": "https://kkbosna.ba/",
+   "ticketsUrl": "",
+   "twitterAccount": "",
+   "venueCode": "AHX",
+   "city": "Sarajevo",
+   "president": "Nihad Selimović",
+   "phone": "+387 33 445 900"
+  },
+  {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   },
+   "sponsor": "Buducnost VOLI Podgorica",
+   "clubPermanentName": "KK Buducnost",
+   "clubPermanentAlias": "Buducnost",
+   "country": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "address": "Ivana Milutinovica, 81000 Podgorica, Montenegro",
+   "website": "http://www.kkbuducnost.me/",
+   "ticketsUrl": "https://www.kkbuducnost.me/",
+   "twitterAccount": "KKBuducnostVOLI",
+   "venueCode": "AUA",
+   "city": "Podgorica",
+   "president": "Dragan Bokan",
+   "phone": "+382 20664225"
+  },
+  {
+   "code": "LJU",
+   "name": "Cedevita Olimpija Ljubljana",
+   "abbreviatedName": "Cedevita Olimp",
+   "editorialName": "Cedevita Olimpija",
+   "tvCode": "COL",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/73b33d13-570e-4e49-a9cb-fe806831eaa7.png"
+   },
+   "sponsor": "Cedevita Olimpija Ljubljana",
+   "clubPermanentName": "KK Cedevita Olimpija",
+   "clubPermanentAlias": "Olimpija",
+   "country": {
+    "code": "SLO",
+    "name": "Slovenia"
+   },
+   "address": "Vojkova Cesta 100, 1000 Ljubljana, Slovenia",
+   "website": "http://www.cedevita.olimpija.com/",
+   "ticketsUrl": "https://vstopnice.olimpija.com/cedevitaolimpija/si/isci/?country=SVN&lang=si",
+   "twitterAccount": "KKCedOL",
+   "venueCode": "AKX",
+   "city": "Ljubljana",
+   "president": "Emil Tedeschi",
+   "phone": "+386 31810921"
+  },
+  {
+   "code": "BOU",
+   "name": "Cosea JL Bourg-en-Bresse",
+   "abbreviatedName": "Cosea JL Bourg",
+   "editorialName": "Bourg",
+   "tvCode": "JLB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/d4225e1b-7c1b-4382-98d4-ca8511c64441.png"
+   },
+   "sponsor": "Cosea JL Bourg-en-Bresse",
+   "clubPermanentName": "JL Bourg",
+   "clubPermanentAlias": "JL Bourg",
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "address": "25 Avenue Marechal Juin, 01000 Bourg en Bresse, France",
+   "website": "https://www.jlbourg-basket.com/",
+   "ticketsUrl": "https://jlbourg-basket.billetterie-club.fr/home",
+   "twitterAccount": "JLBourgBasket",
+   "venueCode": "AUJ",
+   "city": "Bourg-en-Bresse",
+   "president": "Julien Desbottes",
+   "phone": "+33 474246478"
+  },
+  {
+   "code": "TRN",
+   "name": "Dolomiti Energia Trento",
+   "abbreviatedName": "Trento",
+   "editorialName": "Trento",
+   "tvCode": "TRE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCcz1CG/e4ce6137-6d3f-4072-9480-c0b9a9cd617d.png"
+   },
+   "sponsor": "Dolomiti Energia Trento",
+   "clubPermanentName": "Dolomiti Energia Trento",
+   "clubPermanentAlias": "Dolomiti Energia Trento",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "address": "Via Adalberto Libera 13, 38121 Trento, Italy",
+   "website": "http://www.aquilabasket.it/",
+   "ticketsUrl": "https://aquilabasket.vivaticket.it/",
+   "twitterAccount": "AquilaBasketTN",
+   "venueCode": "ATS",
+   "city": "Trento",
+   "president": "Luigi Longhi",
+   "phone": "+39 0461931035"
+  },
+  {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   },
+   "sponsor": "Hapoel Midtown Jerusalem",
+   "clubPermanentName": "Hapoel  Midtown Jerusalem",
+   "clubPermanentAlias": "Hapoel  Midtown Jerusalem",
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "address": "Cosell Center, Givat Ram, Jerusalem Po.Box 39236 Zip Code 9139102, Israel",
+   "website": "http://www.hapoel.co.il",
+   "ticketsUrl": "https://tickets.hapoel.co.il/subscriptions/%D7%9E%D7%A0%D7%95%D7%99%20%D7%94%D7%A4%D7%95%D7%A2%D7%9C%20%D7%99%D7%A8%D7%95%D7%A9%D7%9C%D7%99%D7%9D%202015-16?hallmap",
+   "twitterAccount": "JerusalemBasket",
+   "venueCode": "ASZ",
+   "city": "JERUSALEM",
+   "president": "Matan Adelson",
+   "phone": "+972 2 624144"
+  },
+  {
+   "code": "MAN",
+   "name": "Kids&Us Manresa",
+   "abbreviatedName": "K&U Manresa",
+   "editorialName": "Manresa",
+   "tvCode": "MAN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/06792bed-0383-4de2-80b9-95ecca3fd973.png"
+   },
+   "sponsor": "Kids&Us Manresa",
+   "clubPermanentName": "Kids&Us Manresa ",
+   "clubPermanentAlias": "Kids&Us Manresa ",
+   "country": {
+    "code": "ESP",
+    "name": "Spain"
+   },
+   "address": "Pavello Nou Congost, Carretera Sant Joan S/N, Manresa, Spain",
+   "website": "https://www.basquetmanresa.com/en/",
+   "ticketsUrl": "https://www.basquetmanresa.com/en/tickets-abonaments/",
+   "twitterAccount": "BasquetManresa",
+   "venueCode": "AVM",
+   "city": "Manresa",
+   "president": "Josep M. Herms Canellas",
+   "phone": "+34 938721503"
+  },
+  {
+   "code": "TNF",
+   "name": "La Laguna Tenerife",
+   "abbreviatedName": "LL Tenerife",
+   "editorialName": "La Laguna Tenerife",
+   "tvCode": "LLT",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/59bf7582-6c0b-4e14-bce6-1380aad90f34.png"
+   },
+   "sponsor": "La Laguna Tenerife",
+   "clubPermanentName": "La Laguna Tenerife",
+   "clubPermanentAlias": "La Laguna Tenerife",
+   "country": {
+    "code": "ESP",
+    "name": "Spain"
+   },
+   "address": "Calle Mercedes - Pabellon Santiago Martin, La Laguna, 38108, Spain",
+   "website": "https://cbcanarias.net/",
+   "ticketsUrl": "https://www.bacantix.com/Entradas/Default.aspx?id=cbcanarias",
+   "twitterAccount": "cb1939canarias",
+   "venueCode": "AID",
+   "city": "Tenerife",
+   "president": "Aniano Cabrera",
+   "phone": "+34 922253684"
+  },
+  {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   },
+   "sponsor": "Le Mans Sarthe Basket",
+   "clubPermanentName": "Le Mans Sarthe Basket",
+   "clubPermanentAlias": "Le Mans",
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "address": "Rue Juan Manuel Fangio, Le Mans 72100, France",
+   "website": "https://www.msb.fr/",
+   "ticketsUrl": "https://www.msb.fr/index.php/billetterie",
+   "twitterAccount": "msb_officiel",
+   "venueCode": "ACU",
+   "city": "Le Mans",
+   "president": "Christophe Le Bouille",
+   "phone": "+33 243502180"
+  },
+  {
+   "code": "LKB",
+   "name": "Lietkabelis Panevezys",
+   "abbreviatedName": "Lietkabelis",
+   "editorialName": "Lietkabelis",
+   "tvCode": "LIE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/ffcb6e37-31f4-48f6-91c2-a8c9a6f791a9.png"
+   },
+   "sponsor": "Lietkabelis Panevezys",
+   "clubPermanentName": "Lietkabelis Panevezys ",
+   "clubPermanentAlias": "Lietkabelis Panevezys ",
+   "country": {
+    "code": "LTU",
+    "name": "Lithuania"
+   },
+   "address": "J. Janonio st. 4,  LT-35101, Panevėžys, Lithuania",
+   "website": "http://www.kklietkabelis.lt/",
+   "ticketsUrl": "https://kakava.lt/lietkabelis",
+   "twitterAccount": "bclietkabelis",
+   "venueCode": "ASS",
+   "city": "Panevezys ",
+   "president": "Alvydas Bieliauskas",
+   "phone": "+370 63082129"
+  },
+  {
+   "code": "LLI",
+   "name": "London Lions",
+   "abbreviatedName": "London",
+   "editorialName": "London",
+   "tvCode": "LDN",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png"
+   },
+   "sponsor": "London Lions",
+   "clubPermanentName": "London Lions",
+   "clubPermanentAlias": "London Lions",
+   "country": {
+    "code": "GBR",
+    "name": "United Kingdom"
+   },
+   "address": "28 Easton Street, London, United Kingdom",
+   "website": "https://www.thelondonlions.com/",
+   "ticketsUrl": "https://www.thelondonlions.com/fixtures",
+   "twitterAccount": "LondonLions",
+   "venueCode": "AUW",
+   "city": "London",
+   "president": "Lenz Balan",
+   "phone": ""
+  },
+  {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   },
+   "sponsor": "Maxima Roma",
+   "clubPermanentName": "MAXIMA ROMA",
+   "clubPermanentAlias": "MAXIMA ROMA",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "address": "Via Verona 9, Roma, 00161, Italy",
+   "website": "https://www.maximaroma.it/",
+   "ticketsUrl": "https://www.vivaticket.com/it/artist/maxima-roma-basket/101806",
+   "twitterAccount": "maxima_roma",
+   "venueCode": "ACS",
+   "city": "Roma",
+   "president": "Paul A. Matiasic",
+   "phone": "+39 0685356536"
+  },
+  {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   },
+   "sponsor": "Napoli Basketball",
+   "clubPermanentName": "Napoli Basket",
+   "clubPermanentAlias": "Napoli",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "address": "Viale Giochi Del Mediterraneo SNC, Napoli, 80125, Italy",
+   "website": "https://www.napolibasketball.com",
+   "ticketsUrl": "https://www.napolibasketball.com/en/ticketing",
+   "twitterAccount": "basket_napoli",
+   "venueCode": "AIB",
+   "city": "Napoli",
+   "president": "Matthew Christopher Rizzetta",
+   "phone": "+39 2933303601"
+  },
+  {
+   "code": "KLA",
+   "name": "Neptunas Klaipeda",
+   "abbreviatedName": "Neptunas",
+   "editorialName": "Neptunas",
+   "tvCode": "NEP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/ed0df5cd-c9e4-4387-bcd4-3606270cd255.png"
+   },
+   "sponsor": "Neptunas Klaipeda",
+   "clubPermanentName": "Neptunas Klaipeda",
+   "clubPermanentAlias": "Neptunas Klaipeda",
+   "country": {
+    "code": "LTU",
+    "name": "Lithuania"
+   },
+   "address": "Dubysos G. 60-7, Klaipeda, LT-94107, Lithuania",
+   "website": "https://bcneptunas.lt/",
+   "ticketsUrl": "https://kakava.lt/klaipedos-neptuno-renginiai",
+   "twitterAccount": "",
+   "venueCode": "AOL",
+   "city": " Klaipeda",
+   "president": "Martynas Mazeika",
+   "phone": "+370 63981152"
+  },
+  {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   },
+   "sponsor": "NINERS Chemnitz",
+   "clubPermanentName": "NINERS Chemnitz",
+   "clubPermanentAlias": "NINERS Chemnitz",
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "address": "Annaberger Strabe, 104, 09120, Chemnitz, Germany",
+   "website": "https://www.chemnitz99.de/",
+   "ticketsUrl": "https://www.chemnitz99.de/tickets",
+   "twitterAccount": "ninerschemnitz",
+   "venueCode": "AVL",
+   "city": "Chemnitz",
+   "president": "Sven Böttger",
+   "phone": "+49 37133564100"
+  },
+  {
+   "code": "PAO",
+   "name": "PAOK Thessaloniki",
+   "abbreviatedName": "PAOK",
+   "editorialName": "PAOK",
+   "tvCode": "PBC",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/0506e7c4-ec4b-460a-bc59-b033ad9e336c.png"
+   },
+   "sponsor": "PAOK Thessaloniki",
+   "clubPermanentName": "PAOK Thessaloniki",
+   "clubPermanentAlias": "PAOK Thessaloniki",
+   "country": {
+    "code": "GRE",
+    "name": "Greece"
+   },
+   "address": "Antoni Tritsi 12 St. POBOX 21069<br> 55510 Thessaloniki, Greece",
+   "website": "http://www.paokbc.gr",
+   "ticketsUrl": "https://www.paokbc.gr/en/tickets/season-tickets",
+   "twitterAccount": "PAOKbasketball",
+   "venueCode": "AAI",
+   "city": "THESSALONIKI",
+   "president": "Ioannis Petmezas",
+   "phone": "+30 231 047 25 51"
+  },
+  {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   },
+   "sponsor": "ratiopharm ulm",
+   "clubPermanentName": "ratiopharm ulm",
+   "clubPermanentAlias": "ratiopharm ulm",
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "address": "Wiblinger Strasse 37, 89231 Neu-Ulm, Germany",
+   "website": "http://www.basketball-ulm.com/",
+   "ticketsUrl": "https://www.eventimsports.de/ols/ratiopharmulm/de",
+   "twitterAccount": "ratiopharmulm",
+   "venueCode": "ATE",
+   "city": "Ulm",
+   "president": "Andreas Oettel",
+   "phone": "+49 731 / 159 299 90"
+  },
+  {
+   "code": "BGS",
+   "name": "Recoletas Salud San Pablo Burgos",
+   "abbreviatedName": "Burgos",
+   "editorialName": "Burgos",
+   "tvCode": "BUR",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCxM/40c97670-177e-4c74-9f5f-76b528a0da86.png"
+   },
+   "sponsor": "Recoletas Salud San Pablo Burgos",
+   "clubPermanentName": "Recoletas Salud San Pablo Burgos",
+   "clubPermanentAlias": "Recoletas Salud San Pablo Burgos",
+   "country": {
+    "code": "ESP",
+    "name": "Spain"
+   },
+   "address": "Avenida de la Paz 7, Bajo, Burgos, 09004, Spain\t",
+   "website": "https://www.sanpabloburgos.com/",
+   "ticketsUrl": "https://www.sanpabloburgos.com/es/proximos-partidos",
+   "twitterAccount": "sanpabloburgos",
+   "venueCode": "AII",
+   "city": "Burgos",
+   "president": "Felix Sancho Arnaiz",
+   "phone": "+34 609136756"
+  },
+  {
+   "code": "RIG",
+   "name": "Riga Zelli",
+   "abbreviatedName": "Riga Zelli",
+   "editorialName": "Riga Zelli",
+   "tvCode": "RIG",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/0ab8fe2a-5972-48c5-bdff-f5159ca0abe7.png"
+   },
+   "sponsor": "Riga Zelli",
+   "clubPermanentName": "Riga Zelli",
+   "clubPermanentAlias": "Riga Zelli",
+   "country": {
+    "code": "LAT",
+    "name": "Latvia"
+   },
+   "address": "Strelnieku 5-42, Riga, LV1010, Latvia",
+   "website": "https://rigaszelli.lv/",
+   "ticketsUrl": "",
+   "twitterAccount": "rigaszelli",
+   "venueCode": "AIC",
+   "city": "Riga",
+   "president": "Edgars Buls",
+   "phone": "+371 29438589"
+  },
+  {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   },
+   "sponsor": "Roma Basketball",
+   "clubPermanentName": "ROMA BASKETBALL",
+   "clubPermanentAlias": "ROMA BASKETBALL",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "address": "Via Antonio Bertoloni 26, Roma, 00197, Italy",
+   "website": "https://www.basketroma.com/",
+   "ticketsUrl": "",
+   "twitterAccount": "BasketRoma",
+   "venueCode": "AJK",
+   "city": "Roma",
+   "president": "Donnie Nelson",
+   "phone": "+39 335282223"
+  },
+  {
+   "code": "RTK",
+   "name": "Rostock Seawolves",
+   "abbreviatedName": " Rostock",
+   "editorialName": " Rostock",
+   "tvCode": "ROS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/de14cdb9-c0f7-485f-84ac-f305ace44723.png"
+   },
+   "sponsor": "Rostock Seawolves",
+   "clubPermanentName": "ROSTOCK SEAWOLVES",
+   "clubPermanentAlias": "ROSTOCK SEAWOLVES",
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "address": "Am Strande 3, Rostock 18055, Germany",
+   "website": "https://seawolves.de/",
+   "ticketsUrl": "https://rostockseawolves.reservix.de/?_gl=1*i0haqw*_ga*MTEyMjQ3NjU1OC4xNzgxNTMyNzgw*_ga_YDM8TV1K24*czE3ODE1MzI3NzkkbzEkZzAkdDE3ODE1MzI3NzkkajYwJGwwJGgw",
+   "twitterAccount": "",
+   "venueCode": "AIH",
+   "city": "Rostock",
+   "president": "Andre Juergens",
+   "phone": "+49 38120261141"
+  },
+  {
+   "code": "SIA",
+   "name": "Siauliai Basketball",
+   "abbreviatedName": "Siauliai ",
+   "editorialName": "Siauliai ",
+   "tvCode": "SIA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/55a49aa3-e91f-45cc-88d0-670896ce5825.png"
+   },
+   "sponsor": "Siauliai Basketball",
+   "clubPermanentName": "Siauliai",
+   "clubPermanentAlias": "Siauliai",
+   "country": {
+    "code": "LTU",
+    "name": "Lithuania"
+   },
+   "address": "Vilniaus G. LT-76251,Siauliai, Lithuania",
+   "website": "https://bcsiauliai.lt/titulinis-vyru/",
+   "ticketsUrl": "https://kakava.lt/renginys/kk-siauliai-2026-2027-m-sezono-geltonai-juodu-klubo-naryste/11953/24661",
+   "twitterAccount": "",
+   "venueCode": "AHP",
+   "city": "Siauliai",
+   "president": "Arturas Nacickas",
+   "phone": "+370 60003030"
+  },
+  {
+   "code": "FRA",
+   "name": "Skyliners Frankfurt",
+   "abbreviatedName": "Skyliners",
+   "editorialName": "Skyliners",
+   "tvCode": "SKY",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/6afb32b8-e6dc-4f79-b14a-2d99fdb34cde.png"
+   },
+   "sponsor": "Skyliners Frankfurt",
+   "clubPermanentName": "Skyliners Frankfurt",
+   "clubPermanentAlias": "Skyliners Frankfurt",
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "address": "Walter-Moller-Platz 2, Frankfurt 60439, Germany ",
+   "website": "https://www.frankfurt-skyliners.de/home",
+   "ticketsUrl": "https://www.frankfurt-skyliners.de/tickets",
+   "twitterAccount": "skyliners1999",
+   "venueCode": "ATN",
+   "city": "Frankfurt",
+   "president": "Stefan Suring",
+   "phone": "+49 204195900"
+  },
+  {
+   "code": "WRO",
+   "name": "Slask Wroclaw",
+   "abbreviatedName": "Slask",
+   "editorialName": "Slask",
+   "tvCode": "WKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/0415061b-5374-4a0d-bc04-8fcbc8ad0bb3.png"
+   },
+   "sponsor": "Slask Wroclaw",
+   "clubPermanentName": "WKS Slask Wroclaw",
+   "clubPermanentAlias": "Slask Wroclaw",
+   "country": {
+    "code": "POL",
+    "name": "Poland"
+   },
+   "address": "Ul. Mieszczanska 4, 50-201 Wroclaw, Poland \n",
+   "website": "http://wks-slask.eu/",
+   "ticketsUrl": "http://wks-slask.eu/kup-bilet/",
+   "twitterAccount": "WKS_SlaskBasket",
+   "venueCode": "ACQ",
+   "city": "Wroclaw",
+   "president": "Karolina Pokorska",
+   "phone": "+48 717981050"
+  },
+  {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   },
+   "sponsor": "Tofas Bursa",
+   "clubPermanentName": "Tofas Bursa",
+   "clubPermanentAlias": "Tofas Bursa",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "address": "Istanbul Cad. NO:574 Demirtas Osmangazi, 16245 Bursa, Turkiye",
+   "website": "http://tofasspor.com/",
+   "ticketsUrl": "",
+   "twitterAccount": "tofassporkulubu",
+   "venueCode": "ATG",
+   "city": "Bursa",
+   "president": "Cengiz Eroldu",
+   "phone": "+90 5326807525"
+  },
+  {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   },
+   "sponsor": "Turk Telekom Ankara",
+   "clubPermanentName": "Turk Telekom Ankara",
+   "clubPermanentAlias": "Turk Telekom Ankara",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "address": "Turgut Ozal Bulvari, 06130 Ankara, Turkiye",
+   "website": "http://www.turktelekomspor.com.tr/basketbol",
+   "ticketsUrl": "https://turktelekombasketbol.com.tr/iletisim-bilgileri",
+   "twitterAccount": "TT_Basketbol",
+   "venueCode": "ATT",
+   "city": "Ankara",
+   "president": "Savtekin Senturk",
+   "phone": "+90 05066816926"
+  },
+  {
+   "code": "CLU",
+   "name": "U-BT Cluj-Napoca",
+   "abbreviatedName": "U-BT Cluj",
+   "editorialName": "Cluj",
+   "tvCode": "UBT",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/ae3e2844-0615-41bb-a788-a4f0d54b8d5e.png"
+   },
+   "sponsor": "U-BT Cluj-Napoca",
+   "clubPermanentName": "U-BT Cluj-Napoca",
+   "clubPermanentAlias": "U-BT Cluj-Napoca",
+   "country": {
+    "code": "ROU",
+    "name": "Romania"
+   },
+   "address": "6 Splaiul Independentei, 400376 Cluj-Napoca, Romania",
+   "website": "https://www.u-bt.ro/",
+   "ticketsUrl": "https://bilete.u-bt.ro/",
+   "twitterAccount": "ubtcluj",
+   "venueCode": "AUV",
+   "city": "Cluj-Napoca",
+   "president": "Marius Bojita",
+   "phone": "+40 364265326"
+  },
+  {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   },
+   "sponsor": "Umana Reyer Venice",
+   "clubPermanentName": "Umana Reyer Venice",
+   "clubPermanentAlias": "Umana Reyer Venice",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "address": "Via Colombara 113, 30176 Marghera VE, Italy",
+   "website": "http://www.reyer.it/",
+   "ticketsUrl": "https://www.reyer.it/biglietterie/",
+   "twitterAccount": "REYER1872",
+   "venueCode": "ARE",
+   "city": "Venezia Mestre",
+   "president": "Federico Casarin",
+   "phone": "+39 0415351017"
+  }
+ ]
+}

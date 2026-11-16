@@ -1,0 +1,2267 @@
+[
+ {
+  "person": {
+   "code": "015264",
+   "name": "ROETH, ALICIA",
+   "alias": "ROETH, ALICIA",
+   "aliasRaw": "ROETH, ALICIA",
+   "passportName": "ALICIA",
+   "passportSurname": "ROETH",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1999-04-28T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-10-19T07:37:26.152",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57091,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015234",
+   "name": "FAILENSCHMID, NIL",
+   "alias": "FAILENSCHMID, NIL",
+   "aliasRaw": "FAILENSCHMID, NIL",
+   "passportName": "NIL",
+   "passportSurname": "FAILENSCHMID CLAVERA",
+   "jerseyName": "Failenschmid",
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 204,
+   "weight": 95,
+   "birthDate": "2005-10-25T00:00:00",
+   "birthCountry": {
+    "code": "ESP",
+    "name": "Spain"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-25T11:03:23.192",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "15",
+  "dorsalRaw": "15",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "KIRCHHEIM KNIGHTS",
+  "externalId": 57016,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/61e85a8a-a35c-4b99-94b2-817c7639aee5.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/61e85a8a-a35c-4b99-94b2-817c7639aee5.png"
+  },
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014105",
+   "name": "BOL, JUOM MAKER",
+   "alias": "BOL MEEN, JUOM MAKER",
+   "aliasRaw": "BOL MEEN, JUOM MAKER",
+   "passportName": "JUOM MAKER",
+   "passportSurname": "BOL MEEN",
+   "jerseyName": "BOL",
+   "abbreviatedName": null,
+   "country": {
+    "code": "ESP",
+    "name": "Spain"
+   },
+   "height": 208,
+   "weight": 91,
+   "birthDate": "2008-11-08T00:00:00",
+   "birthCountry": {
+    "code": "SSD",
+    "name": "South Sudan"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-25T10:42:46.091",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "58",
+  "dorsalRaw": "58",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "SASKI BASKONIA",
+  "externalId": 57014,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4te/3f0e093e-5c3e-4fd5-a850-06566123cc0b.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4te/3f0e093e-5c3e-4fd5-a850-06566123cc0b.png"
+  },
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015230",
+   "name": "HECKEL, MARVIN",
+   "alias": "HECKEL, MARVIN",
+   "aliasRaw": "HECKEL, MARVIN",
+   "passportName": "MARVIN MOMO",
+   "passportSurname": "HECKEL",
+   "jerseyName": "Heckel",
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 190,
+   "weight": 90,
+   "birthDate": "1997-05-10T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-24T11:35:10.609",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "47",
+  "dorsalRaw": "47",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "SPORTCLUB KREFELD",
+  "externalId": 57008,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4pW/9d1ea898-2f04-4e84-8cbf-6fa1d530a93d.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4pW/9d1ea898-2f04-4e84-8cbf-6fa1d530a93d.png"
+  },
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009659",
+   "name": "DORNACHER, DANIEL",
+   "alias": "DORNACHER, DANIEL",
+   "aliasRaw": "DORNACHER, DANIEL",
+   "passportName": "DANIEL",
+   "passportSurname": "DR. DORNACHER",
+   "jerseyName": "",
+   "abbreviatedName": "Dornacher, D.",
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1974-06-23T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-24T11:16:11.689",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57002,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012549",
+   "name": "BAIER , BRITTA",
+   "alias": "BAIER , BRITTA",
+   "aliasRaw": "BAIER , BRITTA",
+   "passportName": "BRITTA PATRICIA",
+   "passportSurname": "DR. BAIER",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1978-08-19T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-24T11:16:11.507",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57001,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012534",
+   "name": "ANGENENDT, MAX",
+   "alias": "ANGENENDT, MAX",
+   "aliasRaw": "ANGENENDT, MAX",
+   "passportName": "MAX",
+   "passportSurname": "DR. ANGENENDT",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1993-11-23T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-24T11:16:11.324",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57000,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015219",
+   "name": "ANTHONY JR., CJ",
+   "alias": "ANTHONY JR., CJ",
+   "aliasRaw": "ANTHONY JR., CJ",
+   "passportName": "CHRISTOPHER MASEAN",
+   "passportSurname": "ANTHONY JR.",
+   "jerseyName": "Anthony Jr.",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 186,
+   "weight": 90,
+   "birthDate": "2002-02-16T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-23T13:23:39.196",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "25",
+  "dorsalRaw": "25",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "IONA  UNIVERSITY",
+  "externalId": 56985,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4pW/0a3cae1d-0406-477e-9233-3ca1e3435cbc.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4pW/0a3cae1d-0406-477e-9233-3ca1e3435cbc.png"
+  },
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009193",
+   "name": "KOROMA, DWAYNE",
+   "alias": "KOROMA, DWAYNE",
+   "aliasRaw": "KOROMA, DWAYNE",
+   "passportName": "DWAYNE LEROY",
+   "passportSurname": "KOROMA",
+   "jerseyName": "Koroma",
+   "abbreviatedName": "Koroma, D.",
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 197,
+   "weight": 92,
+   "birthDate": "2001-04-28T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-16T08:44:34.938",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "3",
+  "dorsalRaw": "3",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "UCONN HUSKIES",
+  "externalId": 56721,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/e7f5cff2-3a73-4c8f-bfb6-eba5c6bde0e8.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/e7f5cff2-3a73-4c8f-bfb6-eba5c6bde0e8.png"
+  },
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015028",
+   "name": "STRAUB, LIANA",
+   "alias": "STRAUB, LIANA",
+   "aliasRaw": "STRAUB, LIANA",
+   "passportName": "LIANA",
+   "passportSurname": "STRAUB",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2009-09-15T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T14:46:59.457",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56341,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010319",
+   "name": "TRAORE, ARMEL",
+   "alias": "TRAORE, ARMEL",
+   "aliasRaw": "TRAORE, ARMEL",
+   "passportName": "ARMEL BAKARI TIMOTHE SIMON",
+   "passportSurname": "TRAORE",
+   "jerseyName": "TRAORE",
+   "abbreviatedName": "Traore, A.",
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 203,
+   "weight": 111,
+   "birthDate": "2003-01-23T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "Armel_Traor35",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T15:51:58.611",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "94",
+  "dorsalRaw": "94",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "LDLC ASVEL VILLEURBANNE",
+  "externalId": 56168,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/8cc5d350-fbb3-4840-ad3d-907e7dcbd673.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/8cc5d350-fbb3-4840-ad3d-907e7dcbd673.png"
+  },
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010079",
+   "name": "LIEDTKE, LENNY",
+   "alias": "LIEDTKE, LENNY",
+   "aliasRaw": "LIEDTKE, LENNY",
+   "passportName": "LENNY",
+   "passportSurname": "LIEDTKE",
+   "jerseyName": "Liedtke",
+   "abbreviatedName": "Liedtke, L.",
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 198,
+   "weight": 100,
+   "birthDate": "2004-02-08T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T15:51:58.152",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "55",
+  "dorsalRaw": "55",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "MEDIKAMENTE PER KLICK BAYREUTH",
+  "externalId": 56167,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/b1466d32-56c1-4c8d-821f-2170ad11476c.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/b1466d32-56c1-4c8d-821f-2170ad11476c.png"
+  },
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014919",
+   "name": "SHITTU, SIMISOLA",
+   "alias": "SHITTU, SIMISOLA",
+   "aliasRaw": "SHITTU, SIMISOLA",
+   "passportName": "OLUWASIMISOLA",
+   "passportSurname": "SHITTU",
+   "jerseyName": "Shittu",
+   "abbreviatedName": null,
+   "country": {
+    "code": "CAN",
+    "name": "Canada"
+   },
+   "height": 203,
+   "weight": 108,
+   "birthDate": "1999-11-07T00:00:00",
+   "birthCountry": {
+    "code": "CAN",
+    "name": "Canada"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T15:51:57.876",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "45",
+  "dorsalRaw": "45",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "C.S. SAGESSE",
+  "externalId": 56166,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/7e592247-49d7-458a-9e05-d719a6b7ee57.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/7e592247-49d7-458a-9e05-d719a6b7ee57.png"
+  },
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014918",
+   "name": "FISCHER, LUCAS",
+   "alias": "FISCHER, LUCAS",
+   "aliasRaw": "FISCHER, LUCAS",
+   "passportName": "FISCHER, LUCAS CHARLES VICTOR",
+   "passportSurname": "FISCHER",
+   "jerseyName": "Fischer",
+   "abbreviatedName": null,
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 191,
+   "weight": 91,
+   "birthDate": "2004-08-01T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T15:51:57.612",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "43",
+  "dorsalRaw": "43",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "NANTERRE 92",
+  "externalId": 56165,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4te/4c03ac32-d4e5-4620-b3f5-17857804ee08.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4te/4c03ac32-d4e5-4620-b3f5-17857804ee08.png"
+  },
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014917",
+   "name": "SIMS, JAYLEN",
+   "alias": "SIMS, JAYLEN",
+   "aliasRaw": "SIMS, JAYLEN",
+   "passportName": "JAYLEN TERELLE",
+   "passportSurname": "SIMS",
+   "jerseyName": "Sims",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 194,
+   "weight": 97,
+   "birthDate": "1998-12-11T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T15:51:57.191",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "30",
+  "dorsalRaw": "30",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "GREENSBORO SWARM",
+  "externalId": 56164,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/bd76f0e5-a00d-4609-b599-494c44902419.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/bd76f0e5-a00d-4609-b599-494c44902419.png"
+  },
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010072",
+   "name": "RATAJ, MICHAEL",
+   "alias": "RATAJ, MICHAEL",
+   "aliasRaw": "RATAJ, MICHAEL",
+   "passportName": "MICHAEL KEN",
+   "passportSurname": "RATAJ",
+   "jerseyName": "Rataj",
+   "abbreviatedName": "Rataj, M.",
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 200,
+   "weight": 104,
+   "birthDate": "2003-10-12T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "michael.rtj",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T15:51:56.811",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "12",
+  "dorsalRaw": "12",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "ALBA BERLIN",
+  "externalId": 56163,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/3c4d9f37-4b6d-4ae8-8aa1-a11dd6fd45b2.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/3c4d9f37-4b6d-4ae8-8aa1-a11dd6fd45b2.png"
+  },
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013064",
+   "name": "FAYE, MEISSA",
+   "alias": "FAYE, MEISSA",
+   "aliasRaw": "FAYE, MEISSA",
+   "passportName": "MEISSA BIRIMA",
+   "passportSurname": "FAYE",
+   "jerseyName": "Faye",
+   "abbreviatedName": "",
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 200,
+   "weight": 91,
+   "birthDate": "2007-12-29T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T15:51:56.453",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "11",
+  "dorsalRaw": "11",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "RATIOPHARM ULM",
+  "externalId": 56162,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/ef2fd6d1-39c1-4bd5-9e19-282912378928.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/ef2fd6d1-39c1-4bd5-9e19-282912378928.png"
+  },
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014916",
+   "name": "SCHMIDT, DEVIN",
+   "alias": "SCHMIDT, DEVIN",
+   "aliasRaw": "SCHMIDT, DEVIN",
+   "passportName": "DEVIN LAWRENCE",
+   "passportSurname": "SCHMIDT",
+   "jerseyName": "Schmidt",
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 190,
+   "weight": 101,
+   "birthDate": "1994-11-24T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T15:51:56.034",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "8",
+  "dorsalRaw": "8",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "PHOENIX HAGEN",
+  "externalId": 56161,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/33d30bec-1f12-469a-92a5-80788ae54f80.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/33d30bec-1f12-469a-92a5-80788ae54f80.png"
+  },
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013624",
+   "name": "MILICIC, TEO",
+   "alias": "MILICIC, TEO",
+   "aliasRaw": "MILICIC, TEO",
+   "passportName": "TEO",
+   "passportSurname": "MILICIC",
+   "jerseyName": "Milicic",
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 193,
+   "weight": 87,
+   "birthDate": "2008-05-23T00:00:00",
+   "birthCountry": {
+    "code": "POL",
+    "name": "Poland"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T15:51:55.624",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "4",
+  "dorsalRaw": "4",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "RATIOPHARM ULM",
+  "externalId": 56160,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/2f690334-6d21-416f-bb54-001aa9df1a1b.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/2f690334-6d21-416f-bb54-001aa9df1a1b.png"
+  },
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014915",
+   "name": "WATSON, IBI",
+   "alias": "WATSON, IBI",
+   "aliasRaw": "WATSON, IBI",
+   "passportName": "IBRAHIM DAVIS",
+   "passportSurname": "WATSON-BOYE",
+   "jerseyName": "Watson",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 194,
+   "weight": 89,
+   "birthDate": "1998-01-06T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T15:51:55.3",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "2",
+  "dorsalRaw": "2",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "BAMBERG BASKETS",
+  "externalId": 56159,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/96b5acbc-ad99-4d22-88ae-593f3132ff1e.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/96b5acbc-ad99-4d22-88ae-593f3132ff1e.png"
+  },
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014080",
+   "name": "OMOG, NAMORI",
+   "alias": "OMOG, NAMORI",
+   "aliasRaw": "OMOG, NAMORI",
+   "passportName": "NAMORI EDIN DI",
+   "passportSurname": "OMOG",
+   "jerseyName": "Omog",
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 188,
+   "weight": 87,
+   "birthDate": "2006-07-23T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T15:51:54.982",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "1",
+  "dorsalRaw": "1",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "RATIOPHARM ULM",
+  "externalId": 56158,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/01b14551-40c9-4989-8cae-63100b882efe.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/01b14551-40c9-4989-8cae-63100b882efe.png"
+  },
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012268",
+   "name": "ATAMNA, ADAM",
+   "alias": "ATAMNA, ADAM",
+   "aliasRaw": "ATAMNA, ADAM",
+   "passportName": "ADAM",
+   "passportSurname": "ATAMNA",
+   "jerseyName": "ATAMNA",
+   "abbreviatedName": null,
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 192,
+   "weight": 90,
+   "birthDate": "2007-12-06T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T15:51:54.641",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "0",
+  "dorsalRaw": "0",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "LDLC ASVEL VILLEURBANNE",
+  "externalId": 56157,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/ec543524-81e6-4acc-95b0-1c2684714401.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOO1/ec543524-81e6-4acc-95b0-1c2684714401.png"
+  },
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013275",
+   "name": "HARRELSON, TY",
+   "alias": "HARRELSON, TY",
+   "aliasRaw": "HARRELSON, TY",
+   "passportName": "TY GARY",
+   "passportSurname": "HARRELSON",
+   "jerseyName": "",
+   "abbreviatedName": "",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1980-09-22T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "E",
+  "typeName": "Coach",
+  "active": true,
+  "startDate": "2026-09-08T11:40:45.414",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55999,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010608",
+   "name": "SIERRA LOIS, ANTONIO",
+   "alias": "SIERRA, ANTONIO",
+   "aliasRaw": "SIERRA, ANTONIO",
+   "passportName": "ANTONIO",
+   "passportSurname": "SIERRA LOIS",
+   "jerseyName": "",
+   "abbreviatedName": "",
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1980-02-24T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-02T11:10:57.414",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55632,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014232",
+   "name": "VALTIN, JONAS",
+   "alias": "VALTIN, JONAS",
+   "aliasRaw": "VALTIN, JONAS",
+   "passportName": "JONAS",
+   "passportSurname": "VALTIN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "2000-06-17T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-01T09:33:54.054",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55345,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010083",
+   "name": "FILP, PATRICK",
+   "alias": "FILP, PATRICK",
+   "aliasRaw": "FILP, PATRICK",
+   "passportName": "PATRICK DAVID",
+   "passportSurname": "FILP",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1993-02-14T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-01T09:33:53.822",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55344,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012495",
+   "name": "GOCHT, TIMO",
+   "alias": "GOCHT, TIMO",
+   "aliasRaw": "GOCHT, TIMO",
+   "passportName": "TIMO RENE",
+   "passportSurname": "GOCHT",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1996-03-29T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "U",
+  "typeName": "Team_Manager",
+  "active": true,
+  "startDate": "2026-09-01T09:33:53.549",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55343,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "AHK",
+   "name": "MCCOY, TYRON",
+   "alias": "MCCOY, TYRON",
+   "aliasRaw": "MCCOY, TYRON",
+   "passportName": "CLEMENT TYRON",
+   "passportSurname": "MC COY",
+   "jerseyName": "",
+   "abbreviatedName": "McCoy, T.",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1972-11-20T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-01T09:33:53.301",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55342,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013327",
+   "name": "TURAN, YASIN",
+   "alias": "TURAN, YASIN",
+   "aliasRaw": "TURAN, YASIN",
+   "passportName": "YASIN",
+   "passportSurname": "TURAN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1991-04-23T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-01T09:33:53.056",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55341,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012631",
+   "name": "HEINRICH, LEONIE VALENTINA",
+   "alias": "HEINRICH, LEONIE",
+   "aliasRaw": "HEINRICH, LEONIE",
+   "passportName": "LEONIE VALENTINA",
+   "passportSurname": "HEINRICH",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1996-12-21T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-27T10:28:21.779",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55154,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011265",
+   "name": "KORNMANN, MARIE",
+   "alias": "KORNMANN, MARIE",
+   "aliasRaw": "KORNMANN, MARIE",
+   "passportName": "MARIE ANNA",
+   "passportSurname": "KORNMANN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1995-09-29T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-27T10:28:21.597",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55153,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009016",
+   "name": "STOCKER, CARSTEN",
+   "alias": "STOCKER, CARSTEN",
+   "aliasRaw": "STOCKER, CARSTEN",
+   "passportName": "CARSTEN",
+   "passportSurname": "STOCKER",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1976-11-10T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-27T10:28:21.422",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55152,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008981",
+   "name": "GRUPP, SIMONE",
+   "alias": "GRUPP, SIMONE",
+   "aliasRaw": "GRUPP, SIMONE",
+   "passportName": "SIMONE CATARINA",
+   "passportSurname": "GRUPP",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1980-01-10T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-27T10:28:21.255",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55151,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008762",
+   "name": "RUISINGER, MARK",
+   "alias": "RUISINGER, MARK",
+   "aliasRaw": "RUISINGER, MARK",
+   "passportName": "MARK",
+   "passportSurname": "RUISINGER",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1974-01-26T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-27T10:28:21.071",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55150,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010508",
+   "name": "GLOECKLER, FLORIAN",
+   "alias": "GLOECKLER, FLORIAN",
+   "aliasRaw": "GLOECKLER, FLORIAN",
+   "passportName": "FLORIAN NICO",
+   "passportSurname": "GLOECKLER",
+   "jerseyName": "",
+   "abbreviatedName": "Glockler, F.",
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1998-04-22T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-20T10:38:16.557",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54989,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008982",
+   "name": "WAGNER, RALF",
+   "alias": "WAGNER, RALF",
+   "aliasRaw": "WAGNER, RALF",
+   "passportName": "RALF-DIETER",
+   "passportSurname": "WAGNER",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1977-06-09T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-20T10:38:16.376",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54988,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008760",
+   "name": "GRUPP, CHRISTIAN",
+   "alias": "GRUPP, CHRISTIAN",
+   "aliasRaw": "GRUPP, CHRISTIAN",
+   "passportName": "CHRISTIAN DOMINIK",
+   "passportSurname": "GRUPP",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1975-06-13T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-20T10:38:16.199",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54987,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008759",
+   "name": "LANGBEIN, ANDREAS PAUL",
+   "alias": "LANGBEIN, ANDREAS",
+   "aliasRaw": "LANGBEIN, ANDREAS",
+   "passportName": "ANDREAS PAUL",
+   "passportSurname": "LANGBEIN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1986-09-25T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-20T10:38:15.994",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54986,
+  "images": {},
+  "club": {
+   "code": "ULM",
+   "name": "ratiopharm ulm",
+   "abbreviatedName": "Ulm",
+   "editorialName": "Ulm",
+   "tvCode": "ULM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ }
+]

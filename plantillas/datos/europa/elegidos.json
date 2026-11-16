@@ -1,0 +1,162 @@
+[
+ {
+  "comp": "E",
+  "code": "PAN",
+  "name": "Panathinaikos AKTOR Athens"
+ },
+ {
+  "comp": "E",
+  "code": "OLY",
+  "name": "Olympiacos Piraeus"
+ },
+ {
+  "comp": "E",
+  "code": "RED",
+  "name": "Crvena Zvezda Meridianbet Belgrade"
+ },
+ {
+  "comp": "E",
+  "code": "ULK",
+  "name": "Fenerbahce Tarfin Istanbul"
+ },
+ {
+  "comp": "E",
+  "code": "ZAL",
+  "name": "Zalgiris Kaunas"
+ },
+ {
+  "comp": "E",
+  "code": "DUB",
+  "name": "Dubai Basketball"
+ },
+ {
+  "comp": "E",
+  "code": "HTA",
+  "name": "Hapoel IBI Tel Aviv"
+ },
+ {
+  "comp": "E",
+  "code": "PAR",
+  "name": "Partizan Mozzart Bet Belgrade"
+ },
+ {
+  "comp": "E",
+  "code": "IST",
+  "name": "Anadolu Efes Istanbul"
+ },
+ {
+  "comp": "E",
+  "code": "BES",
+  "name": "Besiktas Istanbul"
+ },
+ {
+  "comp": "E",
+  "code": "PRS",
+  "name": "Paris Basketball"
+ },
+ {
+  "comp": "E",
+  "code": "ASV",
+  "name": "LDLC ASVEL Villeurbanne"
+ },
+ {
+  "comp": "E",
+  "code": "VIR",
+  "name": "Virtus Bologna"
+ },
+ {
+  "comp": "E",
+  "code": "TEL",
+  "name": "Maccabi Rapyd Tel Aviv"
+ },
+ {
+  "comp": "E",
+  "code": "MUN",
+  "name": "FC Bayern Munich"
+ },
+ {
+  "comp": "E",
+  "code": "MIL",
+  "name": "Armani Olimpia Milan"
+ },
+ {
+  "comp": "U",
+  "code": "JER",
+  "name": "Hapoel Midtown Jerusalem"
+ },
+ {
+  "comp": "U",
+  "code": "NAP",
+  "name": "Napoli Basketball"
+ },
+ {
+  "comp": "U",
+  "code": "BAH",
+  "name": "Bahcesehir College Istanbul"
+ },
+ {
+  "comp": "U",
+  "code": "ARI",
+  "name": "Aris Thessaloniki"
+ },
+ {
+  "comp": "U",
+  "code": "BUR",
+  "name": "Tofas Bursa"
+ },
+ {
+  "comp": "U",
+  "code": "PAO",
+  "name": "PAOK Thessaloniki"
+ },
+ {
+  "comp": "U",
+  "code": "LLI",
+  "name": "London Lions"
+ },
+ {
+  "comp": "U",
+  "code": "BUD",
+  "name": "Buducnost VOLI Podgorica"
+ },
+ {
+  "comp": "U",
+  "code": "MRO",
+  "name": "Maxima Roma"
+ },
+ {
+  "comp": "U",
+  "code": "LEM",
+  "name": "Le Mans Sarthe Basket"
+ },
+ {
+  "comp": "U",
+  "code": "NIN",
+  "name": "NINERS Chemnitz"
+ },
+ {
+  "comp": "U",
+  "code": "VNC",
+  "name": "Umana Reyer Venice"
+ },
+ {
+  "comp": "U",
+  "code": "ULM",
+  "name": "ratiopharm ulm"
+ },
+ {
+  "comp": "U",
+  "code": "TTK",
+  "name": "Turk Telekom Ankara"
+ },
+ {
+  "comp": "U",
+  "code": "TRT",
+  "name": "Baglietto Derthona Tortona"
+ },
+ {
+  "comp": "U",
+  "code": "BCR",
+  "name": "Roma Basketball"
+ }
+]

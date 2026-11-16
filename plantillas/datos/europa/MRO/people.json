@@ -1,0 +1,2615 @@
+[
+ {
+  "person": {
+   "code": "009684",
+   "name": "ALBERTI, GIANPAOLO",
+   "alias": "ALBERTI, GIANPAOLO",
+   "aliasRaw": "ALBERTI, GIANPAOLO",
+   "passportName": "GIANPAOLO",
+   "passportSurname": "ALBERTI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1988-02-19T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-08T11:10:19.515",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 6,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55972,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015261",
+   "name": "APPETECCHI, DAVIDE",
+   "alias": "APPETECCHI, DAVIDE",
+   "aliasRaw": "APPETECCHI, DAVIDE",
+   "passportName": "DAVIDE",
+   "passportSurname": "APPETECCHI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "2000-07-23T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-10-12T08:48:35.012",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57072,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015242",
+   "name": "FALVELLA, GIUSEPPE",
+   "alias": "FALVELLA, GIUSEPPE",
+   "aliasRaw": "FALVELLA, GIUSEPPE",
+   "passportName": "GIUSEPPE",
+   "passportSurname": "FALVELLA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1983-07-20T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-10-05T13:53:51.394",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57027,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015235",
+   "name": "TYSON, HUNTER",
+   "alias": "TYSON, HUNTER",
+   "aliasRaw": "TYSON, HUNTER",
+   "passportName": "HUNTER BLAISE",
+   "passportSurname": "TYSON",
+   "jerseyName": "Tyson",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 203,
+   "weight": 97,
+   "birthDate": "2000-06-13T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-25T11:50:29.405",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "4",
+  "dorsalRaw": "4",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "GIGANTES DE CAROLINA",
+  "externalId": 57017,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/6e3ffc1c-3c9a-4302-940d-45d6d78ed208.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/6e3ffc1c-3c9a-4302-940d-45d6d78ed208.png"
+  },
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015232",
+   "name": "RAIETA, VITTORIO",
+   "alias": "RAIETA, VITTORIO",
+   "aliasRaw": "RAIETA, VITTORIO",
+   "passportName": "VITTORIO",
+   "passportSurname": "RAIETA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1976-05-24T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-25T08:20:12.7",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57013,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015218",
+   "name": "BERARDI, ALBERTO",
+   "alias": "BERARDI, ALBERTO",
+   "aliasRaw": "BERARDI, ALBERTO",
+   "passportName": "ALBERTO",
+   "passportSurname": "BERARDI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1959-11-24T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-23T11:31:14.145",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56981,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015217",
+   "name": "MARTOLINI, EMANUELE",
+   "alias": "MARTOLINI, EMANUELE",
+   "aliasRaw": "MARTOLINI, EMANUELE",
+   "passportName": "EMANUELE",
+   "passportSurname": "MARTOLINI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1990-10-31T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-23T11:30:19.185",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56980,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015216",
+   "name": "ISABELLO, LORENZO",
+   "alias": "ISABELLO, LORENZO",
+   "aliasRaw": "ISABELLO, LORENZO",
+   "passportName": "LORENZO",
+   "passportSurname": "ISABELLO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1991-10-07T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-23T11:28:54.671",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56979,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015215",
+   "name": "GARI, STEFANO",
+   "alias": "GARI, STEFANO",
+   "aliasRaw": "GARI, STEFANO",
+   "passportName": "STEFANO",
+   "passportSurname": "GARI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1985-07-03T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-23T11:26:35.095",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56978,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015214",
+   "name": "CALIENDO, FABIO",
+   "alias": "CALIENDO, FABIO",
+   "aliasRaw": "CALIENDO, FABIO",
+   "passportName": "FABIO",
+   "passportSurname": "CALIENDO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1978-08-22T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-23T11:24:27.858",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56977,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015213",
+   "name": "CURSI, ALESSANDRO",
+   "alias": "CURSI, ALESSANDRO",
+   "aliasRaw": "CURSI, ALESSANDRO",
+   "passportName": "ALESSANDRO",
+   "passportSurname": "CURSI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1987-10-11T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-23T11:23:32.517",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56976,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013494",
+   "name": "CARNEVALE, FRANCESCO",
+   "alias": "CARNEVALE, F.",
+   "aliasRaw": "CARNEVALE, F.",
+   "passportName": "FRANCESCO",
+   "passportSurname": "CARNEVALE",
+   "jerseyName": "CARNEVALE",
+   "abbreviatedName": "",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 195,
+   "weight": 90,
+   "birthDate": "2007-05-11T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-22T07:12:06.856",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "8",
+  "dorsalRaw": "8",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "STELLA EBK ACADEMY ROMA",
+  "externalId": 56959,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4pW/b3c30825-b7e5-4e40-bab9-641942cb9700.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4pW/b3c30825-b7e5-4e40-bab9-641942cb9700.png"
+  },
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015204",
+   "name": "DOZIC, ANDRIJA",
+   "alias": "ANDRIJA, DOZIC",
+   "aliasRaw": "ANDRIJA, DOZIC",
+   "passportName": "ANDRIJA",
+   "passportSurname": "DOZIC",
+   "jerseyName": "DOZIC",
+   "abbreviatedName": null,
+   "country": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "height": 205,
+   "weight": 99,
+   "birthDate": "2007-07-28T00:00:00",
+   "birthCountry": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-22T07:11:04.223",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "77",
+  "dorsalRaw": "77",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "STELLA AZZURRA ACADEMY ROMA",
+  "externalId": 56958,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015073",
+   "name": "DE LILLO, LORENZO",
+   "alias": "DE LILLO, LORENZO",
+   "aliasRaw": "DE LILLO, LORENZO",
+   "passportName": "LORENZO GERARDO",
+   "passportSurname": "DE LILLO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "2003-11-21T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-10T11:35:36.032",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56448,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015026",
+   "name": "DI RENZO, GAIA",
+   "alias": "DI RENZO, GAIA",
+   "aliasRaw": "DI RENZO, GAIA",
+   "passportName": "GAIA",
+   "passportSurname": "DI RENZO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1993-04-05T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T14:40:42.122",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56338,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014177",
+   "name": "RYAN, MATT",
+   "alias": "RYAN, MATT",
+   "aliasRaw": "RYAN, MATT",
+   "passportName": "MATTHEW RICHARD",
+   "passportSurname": "RYAN",
+   "jerseyName": "RYAN",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 198,
+   "weight": 98,
+   "birthDate": "1997-04-17T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T13:19:40.573",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "32",
+  "dorsalRaw": "32",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "DUBAI BASKETBALL",
+  "externalId": 56320,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/366b18c5-fa03-4847-8fdf-c7d9ccc7af1e.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/366b18c5-fa03-4847-8fdf-c7d9ccc7af1e.png"
+  },
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015021",
+   "name": "VICENTINI, SAVERIO",
+   "alias": "VICENTINI, SAVERIO",
+   "aliasRaw": "VICENTINI, SAVERIO",
+   "passportName": "SAVERIO",
+   "passportSurname": "VICENTINI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1993-12-12T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-09T13:13:17.139",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56319,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013209",
+   "name": "LOTESORIERE, ALESSANDRO",
+   "alias": "LOTESORIERE, ALESSANDRO",
+   "aliasRaw": "LOTESORIERE, ALESSANDRO",
+   "passportName": "ALESSANDRO",
+   "passportSurname": "LOTESORIERE",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1986-09-11T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-09T13:12:31.98",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56318,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009598",
+   "name": "UDANOH, IKE",
+   "alias": "UDANOH, IKE",
+   "aliasRaw": "UDANOH, IKE",
+   "passportName": "IKE JOSEPH",
+   "passportSurname": "UDANOH",
+   "jerseyName": "UDANOH",
+   "abbreviatedName": "Udanoh, I.",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1989-08-02T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-09T13:12:31.741",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56317,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008868",
+   "name": "COTELLI, MATTEO",
+   "alias": "COTELLI, MATTEO",
+   "aliasRaw": "COTELLI, MATTEO",
+   "passportName": "MATTEO",
+   "passportSurname": "COTELLI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1987-07-24T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "E",
+  "typeName": "Coach",
+  "active": true,
+  "startDate": "2026-09-09T13:12:31.524",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56316,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015018",
+   "name": "FERRON, FRANCESCO",
+   "alias": "FERRON, FRANCESCO",
+   "aliasRaw": "FERRON, FRANCESCO",
+   "passportName": "FRANCESCO",
+   "passportSurname": "FERRON",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1999-10-16T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "U",
+  "typeName": "Team_Manager",
+  "active": true,
+  "startDate": "2026-09-09T13:10:29.944",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56313,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015015",
+   "name": "MORUCCI, LUCA",
+   "alias": "MORUCCI, LUCA",
+   "aliasRaw": "MORUCCI, LUCA",
+   "passportName": "LUCA",
+   "passportSurname": "MORUCCI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1981-04-20T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T12:50:43.383",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56309,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008108",
+   "name": "CAMARA, GORA",
+   "alias": "CAMARA, GORA",
+   "aliasRaw": "CAMARA, GORA",
+   "passportName": "GORA",
+   "passportSurname": "CAMARA",
+   "jerseyName": "CAMARA",
+   "abbreviatedName": "Camara, G.",
+   "country": {
+    "code": "SEN",
+    "name": "Senegal"
+   },
+   "height": 214,
+   "weight": 112,
+   "birthDate": "2001-04-12T00:00:00",
+   "birthCountry": {
+    "code": "SEN",
+    "name": "Senegal"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T11:27:24.17",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "29",
+  "dorsalRaw": "29",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "BASKET RIMINI",
+  "externalId": 56307,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/562ccb65-fd6b-4f75-8f4d-540166c57da8.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/562ccb65-fd6b-4f75-8f4d-540166c57da8.png"
+  },
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008031",
+   "name": "BONACINI, FEDERICO",
+   "alias": "BONACINI, FEDERICO",
+   "aliasRaw": "BONACINI, FEDERICO",
+   "passportName": "FEDERICO",
+   "passportSurname": "BONACINI",
+   "jerseyName": "BONACINI",
+   "abbreviatedName": "Bonacini, F.",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 190,
+   "weight": 83,
+   "birthDate": "1999-01-23T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T11:27:03.418",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "23",
+  "dorsalRaw": "23",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "BASKET MESTRE 1958",
+  "externalId": 56306,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/6de69367-6582-4aec-b356-bcb8017db760.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/6de69367-6582-4aec-b356-bcb8017db760.png"
+  },
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015013",
+   "name": "MOON, XAVIER",
+   "alias": "MOON, XAVIER",
+   "aliasRaw": "MOON, XAVIER",
+   "passportName": "XAVIER DIKEMBE",
+   "passportSurname": "MOON",
+   "jerseyName": "MOON",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 183,
+   "weight": 76,
+   "birthDate": "1995-01-02T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T11:27:03.162",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "17",
+  "dorsalRaw": "17",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "WINNIPEG SEA BEARS",
+  "externalId": 56305,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/4da79ca5-7ffc-4150-a299-3371968bddf3.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/4da79ca5-7ffc-4150-a299-3371968bddf3.png"
+  },
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015012",
+   "name": "VERONESI, GIOVANNI",
+   "alias": "VERONESI, GIOVANNI",
+   "aliasRaw": "VERONESI, GIOVANNI",
+   "passportName": "GIOVANNI",
+   "passportSurname": "VERONESI",
+   "jerseyName": "Veronesi",
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 197,
+   "weight": 110,
+   "birthDate": "1998-03-21T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T11:27:02.856",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "16",
+  "dorsalRaw": "16",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "VANOLI CREMONA",
+  "externalId": 56304,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/0e657946-51d6-4033-bec8-14664bac0df8.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/0e657946-51d6-4033-bec8-14664bac0df8.png"
+  },
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013261",
+   "name": "LEMAR, BRYNTON",
+   "alias": "LEMAR, BRYNTON",
+   "aliasRaw": "LEMAR, BRYNTON",
+   "passportName": "BRYNTON JEVON",
+   "passportSurname": "LEMAR",
+   "jerseyName": "LEMAR",
+   "abbreviatedName": "",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 191,
+   "weight": 92,
+   "birthDate": "1995-01-23T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T11:27:02.578",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "11",
+  "dorsalRaw": "11",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "BESIKTAS ISTANBUL",
+  "externalId": 56303,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/59e021ab-fba0-4125-8628-4cd04f4e1004.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/59e021ab-fba0-4125-8628-4cd04f4e1004.png"
+  },
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013305",
+   "name": "WHEATLE, CARL",
+   "alias": "WHEATLE, CARL",
+   "aliasRaw": "WHEATLE, CARL",
+   "passportName": "CARL ANTON DELROY",
+   "passportSurname": "WHEATLE",
+   "jerseyName": "WHEATLE",
+   "abbreviatedName": "",
+   "country": {
+    "code": "UK ",
+    "name": "United Kingdom"
+   },
+   "height": 200,
+   "weight": 90,
+   "birthDate": "1998-03-24T00:00:00",
+   "birthCountry": {
+    "code": "UK ",
+    "name": "United Kingdom"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T11:27:02.351",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "24",
+  "dorsalRaw": "24",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "VENEZIA",
+  "externalId": 56302,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/04c00a98-ad28-413e-95c0-8c69027a0130.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/04c00a98-ad28-413e-95c0-8c69027a0130.png"
+  },
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015011",
+   "name": "ALIBEGOVIC, MIRZA",
+   "alias": "ALIBEGOVIC, MIRZA",
+   "aliasRaw": "ALIBEGOVIC, MIRZA",
+   "passportName": "MIRZA",
+   "passportSurname": "ALIBEGOVIC",
+   "jerseyName": "ALIBEGOVIC",
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 195,
+   "weight": 95,
+   "birthDate": "1992-09-25T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T11:27:02.129",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "5",
+  "dorsalRaw": "5",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "APU UDINE",
+  "externalId": 56301,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/ae153e6b-405d-4caf-998a-e7da23597ad0.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/ae153e6b-405d-4caf-998a-e7da23597ad0.png"
+  },
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015010",
+   "name": "HOLIDAY, AARON",
+   "alias": "HOLIDAY, AARON",
+   "aliasRaw": "HOLIDAY, AARON",
+   "passportName": "AARON SHAWN",
+   "passportSurname": "HOLIDAY",
+   "jerseyName": "HOLIDAY",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 183,
+   "weight": 83,
+   "birthDate": "1996-09-30T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T11:27:01.844",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "3",
+  "dorsalRaw": "3",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "HOUSTON ROCKETS",
+  "externalId": 56300,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/584f7f2a-cfba-4097-8a52-8fb9db13356c.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/584f7f2a-cfba-4097-8a52-8fb9db13356c.png"
+  },
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "003622",
+   "name": "BILAN, MIRO",
+   "alias": "Bilan",
+   "aliasRaw": "Bilan",
+   "passportName": "MIRO",
+   "passportSurname": "BILAN",
+   "jerseyName": "BILAN",
+   "abbreviatedName": "Bilan, M.",
+   "country": {
+    "code": "CRO",
+    "name": "Croatia"
+   },
+   "height": 213,
+   "weight": 110,
+   "birthDate": "1989-07-21T00:00:00",
+   "birthCountry": {
+    "code": "CRO",
+    "name": "Croatia"
+   },
+   "twitterAccount": "M1roB1lan",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T11:27:01.552",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "2",
+  "dorsalRaw": "2",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "PALLACANESTRO BRESCIA",
+  "externalId": 56299,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/143972fd-d528-4c3d-b175-dedee27e1d18.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/143972fd-d528-4c3d-b175-dedee27e1d18.png"
+  },
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010588",
+   "name": "BROWN III, JOHN",
+   "alias": "BROWN, JOHN",
+   "aliasRaw": "BROWN, JOHN",
+   "passportName": "JOHN EDWARD",
+   "passportSurname": "BROWN III",
+   "jerseyName": "BROWN III",
+   "abbreviatedName": "Brown, J.",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 203,
+   "weight": 98,
+   "birthDate": "1992-01-28T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T11:27:01.296",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "00",
+  "dorsalRaw": "00",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "SANTEROS DE AGUADA",
+  "externalId": 56298,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/531aefd4-89c2-4753-a0e2-d9e1ab553f4c.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/531aefd4-89c2-4753-a0e2-d9e1ab553f4c.png"
+  },
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014990",
+   "name": "SPRINGOLO, ROBERTA",
+   "alias": "SPRINGOLO, ROBERTA",
+   "aliasRaw": "SPRINGOLO, ROBERTA",
+   "passportName": "ROBERTA",
+   "passportSurname": "SPRINGOLO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1982-03-18T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T10:05:16.36",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56278,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014984",
+   "name": "BOCCI, BENEDETTA",
+   "alias": "BOCCI, BENEDETTA",
+   "aliasRaw": "BOCCI, BENEDETTA",
+   "passportName": "BENEDETTA",
+   "passportSurname": "BOCCI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2007-07-11T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T09:53:12.289",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56272,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014975",
+   "name": "VALERIANI, CLAUDIO",
+   "alias": "VALERIANI, CLAUDIO",
+   "aliasRaw": "VALERIANI, CLAUDIO",
+   "passportName": "CLAUDIO",
+   "passportSurname": "VALERIANI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1985-06-15T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T09:08:08.844",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56261,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014971",
+   "name": "RUFINI, TOMMASO",
+   "alias": "RUFINI, TOMMASO",
+   "aliasRaw": "RUFINI, TOMMASO",
+   "passportName": "TOMMASO",
+   "passportSurname": "RUFINI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1991-06-02T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T09:02:37.228",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56257,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014935",
+   "name": "PARDO, FRANCESCO",
+   "alias": "PARDO, FRANCESCO",
+   "aliasRaw": "PARDO, FRANCESCO",
+   "passportName": "FRANCESCO",
+   "passportSurname": "PARDO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1989-05-29T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-08T16:13:41.529",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56198,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011828",
+   "name": "IEZZI, ROBERTO",
+   "alias": "IEZZI, ROBERTO",
+   "aliasRaw": "IEZZI, ROBERTO",
+   "passportName": "ROBERTO MAURO",
+   "passportSurname": "IEZZI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1986-01-16T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-08T11:26:43.149",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55975,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014852",
+   "name": "RUFFOLO, FRANCESCO",
+   "alias": "RUFFOLO, FRANCESCO",
+   "aliasRaw": "RUFFOLO, FRANCESCO",
+   "passportName": "FRANCESCO",
+   "passportSurname": "RUFFOLO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1993-05-31T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-08T11:25:48.648",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55974,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014851",
+   "name": "DE GREGORIO, ROBERTO",
+   "alias": "DE GREGORIO, ROBERTO",
+   "aliasRaw": "DE GREGORIO, ROBERTO",
+   "passportName": "ROBERTO",
+   "passportSurname": "DE GREGORIO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1984-01-25T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-08T11:20:44.243",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55973,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014792",
+   "name": "CABIANCA, GIORGIO",
+   "alias": "CABIANCA, GIORGIO",
+   "aliasRaw": "CABIANCA, GIORGIO",
+   "passportName": "GIORGIO",
+   "passportSurname": "CABIANCA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1981-07-04T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T11:21:30.211",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55842,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014791",
+   "name": "D'ALIESIO, DANIELE",
+   "alias": "D'ALIESIO, DANIELE",
+   "aliasRaw": "D'ALIESIO, DANIELE",
+   "passportName": "DANIELE",
+   "passportSurname": "D ALIESIO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1980-01-04T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T11:17:48.67",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55841,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014790",
+   "name": "FADDA, GIULIA",
+   "alias": "FADDA, GIULIA",
+   "aliasRaw": "FADDA, GIULIA",
+   "passportName": "GIULIA",
+   "passportSurname": "FADDA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1995-11-08T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T11:17:48.414",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55840,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014789",
+   "name": "FADDA, PAMELA",
+   "alias": "FADDA, PAMELA",
+   "aliasRaw": "FADDA, PAMELA",
+   "passportName": "PAMELA",
+   "passportSurname": "FADDA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2000-11-16T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T11:16:27.901",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55839,
+  "images": {},
+  "club": {
+   "code": "MRO",
+   "name": "Maxima Roma",
+   "abbreviatedName": "Maxima Roma",
+   "editorialName": "Maxima Roma",
+   "tvCode": "RMA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ }
+]

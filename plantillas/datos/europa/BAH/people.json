@@ -1,0 +1,2273 @@
+[
+ {
+  "person": {
+   "code": "007058",
+   "name": "BJEDOV, GORAN",
+   "alias": "BJEDOV",
+   "aliasRaw": "BJEDOV",
+   "passportName": "GORAN",
+   "passportSurname": "BJEDOV",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "CRO",
+    "name": "Croatia"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1971-02-27T00:00:00",
+   "birthCountry": {
+    "code": "CRO",
+    "name": "Croatia"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-01T08:04:17.699",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 6,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55284,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015408",
+   "name": "KOÇ, IBRAHIM",
+   "alias": "KOÇ, IBRAHIM",
+   "aliasRaw": "KOÇ, IBRAHIM",
+   "passportName": "IBRAHIM",
+   "passportSurname": "KOC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1990-11-04T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-11-07T09:14:47.887",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57279,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "002553",
+   "name": "MITROVIC, LUKA",
+   "alias": "Mitrovic",
+   "aliasRaw": "Mitrovic",
+   "passportName": "LUKA",
+   "passportSurname": "MITROVIC",
+   "jerseyName": "MITROVIC",
+   "abbreviatedName": "Mitrovic, L.",
+   "country": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "height": 206,
+   "weight": 102,
+   "birthDate": "1993-03-21T00:00:00",
+   "birthCountry": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "twitterAccount": "mitar_mitar9",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-10-12T08:10:56.456",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "99",
+  "dorsalRaw": "99",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "CSKA MOSKOW",
+  "externalId": 57071,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4tl/e5d19e96-8eca-4e19-9852-5f08865cf3a7.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4tl/e5d19e96-8eca-4e19-9852-5f08865cf3a7.png"
+  },
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015257",
+   "name": "ACAR,  YIGIT",
+   "alias": "ACAR,  YIGIT",
+   "aliasRaw": "ACAR,  YIGIT",
+   "passportName": "MUSTAFA YIGIT",
+   "passportSurname": "ACAR",
+   "jerseyName": "AÇAR",
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 196,
+   "weight": 92,
+   "birthDate": "2008-10-01T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-10-09T07:58:32.826",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "9",
+  "dorsalRaw": "9",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "BAHCESEHIR COLLEGE SPORTS CLUB",
+  "externalId": 57061,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/52db3c4a-6afc-4cd8-b1b5-a2430b84e0b3.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/52db3c4a-6afc-4cd8-b1b5-a2430b84e0b3.png"
+  },
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015183",
+   "name": "DILEO, DAVID",
+   "alias": "DILEO, DAVID",
+   "aliasRaw": "DILEO, DAVID",
+   "passportName": "DAVID MICHAEL",
+   "passportSurname": "DILEO",
+   "jerseyName": "DILEO",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 203,
+   "weight": 98,
+   "birthDate": "1997-02-28T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-21T11:17:47.795",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "51",
+  "dorsalRaw": "51",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "LE MANS SARTHE",
+  "externalId": 56929,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/7de8364b-dbb3-4bfb-a46b-164ae2eb803a.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/7de8364b-dbb3-4bfb-a46b-164ae2eb803a.png"
+  },
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "005275",
+   "name": "SIPAHI, KENAN",
+   "alias": "Sipahi",
+   "aliasRaw": "Sipahi",
+   "passportName": "KENAN",
+   "passportSurname": "SIPAHI",
+   "jerseyName": "SIPAHI",
+   "abbreviatedName": "Sipahi, K.",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 197,
+   "weight": 88,
+   "birthDate": "1995-05-26T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "KenanSpahi",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:27:07.882",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "55",
+  "dorsalRaw": "55",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "BAHCESEHIR COLLEGE SPORTS CLUB",
+  "externalId": 56225,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/d10c6123-9100-48fc-a310-735854b42cb3.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/d10c6123-9100-48fc-a310-735854b42cb3.png"
+  },
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012604",
+   "name": "WILLIAMS, TREVION",
+   "alias": "WILLIAMS, TREVION LAMON",
+   "aliasRaw": "WILLIAMS, TREVION LAMON",
+   "passportName": "TREVION LAMON",
+   "passportSurname": "WILLIAMS",
+   "jerseyName": "Williams",
+   "abbreviatedName": "",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 208,
+   "weight": 120,
+   "birthDate": "2000-09-16T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:24:58.793",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "50",
+  "dorsalRaw": "50",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "BAHCESEHIR COLLEGE SPORTS CLUB",
+  "externalId": 56224,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/843e1a55-485e-4dc6-ac68-b7e506b0a195.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/843e1a55-485e-4dc6-ac68-b7e506b0a195.png"
+  },
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "004172",
+   "name": "PONITKA, MATEUSZ",
+   "alias": "Ponitka",
+   "aliasRaw": "Ponitka",
+   "passportName": "MATEUSZ MICHAL",
+   "passportSurname": "PONITKA",
+   "jerseyName": "PONI",
+   "abbreviatedName": "Ponitka, M.",
+   "country": {
+    "code": "POL",
+    "name": "Poland"
+   },
+   "height": 198,
+   "weight": 96,
+   "birthDate": "1993-08-29T00:00:00",
+   "birthCountry": {
+    "code": "POL",
+    "name": "Poland"
+   },
+   "twitterAccount": "1Ponitka0",
+   "instagramAccount": "mateuszponitka/",
+   "facebookAccount": "PonitkaMM/",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:24:58.56",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "38",
+  "dorsalRaw": "38",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "BAHCESEHIR COLLEGE SPORTS CLUB",
+  "externalId": 56223,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/6bcf14d5-2da9-4b2c-ba71-3b53e21a7029.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/6bcf14d5-2da9-4b2c-ba71-3b53e21a7029.png"
+  },
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009601",
+   "name": "CAVANAUGH, TYLER",
+   "alias": "CAVANAUGH, TYLER ROBERT",
+   "aliasRaw": "CAVANAUGH, TYLER ROBERT",
+   "passportName": "TYLER ROBERT",
+   "passportSurname": "CAVANAUGH",
+   "jerseyName": "CAVANAUGH",
+   "abbreviatedName": "Cavanaugh, T.",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 206,
+   "weight": 105,
+   "birthDate": "1994-02-09T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "tycav34",
+   "instagramAccount": "tycav34/",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:24:58.339",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "34",
+  "dorsalRaw": "34",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "BAHCESEHIR COLLEGE SPORTS CLUB",
+  "externalId": 56222,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/59a17514-475c-482a-90d2-6554e63dc8f0.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/59a17514-475c-482a-90d2-6554e63dc8f0.png"
+  },
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011836",
+   "name": "MIKE, ISIAHA",
+   "alias": "MIKE, ISIAHA",
+   "aliasRaw": "MIKE, ISIAHA",
+   "passportName": "ISIAHA, TYRIN",
+   "passportSurname": "MIKE",
+   "jerseyName": "MIKE",
+   "abbreviatedName": "",
+   "country": {
+    "code": "CAN",
+    "name": "Canada"
+   },
+   "height": 200,
+   "weight": 100,
+   "birthDate": "1997-08-11T00:00:00",
+   "birthCountry": {
+    "code": "CAN",
+    "name": "Canada"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:24:58.106",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "24",
+  "dorsalRaw": "24",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "BAYERN MUNCHEN",
+  "externalId": 56221,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/92698c1a-11ac-4929-9ec6-801376f1b07a.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/92698c1a-11ac-4929-9ec6-801376f1b07a.png"
+  },
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013908",
+   "name": "FLYNN, MALACHI",
+   "alias": "FLYNN, MALACHI",
+   "aliasRaw": "FLYNN, MALACHI",
+   "passportName": "MALACHI EMMANUEL",
+   "passportSurname": "FLYNN",
+   "jerseyName": "FLYNN",
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 85,
+   "weight": 188,
+   "birthDate": "1998-05-09T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:23:50.787",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "22",
+  "dorsalRaw": "22",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "BAHCESEHIR COLLEGE SPORTS CLUB",
+  "externalId": 56220,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/7aa424a1-ebda-4011-a603-546727dd006a.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/7aa424a1-ebda-4011-a603-546727dd006a.png"
+  },
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "LQV",
+   "name": "MUTAF, MAXIM",
+   "alias": "MUTAF, MAXIM",
+   "aliasRaw": "MUTAF, MAXIM",
+   "passportName": "CAN MAXIM",
+   "passportSurname": "MUTAF",
+   "jerseyName": "MUTAF",
+   "abbreviatedName": "Mutaf, C. M.",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 193,
+   "weight": 90,
+   "birthDate": "1991-01-09T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:22:52.265",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "17",
+  "dorsalRaw": "17",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "BAHCESEHIR COLLEGE SPORTS CLUB",
+  "externalId": 56219,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/14af70dd-549b-4896-b3ad-2f3aea98027e.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/14af70dd-549b-4896-b3ad-2f3aea98027e.png"
+  },
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012405",
+   "name": "HALTALI, FURKAN",
+   "alias": "HALTALI, FURKAN",
+   "aliasRaw": "HALTALI, FURKAN",
+   "passportName": "FURKAN",
+   "passportSurname": "HALTALI",
+   "jerseyName": "HALTALI",
+   "abbreviatedName": "",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 207,
+   "weight": 120,
+   "birthDate": "2002-12-02T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:22:52.022",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "14",
+  "dorsalRaw": "14",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "BAHCESEHIR COLLEGE SPORTS CLUB",
+  "externalId": 56218,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/06aaf7c1-4b7f-4219-b2a2-2d216f6985b2.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/06aaf7c1-4b7f-4219-b2a2-2d216f6985b2.png"
+  },
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "003960",
+   "name": "INGLIS, DAMIEN",
+   "alias": "INGLIS,D.",
+   "aliasRaw": "INGLIS,D.",
+   "passportName": "DAMIEN ROBERTO",
+   "passportSurname": "INGLIS",
+   "jerseyName": "INGLIS",
+   "abbreviatedName": "Inglis, D.",
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 204,
+   "weight": 114,
+   "birthDate": "1995-05-20T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:21:54.687",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "7",
+  "dorsalRaw": "7",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "YOKAHAMA B-CORSAIRS",
+  "externalId": 56217,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/5edf3b24-2b3e-4273-b19c-8f69f6de4dbb.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/5edf3b24-2b3e-4273-b19c-8f69f6de4dbb.png"
+  },
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "004056",
+   "name": "AKPINAR, ISMET",
+   "alias": "Akpinar",
+   "aliasRaw": "Akpinar",
+   "passportName": "ISMET",
+   "passportSurname": "AKPINAR",
+   "jerseyName": "AKPINAR",
+   "abbreviatedName": "Akpinar, I.",
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 193,
+   "weight": 84,
+   "birthDate": "1995-05-22T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": "ismetakpinar",
+   "instagramAccount": "ismetakpinar/",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:21:54.448",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "5",
+  "dorsalRaw": "5",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "BAHCESEHIR COLLEGE SPORTS CLUB",
+  "externalId": 56216,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/8381490d-a9b0-4fbf-9726-63ac1f783b74.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/8381490d-a9b0-4fbf-9726-63ac1f783b74.png"
+  },
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "003983",
+   "name": "AVRAMOVIC, ALEKSA",
+   "alias": "AVRAMOVIC, A.",
+   "aliasRaw": "AVRAMOVIC, A.",
+   "passportName": "ALEKSA",
+   "passportSurname": "AVRAMOVIC",
+   "jerseyName": "AVRAMOVIC",
+   "abbreviatedName": "Avramovic, A.",
+   "country": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "height": 193,
+   "weight": 87,
+   "birthDate": "1994-10-25T00:00:00",
+   "birthCountry": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "aleksaavramovic",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:21:54.219",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "4",
+  "dorsalRaw": "4",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "BC DUBAI",
+  "externalId": 56215,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/09ba6b1f-d3db-41e0-9c87-c80809f73438.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/09ba6b1f-d3db-41e0-9c87-c80809f73438.png"
+  },
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010769",
+   "name": "REED, MARCQUISE",
+   "alias": "REED, MARCQUISE",
+   "aliasRaw": "REED, MARCQUISE",
+   "passportName": "MARCQUISE DEANDRE",
+   "passportSurname": "REED",
+   "jerseyName": "REED",
+   "abbreviatedName": "Reed, M.",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 190,
+   "weight": 84,
+   "birthDate": "1995-04-21T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:21:53.991",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "0",
+  "dorsalRaw": "0",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "TRABZONSPOR",
+  "externalId": 56214,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/317be244-f0bc-490a-b8fa-447e7bdf3739.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/317be244-f0bc-490a-b8fa-447e7bdf3739.png"
+  },
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "AIP",
+   "name": "DJORDJEVIC, SASA",
+   "alias": "Djordjevic",
+   "aliasRaw": "Djordjevic",
+   "passportName": "ALEKSANDAR",
+   "passportSurname": "DJORDJEVIC",
+   "jerseyName": "",
+   "abbreviatedName": "Djordjevic, S.",
+   "country": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1967-08-26T00:00:00",
+   "birthCountry": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "E",
+  "typeName": "Coach",
+  "active": true,
+  "startDate": "2026-09-08T10:40:00.677",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55922,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "007939",
+   "name": "BAYRAM, BERHAN",
+   "alias": "BAYRAM, BERHAN",
+   "aliasRaw": "BAYRAM, BERHAN",
+   "passportName": "BERHAN",
+   "passportSurname": "BAYRAM",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1988-02-02T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-07T15:25:49.525",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55895,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013818",
+   "name": "YILMAZ, PELIN",
+   "alias": "YILMAZ, PELIN",
+   "aliasRaw": "YILMAZ, PELIN",
+   "passportName": "PELIN",
+   "passportSurname": "YILMAZ",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1995-02-17T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-01T08:04:19.463",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55292,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010476",
+   "name": "CANBAKAL, MURAT",
+   "alias": "CANBAKAL, MURAT",
+   "aliasRaw": "CANBAKAL, MURAT",
+   "passportName": "MURAT",
+   "passportSurname": "CANBAKAL",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1980-07-05T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-01T08:04:19.248",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55291,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010411",
+   "name": "YILDIRIM, ARIF",
+   "alias": "YILDIRIM, ARIF OZAN",
+   "aliasRaw": "YILDIRIM, ARIF OZAN",
+   "passportName": "ARIF OZAN",
+   "passportSurname": "YILDIRIM",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1992-08-01T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-01T08:04:19.028",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55290,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010410",
+   "name": "BULENT, MEHMET",
+   "alias": "BULENT, MEHMET SALIH",
+   "aliasRaw": "BULENT, MEHMET SALIH",
+   "passportName": "MEHMET SALIH",
+   "passportSurname": "BULENT",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1990-01-07T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-01T08:04:18.809",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55289,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "007181",
+   "name": "MIHAJLOVIC, MLADEN",
+   "alias": "MIHAJLOVIC, MLADEN",
+   "aliasRaw": "MIHAJLOVIC, MLADEN",
+   "passportName": "MLADEN",
+   "passportSurname": "MIHAJLOVIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1985-01-11T00:00:00",
+   "birthCountry": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-01T08:04:18.594",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55288,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009373",
+   "name": "TASIC, PAVLE",
+   "alias": "TASIC, PAVLE",
+   "aliasRaw": "TASIC, PAVLE",
+   "passportName": "PAVLE",
+   "passportSurname": "TASIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1990-02-07T00:00:00",
+   "birthCountry": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-01T08:04:18.374",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55287,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010678",
+   "name": "TUNC, MUHAMMET EMIN",
+   "alias": "TUNC, MUHAMMET EMIN",
+   "aliasRaw": "TUNC, MUHAMMET EMIN",
+   "passportName": "MUHAMMET EMIN",
+   "passportSurname": "TUNC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1993-04-20T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "U",
+  "typeName": "Team_Manager",
+  "active": true,
+  "startDate": "2026-09-01T08:04:18.139",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55286,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009406",
+   "name": "AYDANARIG, SERHAN",
+   "alias": "AYDANARIG, SERHAN",
+   "aliasRaw": "AYDANARIG, SERHAN",
+   "passportName": "ALI SERHAN",
+   "passportSurname": "AYDANARIG",
+   "jerseyName": "",
+   "abbreviatedName": "",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1979-07-23T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-01T08:04:17.916",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55285,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013185",
+   "name": "KANDAS, ARDA",
+   "alias": "KANDAS, ARDA",
+   "aliasRaw": "KANDAS, ARDA",
+   "passportName": "ARDA",
+   "passportSurname": "KANDAS",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1992-06-22T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-01T08:04:17.48",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55283,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013184",
+   "name": "ALYUZ, CAN",
+   "alias": "ALYUZ, CAN",
+   "aliasRaw": "ALYUZ, CAN",
+   "passportName": "CAN",
+   "passportSurname": "ALYUZ",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1991-02-14T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-01T08:04:17.25",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55282,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013975",
+   "name": "KAYA, TUGCE",
+   "alias": "KAYA, TUGCE",
+   "aliasRaw": "KAYA, TUGCE",
+   "passportName": "TUGCE",
+   "passportSurname": "KAYA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1988-06-10T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-24T12:10:47.677",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55033,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013239",
+   "name": "HACIYAKUPOGLU, ALPKAN",
+   "alias": "HACIYAKUPOGLU, ALPKAN",
+   "aliasRaw": "HACIYAKUPOGLU, ALPKAN",
+   "passportName": "ALPKAN",
+   "passportSurname": "HACIYAKUPOGLU",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1991-07-17T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-24T12:10:47.513",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55032,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011861",
+   "name": "KORKMAZ, KIVILCIM",
+   "alias": "KORKMAZ, KIVILCIM",
+   "aliasRaw": "KORKMAZ, KIVILCIM",
+   "passportName": "KIVILCIM",
+   "passportSurname": "KORKMAZ",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1994-11-14T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-24T12:10:47.336",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55031,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011093",
+   "name": "GEZINTI, AHMET",
+   "alias": "GEZINTI, AHMET",
+   "aliasRaw": "GEZINTI, AHMET",
+   "passportName": "AHMET",
+   "passportSurname": "GEZINTI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1996-02-09T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-24T12:10:47.151",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55030,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010486",
+   "name": "BURSALI, YÜKSEL",
+   "alias": "NAZLIGUL, YUKSEL",
+   "aliasRaw": "NAZLIGUL, YUKSEL",
+   "passportName": "YUKSEL",
+   "passportSurname": "BURSALI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1983-11-27T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-24T12:10:46.959",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55029,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010485",
+   "name": "ARK, AYKUT ALKAN",
+   "alias": "ARK, AYKUT ALKAN",
+   "aliasRaw": "ARK, AYKUT ALKAN",
+   "passportName": "AYKUT ALKAN",
+   "passportSurname": "ARK",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1993-01-07T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-24T12:10:46.797",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55028,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008669",
+   "name": "YELESDAG, YUSUF",
+   "alias": "YELESDAG, YUSUF",
+   "aliasRaw": "YELESDAG, YUSUF",
+   "passportName": "YUSUF",
+   "passportSurname": "YELESDAG",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1986-02-15T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-24T12:10:46.628",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55027,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008451",
+   "name": "DOSTEL, SERTAC",
+   "alias": "DOSTEL, SERTAC",
+   "aliasRaw": "DOSTEL, SERTAC",
+   "passportName": "SERTAC",
+   "passportSurname": "DOSTEL",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1993-01-19T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-24T12:10:46.451",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55026,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008447",
+   "name": "KUTLUATA, CAN",
+   "alias": "KUTLUATA, CAN",
+   "aliasRaw": "KUTLUATA, CAN",
+   "passportName": "SALIH CAN",
+   "passportSurname": "KUTLUATA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1977-08-02T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-24T12:10:46.266",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55025,
+  "images": {},
+  "club": {
+   "code": "BAH",
+   "name": "Bahcesehir College Istanbul",
+   "abbreviatedName": "Bahcesehir",
+   "editorialName": "Bahcesehir",
+   "tvCode": "BKS",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ }
+]

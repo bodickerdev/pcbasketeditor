@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# Compilación (construir.py)
+build/
+dist/
+*.spec
+
+# El parche va dentro del .exe y del zip de Releases; no se sube al repositorio
+parche/*.pcbp
+
+# Archivos del juego: nunca se suben
+*.DBC
+*.DGF
+*.BIN
+*.DAT
+*.BAK
+*.EXE
+*.exe
+
+# Material de trabajo con fotos descargadas y copias de seguridad
+imgs/
+retratos_joventut_fondo_blanco/
+plantillas/datos/**/*.png
+plantillas/datos/**/*.webp
+plantillas/datos/**/*.jpg
+plantillas/datos/**/img/
+plantillas/cfg_antes_valoraciones/

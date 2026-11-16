@@ -1,0 +1,2087 @@
+[
+ {
+  "person": {
+   "code": "015414",
+   "name": "FONTAINE, VINCENT",
+   "alias": "FONTAINE, VINCENT",
+   "aliasRaw": "FONTAINE, VINCENT",
+   "passportName": "VINCENT PAUL",
+   "passportSurname": "FONTAINE",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1963-10-19T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "U",
+  "typeName": "Team_Manager",
+  "active": true,
+  "startDate": "2026-11-09T15:56:28.22",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57288,
+  "images": {},
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015403",
+   "name": "KUTA, NATHAN",
+   "alias": "KUTA, NATHAN",
+   "aliasRaw": "KUTA, NATHAN",
+   "passportName": "KUTA KUTA",
+   "passportSurname": "NIAYINGWANDA",
+   "jerseyName": "KUTA",
+   "abbreviatedName": null,
+   "country": {
+    "code": "NED",
+    "name": "Netherlands"
+   },
+   "height": 200,
+   "weight": 120,
+   "birthDate": "2000-04-28T00:00:00",
+   "birthCountry": {
+    "code": "NED",
+    "name": "Netherlands"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-11-02T09:28:51.214",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "77",
+  "dorsalRaw": "77",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "MACCABI RISHON LEZION",
+  "externalId": 57266,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHHNTLm/3abbcd0f-7d61-4f6f-956b-29310269cc82.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHHNTLm/3abbcd0f-7d61-4f6f-956b-29310269cc82.png"
+  },
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014985",
+   "name": "LEVEQUE, ANNE",
+   "alias": "LEVEQUE, ANNE",
+   "aliasRaw": "LEVEQUE, ANNE",
+   "passportName": "ANNE, MARIE, JOELLE, YVETTE",
+   "passportSurname": "LEVEQUE",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1983-12-29T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T09:54:40.109",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56273,
+  "images": {},
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014980",
+   "name": "POIRIER, EMMANUELLE",
+   "alias": "POIRIER, EMMANUELLE",
+   "aliasRaw": "POIRIER, EMMANUELLE",
+   "passportName": "EMMANUELLE, RENEE, BERNADETTE",
+   "passportSurname": "POIRIER",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1985-05-11T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T09:41:17.358",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56268,
+  "images": {},
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014957",
+   "name": "POULEN, AGATHE",
+   "alias": "POULEN, AGATHE",
+   "aliasRaw": "POULEN, AGATHE",
+   "passportName": "AGATHE, PAULINE, ALEXANDRINE",
+   "passportSurname": "POULEN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1994-03-08T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T08:22:57.271",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56243,
+  "images": {},
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014946",
+   "name": "CORNEBOIS, HUGUES",
+   "alias": "CORNEBOIS, HUGUES",
+   "aliasRaw": "CORNEBOIS, HUGUES",
+   "passportName": "HUGUES, PIERRE",
+   "passportSurname": "CORNEBOIS",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1981-08-23T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T07:01:44.415",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56231,
+  "images": {},
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014879",
+   "name": "VIZADE, GUILLAUME",
+   "alias": "VIZADE, GUILLAUME",
+   "aliasRaw": "VIZADE, GUILLAUME",
+   "passportName": "GUILLAUME, AURELIEN",
+   "passportSurname": "VIZADE",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1982-12-04T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "E",
+  "typeName": "Coach",
+  "active": true,
+  "startDate": "2026-09-08T12:22:26.973",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56055,
+  "images": {},
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014878",
+   "name": "DUFEAL, LUCAS",
+   "alias": "DUFEAL, LUCAS",
+   "aliasRaw": "DUFEAL, LUCAS",
+   "passportName": "LUCAS, WESLEY",
+   "passportSurname": "DUFEAL",
+   "jerseyName": "DUFEAL",
+   "abbreviatedName": null,
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 204,
+   "weight": 86,
+   "birthDate": "2003-04-18T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:17:36.049",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "32",
+  "dorsalRaw": "32",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "LE MANS SARTHE BASKET",
+  "externalId": 56054,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/ab27101e-2392-4155-b04e-308706bf4bd7.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/ab27101e-2392-4155-b04e-308706bf4bd7.png"
+  },
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014877",
+   "name": "BERACOU, TYLER",
+   "alias": "BERACOU, TYLER",
+   "aliasRaw": "BERACOU, TYLER",
+   "passportName": "TYLER, MEHDI, MATTHEW",
+   "passportSurname": "BERACOU",
+   "jerseyName": "BERACOU",
+   "abbreviatedName": null,
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 202,
+   "weight": 104,
+   "birthDate": "2006-10-12T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:16:25.166",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "26",
+  "dorsalRaw": "26",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "LE MANS SARTHE BASKET",
+  "externalId": 56053,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/a69aceac-a875-4bf5-97eb-5357b287c95a.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/a69aceac-a875-4bf5-97eb-5357b287c95a.png"
+  },
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013135",
+   "name": "PENDA, SWANN",
+   "alias": "PENDA, SWANN",
+   "aliasRaw": "PENDA, SWANN",
+   "passportName": "SWANN",
+   "passportSurname": "PENDA",
+   "jerseyName": "PENDA",
+   "abbreviatedName": null,
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 205,
+   "weight": 105,
+   "birthDate": "2008-02-12T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:13:20.499",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "93",
+  "dorsalRaw": "93",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "LE MANS SARTHE BASKET",
+  "externalId": 56051,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/5f6c04b6-e1c5-4640-a5d2-0da336c0c878.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/5f6c04b6-e1c5-4640-a5d2-0da336c0c878.png"
+  },
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014876",
+   "name": "DIABY-CISSE, MADIBA",
+   "alias": "DIABY-CISSE, MADIBA",
+   "aliasRaw": "DIABY-CISSE, MADIBA",
+   "passportName": "MADIBA",
+   "passportSurname": "DIABY-CISSE",
+   "jerseyName": "DIABY CISSE",
+   "abbreviatedName": null,
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 200,
+   "weight": 99,
+   "birthDate": "2008-10-07T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:13:20.239",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "88",
+  "dorsalRaw": "88",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "LE MANS SARTHE BASKET",
+  "externalId": 56050,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/12f35a47-a2dc-40a3-8f2f-8d4f6da036cd.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/12f35a47-a2dc-40a3-8f2f-8d4f6da036cd.png"
+  },
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014875",
+   "name": "THOMAS, TASHAWN",
+   "alias": "THOMAS, TASHAWN",
+   "aliasRaw": "THOMAS, TASHAWN",
+   "passportName": "TASHAWN, MARQUEZ",
+   "passportSurname": "THOMAS",
+   "jerseyName": "THOMAS",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 203,
+   "weight": 105,
+   "birthDate": "1993-02-27T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:13:20.001",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "35",
+  "dorsalRaw": "35",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "LE MANS SARTHE BASKET",
+  "externalId": 56049,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/846d211d-4b6d-48c6-a362-9e1a503d52b7.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/846d211d-4b6d-48c6-a362-9e1a503d52b7.png"
+  },
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014873",
+   "name": "WOOD, MOSES",
+   "alias": "WOOD, MOSES",
+   "aliasRaw": "WOOD, MOSES",
+   "passportName": "MOSES, LIMOGES",
+   "passportSurname": "WOOD",
+   "jerseyName": "WOOD",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 203,
+   "weight": 95,
+   "birthDate": "1999-05-03T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:11:14.2",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "23",
+  "dorsalRaw": "23",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "ALBA BERLIN",
+  "externalId": 56041,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/c96e1dec-7f29-4e1d-bb0c-655632dfd255.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/c96e1dec-7f29-4e1d-bb0c-655632dfd255.png"
+  },
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009557",
+   "name": "YEGUETE, WILFRIED",
+   "alias": "YEGUETE, WILFRIED",
+   "aliasRaw": "YEGUETE, WILFRIED",
+   "passportName": "WILFRIED",
+   "passportSurname": "YEGUETE",
+   "jerseyName": "YEGUETE",
+   "abbreviatedName": "Yeguete, W.",
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 202,
+   "weight": 108,
+   "birthDate": "1991-10-16T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:07:26.042",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "15",
+  "dorsalRaw": "15",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "LE MANS SARTHE BASKET",
+  "externalId": 56039,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/e37d2820-3f7c-4ea8-babd-a25642081da5.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/e37d2820-3f7c-4ea8-babd-a25642081da5.png"
+  },
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014872",
+   "name": "DOUMBIA NIANG, UGO",
+   "alias": "DOUMBIA NIANG, UGO",
+   "aliasRaw": "DOUMBIA NIANG, UGO",
+   "passportName": "UGO, ALBERT, MORY",
+   "passportSurname": "DOUMBIA NIANG",
+   "jerseyName": "DOUMBIA NIANG",
+   "abbreviatedName": null,
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 193,
+   "weight": 103,
+   "birthDate": "2003-02-16T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:07:25.795",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "10",
+  "dorsalRaw": "10",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "LE MANS SARTHE BASKET",
+  "externalId": 56038,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/ad215cfa-6f25-4b9a-9280-127cd1de33f5.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/ad215cfa-6f25-4b9a-9280-127cd1de33f5.png"
+  },
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014871",
+   "name": "DELAUNAY, LEOPOLD",
+   "alias": "DELAUNAY, LEOPOLD",
+   "aliasRaw": "DELAUNAY, LEOPOLD",
+   "passportName": "LEOPOLD, OLIVIER",
+   "passportSurname": "DELAUNAY",
+   "jerseyName": "DELAUNAY",
+   "abbreviatedName": null,
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 193,
+   "weight": 95,
+   "birthDate": "2001-11-14T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:06:15.481",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "9",
+  "dorsalRaw": "9",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "LE MANS SARTHE BASKET",
+  "externalId": 56037,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/98be9d96-20fd-482d-815f-018b3ed4468a.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/98be9d96-20fd-482d-815f-018b3ed4468a.png"
+  },
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010316",
+   "name": "AJINCA, MELVIN",
+   "alias": "AJINCA, MELVIN",
+   "aliasRaw": "AJINCA, MELVIN",
+   "passportName": "MELVIN PIERRE",
+   "passportSurname": "AJINCA",
+   "jerseyName": "AJINÇA",
+   "abbreviatedName": "Ajinca, M.",
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 203,
+   "weight": 97,
+   "birthDate": "2004-06-26T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:05:26.2",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "8",
+  "dorsalRaw": "8",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "LYON VILLEURBANNE",
+  "externalId": 56035,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/ccdbb53c-5221-4334-ace3-4de0d09965dd.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/ccdbb53c-5221-4334-ace3-4de0d09965dd.png"
+  },
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014869",
+   "name": "COGNET, AFENY",
+   "alias": "COGNET, AFENY",
+   "aliasRaw": "COGNET, AFENY",
+   "passportName": "AFENY, OLIVIER",
+   "passportSurname": "COGNET",
+   "jerseyName": "COGNET",
+   "abbreviatedName": null,
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 186,
+   "weight": 68,
+   "birthDate": "2008-01-27T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:05:09.791",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "3",
+  "dorsalRaw": "3",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "LE MANS SARTHE BASKET",
+  "externalId": 56034,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/0d2e7f69-6532-4a8d-8247-9719b08ee19c.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/0d2e7f69-6532-4a8d-8247-9719b08ee19c.png"
+  },
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014867",
+   "name": "KING, JORDAN",
+   "alias": "KING, JORDAN",
+   "aliasRaw": "KING, JORDAN",
+   "passportName": "JORDAN, JAMES",
+   "passportSurname": "KING",
+   "jerseyName": "KING",
+   "abbreviatedName": null,
+   "country": {
+    "code": "JAM",
+    "name": "Jamaica"
+   },
+   "height": 183,
+   "weight": 80,
+   "birthDate": "2001-03-02T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:04:08.608",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "2",
+  "dorsalRaw": "2",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "MAROUSSI",
+  "externalId": 56032,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/fbba33a9-8b31-4d60-8996-008c4ec667d5.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/fbba33a9-8b31-4d60-8996-008c4ec667d5.png"
+  },
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014866",
+   "name": "GRASSHOFF, BASTIEN",
+   "alias": "GRASSHOFF, BASTIEN",
+   "aliasRaw": "GRASSHOFF, BASTIEN",
+   "passportName": "BASTIEN",
+   "passportSurname": "GRASSHOFF",
+   "jerseyName": "GRASSHOFF",
+   "abbreviatedName": null,
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 198,
+   "weight": 81,
+   "birthDate": "2007-06-01T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:03:10.254",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "1",
+  "dorsalRaw": "1",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "LE MANS SARTHE BASKET",
+  "externalId": 56031,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/8e35a799-2e9b-4be1-b485-9520abf56333.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/8e35a799-2e9b-4be1-b485-9520abf56333.png"
+  },
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013931",
+   "name": "STEWART JR, CARLOS",
+   "alias": "STEWART, CARLOS",
+   "aliasRaw": "STEWART, CARLOS",
+   "passportName": "CARLOS MARCELLO",
+   "passportSurname": "STEWART JR",
+   "jerseyName": "STEWART",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 185,
+   "weight": 88,
+   "birthDate": "2003-05-06T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:03:10.008",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "0",
+  "dorsalRaw": "0",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "VARESE",
+  "externalId": 56030,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/a3e26535-80a1-4439-a6e6-811e9f5837c4.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/a3e26535-80a1-4439-a6e6-811e9f5837c4.png"
+  },
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014798",
+   "name": "HAUDEBOURG, ANTHONY",
+   "alias": "HAUDEBOURG, ANTHONY",
+   "aliasRaw": "HAUDEBOURG, ANTHONY",
+   "passportName": "ANTHONY, SERGE, BERNARD",
+   "passportSurname": "HAUDEBOURG",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1986-01-10T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T11:44:08.616",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55850,
+  "images": {},
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014797",
+   "name": "LUSSON, STEPHANE",
+   "alias": "LUSSON, STEPHANE",
+   "aliasRaw": "LUSSON, STEPHANE",
+   "passportName": "STEPHANE, MARC, JOSE",
+   "passportSurname": "LUSSON",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1978-04-12T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T11:43:02.259",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55849,
+  "images": {},
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014796",
+   "name": "BOULETON , CHRISTOPHE",
+   "alias": "BOULETON , CHRISTOPHE",
+   "aliasRaw": "BOULETON , CHRISTOPHE",
+   "passportName": "CHRISTOPHE, JACKY, GEORGES",
+   "passportSurname": "BOULETON",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1978-06-27T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T11:40:47.698",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55848,
+  "images": {},
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014795",
+   "name": "HUARD, FRANÇOIS",
+   "alias": "HUARD, FRANÇOIS",
+   "aliasRaw": "HUARD, FRANÇOIS",
+   "passportName": "FRANCOIS, PIERRE, HENRI MARIE",
+   "passportSurname": "HUARD",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1979-08-15T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T11:39:48.941",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55847,
+  "images": {},
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014794",
+   "name": "BAILLY, LAURENCE",
+   "alias": "BAILLY, LAURENCE",
+   "aliasRaw": "BAILLY, LAURENCE",
+   "passportName": "LAURENCE, MARIE, JEANNE",
+   "passportSurname": "BAILLY",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1963-03-08T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T11:37:20.995",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55846,
+  "images": {},
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014793",
+   "name": "DENISE, FRÉDÉRIC",
+   "alias": "DENISE, FRÉDÉRIC",
+   "aliasRaw": "DENISE, FRÉDÉRIC",
+   "passportName": "FREDERIC, PIERRE, FRANCOIS",
+   "passportSurname": "DENISE",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1984-09-11T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T11:34:44.135",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55845,
+  "images": {},
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014684",
+   "name": "CRENES, MARC",
+   "alias": "CRENES, MARC",
+   "aliasRaw": "CRENES, MARC",
+   "passportName": "MARC, CLAUDE, RENE",
+   "passportSurname": "CRENES",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1958-08-22T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-08-27T11:18:57.468",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55162,
+  "images": {},
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014683",
+   "name": "GOLVAN, PIERRE",
+   "alias": "GOLVAN, PIERRE",
+   "aliasRaw": "GOLVAN, PIERRE",
+   "passportName": "PIERRE, DIDIER",
+   "passportSurname": "GOLVAN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1996-02-15T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-08-27T11:18:57.179",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55161,
+  "images": {},
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014682",
+   "name": "DODARD, MARIE",
+   "alias": "DODARD, MARIE",
+   "aliasRaw": "DODARD, MARIE",
+   "passportName": "MARIE, EMELINE, ISABELLE",
+   "passportSurname": "DODARD",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1997-02-20T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-08-27T11:18:56.902",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55160,
+  "images": {},
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014681",
+   "name": "LEBRETON, BERNARD",
+   "alias": "LEBRETON, BERNARD",
+   "aliasRaw": "LEBRETON, BERNARD",
+   "passportName": "BERNARD",
+   "passportSurname": "LEBRETON",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1959-11-18T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-08-27T11:18:56.658",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55159,
+  "images": {},
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014680",
+   "name": "LORIOT, VINCENT",
+   "alias": "LORIOT, VINCENT",
+   "aliasRaw": "LORIOT, VINCENT",
+   "passportName": "VINCENT, FRANKLIN, FERNAND",
+   "passportSurname": "LORIOT",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1967-10-09T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "U",
+  "typeName": "Team_Manager",
+  "active": true,
+  "startDate": "2026-08-27T11:18:56.392",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55158,
+  "images": {},
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014679",
+   "name": "MATHIEU, ANTOINE",
+   "alias": "MATHIEU, ANTOINE",
+   "aliasRaw": "MATHIEU, ANTOINE",
+   "passportName": "ANTOINE",
+   "passportSurname": "MATHIEU",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1979-03-12T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-08-27T11:18:56.105",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55157,
+  "images": {},
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014678",
+   "name": "BERNARD, JORDAN",
+   "alias": "BERNARD, JORDAN",
+   "aliasRaw": "BERNARD, JORDAN",
+   "passportName": "JORDAN, JEAN, CHRISTOPHE",
+   "passportSurname": "BERNARD",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1989-04-19T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-08-27T11:18:55.846",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55156,
+  "images": {},
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014677",
+   "name": "SMITH JR, KEVIN",
+   "alias": "SMITH JR, KEVIN",
+   "aliasRaw": "SMITH JR, KEVIN",
+   "passportName": "KEVIN, ALLEN",
+   "passportSurname": "SMITH JR",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1991-12-01T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-08-27T11:18:55.581",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55155,
+  "images": {},
+  "club": {
+   "code": "LEM",
+   "name": "Le Mans Sarthe Basket",
+   "abbreviatedName": "Le Mans Sarthe",
+   "editorialName": "Le Mans Sarthe",
+   "tvCode": "MSB",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ }
+]

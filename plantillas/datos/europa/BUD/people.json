@@ -1,0 +1,2021 @@
+[
+ {
+  "person": {
+   "code": "008783",
+   "name": "TODOROVIC , VLADIMIR",
+   "alias": "TODOROVIC , VLADIMIR",
+   "aliasRaw": "TODOROVIC , VLADIMIR",
+   "passportName": "VLADIMIR",
+   "passportSurname": "TODOROVIC",
+   "jerseyName": "",
+   "abbreviatedName": "",
+   "country": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1985-01-12T00:00:00",
+   "birthCountry": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-01T08:13:35.131",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 6,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55294,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011281",
+   "name": "FERRELL, YOGI",
+   "alias": "FERRELL, KEVIN",
+   "aliasRaw": "FERRELL, KEVIN",
+   "passportName": "KEVIN DUANE",
+   "passportSurname": "FERRELL JR",
+   "jerseyName": "FERRELL",
+   "abbreviatedName": "Ferrell, Y.",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 182,
+   "weight": 80,
+   "birthDate": "1993-05-09T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "YogiFerrell11",
+   "instagramAccount": "yogiferre11",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T18:22:09.849",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "11",
+  "dorsalRaw": "11",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "BUDUCNOST VOLI",
+  "externalId": 56401,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/4b274ff3-a150-411a-ace8-727d6bc6eda7.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/4b274ff3-a150-411a-ace8-727d6bc6eda7.png"
+  },
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "003840",
+   "name": "BOUTEILLE, AXEL",
+   "alias": "BOUTEILLE, AXEL",
+   "aliasRaw": "BOUTEILLE, AXEL",
+   "passportName": "AXEL",
+   "passportSurname": "BOUTEILLE",
+   "jerseyName": "BOUTEILLE",
+   "abbreviatedName": "Bouteille, A.",
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 201,
+   "weight": 92,
+   "birthDate": "1995-04-14T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T11:02:13.688",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "83",
+  "dorsalRaw": "83",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "BUDUCNOST VOLI",
+  "externalId": 55958,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/26c283dd-f277-4607-af5b-9713f02355cb.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/26c283dd-f277-4607-af5b-9713f02355cb.png"
+  },
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013247",
+   "name": "KOVLIAR, OLEKSANDR",
+   "alias": "KOVLIAR, OLEKSANDR",
+   "aliasRaw": "KOVLIAR, OLEKSANDR",
+   "passportName": "OLEKSANDR",
+   "passportSurname": "KOVLIAR",
+   "jerseyName": "Oleksadr",
+   "abbreviatedName": "",
+   "country": {
+    "code": "UKR",
+    "name": "Ukraine"
+   },
+   "height": 191,
+   "weight": 85,
+   "birthDate": "2002-06-26T00:00:00",
+   "birthCountry": {
+    "code": "UKR",
+    "name": "Ukraine"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T11:02:13.46",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "50",
+  "dorsalRaw": "50",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "BUDUCNOST VOLI",
+  "externalId": 55957,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/760505b7-1953-4844-980b-1e380c0dc585.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/760505b7-1953-4844-980b-1e380c0dc585.png"
+  },
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "006977",
+   "name": "DORDEVIC, STEFAN",
+   "alias": "Dordevic",
+   "aliasRaw": "Dordevic",
+   "passportName": "STEFAN",
+   "passportSurname": "DORDEVIC",
+   "jerseyName": "DORDEVIC",
+   "abbreviatedName": "Dordevic, S.",
+   "country": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "height": 203,
+   "weight": 109,
+   "birthDate": "1998-12-04T00:00:00",
+   "birthCountry": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T11:02:13.217",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "45",
+  "dorsalRaw": "45",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "SLASK WROCLAW",
+  "externalId": 55956,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/216a8507-db43-4723-833c-ddbcd0790ee1.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/216a8507-db43-4723-833c-ddbcd0790ee1.png"
+  },
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008923",
+   "name": "BOUTSIELE, JERRY",
+   "alias": "BOUTSIELE, JERRY",
+   "aliasRaw": "BOUTSIELE, JERRY",
+   "passportName": "JERRY FRANCK",
+   "passportSurname": "BOUTSIELE",
+   "jerseyName": "BOUTSIELE",
+   "abbreviatedName": "Boutsiele, J.",
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 208,
+   "weight": 125,
+   "birthDate": "1992-12-16T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T11:02:12.974",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "16",
+  "dorsalRaw": "16",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "BUDUCNOST VOLI",
+  "externalId": 55955,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/526379c1-c6f0-40f4-87e6-1e669b94b264.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/526379c1-c6f0-40f4-87e6-1e669b94b264.png"
+  },
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013256",
+   "name": "MORGAN, JUWAN",
+   "alias": "MORGAN, JUWAN",
+   "aliasRaw": "MORGAN, JUWAN",
+   "passportName": "JUWAN CHRISTOPHER",
+   "passportSurname": "MORGAN",
+   "jerseyName": "Morgan",
+   "abbreviatedName": "",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 201,
+   "weight": 105,
+   "birthDate": "1997-04-17T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T11:02:12.742",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "15",
+  "dorsalRaw": "15",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "BUDUCNOST VOLI",
+  "externalId": 55954,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/a00771c0-0d9a-4bf7-b1f9-ccfaac13166e.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/a00771c0-0d9a-4bf7-b1f9-ccfaac13166e.png"
+  },
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010307",
+   "name": "JOVANOVIC, DORDIJE",
+   "alias": "JOVANOVIC, DORDIJE",
+   "aliasRaw": "JOVANOVIC, DORDIJE",
+   "passportName": "DORDIJE",
+   "passportSurname": "JOVANOVIC",
+   "jerseyName": "JOVANOVIC",
+   "abbreviatedName": "Jovanovic, D.",
+   "country": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "height": 200,
+   "weight": 96,
+   "birthDate": "2003-05-15T00:00:00",
+   "birthCountry": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T11:02:12.473",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "13",
+  "dorsalRaw": "13",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "BUDUCNOST VOLI",
+  "externalId": 55953,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/882cd7d2-ee5d-42b6-a5ed-4368f16b8e73.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/882cd7d2-ee5d-42b6-a5ed-4368f16b8e73.png"
+  },
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013926",
+   "name": "MOLINAR, IVERSON",
+   "alias": "MOLINAR, IVERSON",
+   "aliasRaw": "MOLINAR, IVERSON",
+   "passportName": "IVERSON LATRELL",
+   "passportSurname": "MOLINAR JONES",
+   "jerseyName": "MOLINAR",
+   "abbreviatedName": null,
+   "country": {
+    "code": "PAN",
+    "name": "Panama"
+   },
+   "height": 193,
+   "weight": 86,
+   "birthDate": "1999-12-03T00:00:00",
+   "birthCountry": {
+    "code": "PAN",
+    "name": "Panama"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T11:02:12.221",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "10",
+  "dorsalRaw": "10",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "U-BT CLUJ-NAPOCA",
+  "externalId": 55952,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/2c8ba360-e31d-43c7-9d99-79fe29037ac7.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/2c8ba360-e31d-43c7-9d99-79fe29037ac7.png"
+  },
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014847",
+   "name": "HADZIBEGOVIC, EMIR",
+   "alias": "HADZIBEGOVIC, EMIR",
+   "aliasRaw": "HADZIBEGOVIC, EMIR",
+   "passportName": "EMIR",
+   "passportSurname": "HADZIBEGOVIC",
+   "jerseyName": "Hadzibegovic",
+   "abbreviatedName": null,
+   "country": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "height": 206,
+   "weight": 103,
+   "birthDate": "1996-08-24T00:00:00",
+   "birthCountry": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T11:02:11.959",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "8",
+  "dorsalRaw": "8",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "SC DERBI",
+  "externalId": 55951,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/da7bef08-79e0-4b4e-a966-0f1d129d0f5c.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/da7bef08-79e0-4b4e-a966-0f1d129d0f5c.png"
+  },
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "006566",
+   "name": "SLAVKOVIC, ANDRIJA",
+   "alias": "Slavkovic",
+   "aliasRaw": "Slavkovic",
+   "passportName": "ANDRIJA",
+   "passportSurname": "SLAVKOVIC",
+   "jerseyName": "Slavkovic",
+   "abbreviatedName": "Slavkovic, A.",
+   "country": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "height": 203,
+   "weight": 123,
+   "birthDate": "1999-02-15T00:00:00",
+   "birthCountry": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T11:02:11.691",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "7",
+  "dorsalRaw": "7",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "BUDUCNOST VOLI",
+  "externalId": 55950,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/b62d7817-13d2-479b-a618-764589701c74.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/b62d7817-13d2-479b-a618-764589701c74.png"
+  },
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012630",
+   "name": "MAGEE, FLETCHER",
+   "alias": "MAGEE, FLETCHER YATES",
+   "aliasRaw": "MAGEE, FLETCHER YATES",
+   "passportName": "FLETCHER YATES",
+   "passportSurname": "MAGEE",
+   "jerseyName": "Magee",
+   "abbreviatedName": "",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 193,
+   "weight": 91,
+   "birthDate": "1996-11-13T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T11:02:11.384",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "3",
+  "dorsalRaw": "3",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "BUDUCNOST VOLI",
+  "externalId": 55949,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/bf90003c-39e3-4964-9693-ea2a3c20faca.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/bf90003c-39e3-4964-9693-ea2a3c20faca.png"
+  },
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011202",
+   "name": "SHAYOK, MARIAL",
+   "alias": "SHAYOK, MARIAL",
+   "aliasRaw": "SHAYOK, MARIAL",
+   "passportName": "MARIAL",
+   "passportSurname": "SHAYOK",
+   "jerseyName": "SHAYOK",
+   "abbreviatedName": "Shayok, M.",
+   "country": {
+    "code": "CAN",
+    "name": "Canada"
+   },
+   "height": 196,
+   "weight": 93,
+   "birthDate": "1995-07-26T00:00:00",
+   "birthCountry": {
+    "code": "CAN",
+    "name": "Canada"
+   },
+   "twitterAccount": "MarialShayok",
+   "instagramAccount": "marialshayok/",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T11:02:11.046",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "1",
+  "dorsalRaw": "1",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "ALTIRI CHIBA",
+  "externalId": 55948,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/f0baa325-f237-49d7-81e6-8b38715cefac.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/f0baa325-f237-49d7-81e6-8b38715cefac.png"
+  },
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013276",
+   "name": "SMITH, JUSTIN",
+   "alias": "SMITH, JUSTIN",
+   "aliasRaw": "SMITH, JUSTIN",
+   "passportName": "JUSTIN EDWARD",
+   "passportSurname": "SMITH",
+   "jerseyName": "Smith",
+   "abbreviatedName": "",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 201,
+   "weight": 104,
+   "birthDate": "1999-03-01T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T11:02:10.782",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "0",
+  "dorsalRaw": "0",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "HAPOEL BANK YAHAV JERUSALEM",
+  "externalId": 55947,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/e5b102ec-75a8-46b1-9c9b-9e45a7b97d40.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/e5b102ec-75a8-46b1-9c9b-9e45a7b97d40.png"
+  },
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014837",
+   "name": "MITROVIC, JOVAN",
+   "alias": "MITROVIC, JOVAN",
+   "aliasRaw": "MITROVIC, JOVAN",
+   "passportName": "JOVAN",
+   "passportSurname": "MITROVIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "2000-08-29T00:00:00",
+   "birthCountry": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-08T10:44:07.617",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55924,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012782",
+   "name": "ZAKELJ, ANDREJ",
+   "alias": "ZAKELJ, ANDREJ",
+   "aliasRaw": "ZAKELJ, ANDREJ",
+   "passportName": "ANDREJ",
+   "passportSurname": "ZAKELJ",
+   "jerseyName": "",
+   "abbreviatedName": "",
+   "country": {
+    "code": "SLO",
+    "name": "Slovenia"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1978-11-17T00:00:00",
+   "birthCountry": {
+    "code": "SLO",
+    "name": "Slovenia"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "E",
+  "typeName": "Coach",
+  "active": true,
+  "startDate": "2026-09-08T10:44:07.306",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55923,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014755",
+   "name": "DRAGOJEVIC, HELENA",
+   "alias": "DRAGOJEVIC, HELENA",
+   "aliasRaw": "DRAGOJEVIC, HELENA",
+   "passportName": "HELENA",
+   "passportSurname": "DRAGOJEVIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2008-07-18T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T08:33:28.434",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55748,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009542",
+   "name": "MIHAJLOV , PREDRAG",
+   "alias": "MIHAJLOV , PREDRAG",
+   "aliasRaw": "MIHAJLOV , PREDRAG",
+   "passportName": "PREDRAG",
+   "passportSurname": "MIHAJLOV",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1992-01-16T00:00:00",
+   "birthCountry": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-01T08:13:36.761",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55301,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012081",
+   "name": "BOJIC , LAZAR",
+   "alias": "BOJIC , LAZAR",
+   "aliasRaw": "BOJIC , LAZAR",
+   "passportName": "LAZAR",
+   "passportSurname": "BOJIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "2000-04-21T00:00:00",
+   "birthCountry": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-01T08:13:36.466",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55300,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011039",
+   "name": "KRSTAJIC, DRAGISA",
+   "alias": "KRSTAJIC, DRAGISA",
+   "aliasRaw": "KRSTAJIC, DRAGISA",
+   "passportName": "DRAGISA",
+   "passportSurname": "KRSTAJIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1983-07-13T00:00:00",
+   "birthCountry": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-01T08:13:36.236",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55299,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "000202",
+   "name": "SEHOVIC, SUAD",
+   "alias": "Sehovic",
+   "aliasRaw": "Sehovic",
+   "passportName": "SUAD",
+   "passportSurname": "SEHOVIC",
+   "jerseyName": "Sehovic",
+   "abbreviatedName": "Sehovic, S.",
+   "country": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1987-02-19T00:00:00",
+   "birthCountry": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-01T08:13:36.003",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55298,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014140",
+   "name": "MANDIC, IGOR",
+   "alias": "MANDIC, IGOR",
+   "aliasRaw": "MANDIC, IGOR",
+   "passportName": "IGOR",
+   "passportSurname": "MANDIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1987-07-06T00:00:00",
+   "birthCountry": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-01T08:13:35.778",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55297,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "BEN",
+   "name": "PAJOVIC, GAVRILO",
+   "alias": "PAJOVIC, GAVRILO",
+   "aliasRaw": "PAJOVIC, GAVRILO",
+   "passportName": "GAVRILO",
+   "passportSurname": "PAJOVIC",
+   "jerseyName": "",
+   "abbreviatedName": "Pajovic, G.",
+   "country": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1971-07-03T00:00:00",
+   "birthCountry": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "U",
+  "typeName": "Team_Manager",
+  "active": true,
+  "startDate": "2026-09-01T08:13:35.562",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55296,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010554",
+   "name": "MILOVIC, VASO",
+   "alias": "MILOVIC, VASO",
+   "aliasRaw": "MILOVIC, VASO",
+   "passportName": "VASO",
+   "passportSurname": "MILOVIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1995-06-23T00:00:00",
+   "birthCountry": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-01T08:13:35.358",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55295,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "007105",
+   "name": "MUSIC, NIKOLA",
+   "alias": "NIKOLA , MUSIC",
+   "aliasRaw": "NIKOLA , MUSIC",
+   "passportName": "NIKOLA",
+   "passportSurname": "MUSIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1980-12-19T00:00:00",
+   "birthCountry": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-01T08:13:34.902",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55293,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014078",
+   "name": "KNEZEVIC, SAVO",
+   "alias": "KNEZEVIC, SAVO",
+   "aliasRaw": "KNEZEVIC, SAVO",
+   "passportName": "SAVO",
+   "passportSurname": "KNEZEVIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2004-07-06T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-21T12:11:58.671",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55000,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014071",
+   "name": "KONATAR, DANILO",
+   "alias": "KONATAR, DANILO",
+   "aliasRaw": "KONATAR, DANILO",
+   "passportName": "DANILO",
+   "passportSurname": "KONATAR",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1992-08-09T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-21T12:11:58.499",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54999,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013242",
+   "name": "VUJICIC, LAZAR",
+   "alias": "VUJICIC, LAZAR",
+   "aliasRaw": "VUJICIC, LAZAR",
+   "passportName": "LAZAR",
+   "passportSurname": "VUJICIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1998-05-30T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-21T12:11:58.296",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54998,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012519",
+   "name": "VUJOVIC, JOVAN",
+   "alias": "VUJOVIC, JOVAN",
+   "aliasRaw": "VUJOVIC, JOVAN",
+   "passportName": "JOVAN",
+   "passportSurname": "VUJOVIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2002-08-29T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-21T12:11:58.133",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54997,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011073",
+   "name": "CETKOVIC, TATJANA",
+   "alias": "CETKOVIC, TATJANA",
+   "aliasRaw": "CETKOVIC, TATJANA",
+   "passportName": "TATJANA",
+   "passportSurname": "CETKOVIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1990-04-16T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-21T12:11:57.972",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54996,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010600",
+   "name": "KNEZEVIC, LAZAR",
+   "alias": "KNEZEVIC, LAZAR",
+   "aliasRaw": "KNEZEVIC, LAZAR",
+   "passportName": "LAZAR",
+   "passportSurname": "KNEZEVIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2003-06-07T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-21T12:11:57.792",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54995,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008639",
+   "name": "VUJACIC, PETAR",
+   "alias": "VUJACIC, PETAR",
+   "aliasRaw": "VUJACIC, PETAR",
+   "passportName": "PETAR",
+   "passportSurname": "VUJACIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1973-04-07T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-21T12:11:57.616",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54994,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008629",
+   "name": "RADINOVIC, KAROLINA",
+   "alias": "RADINOVIC, KAROLINA",
+   "aliasRaw": "RADINOVIC, KAROLINA",
+   "passportName": "KAROLINA",
+   "passportSurname": "RADINOVIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1984-06-15T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-21T12:11:57.453",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54993,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008626",
+   "name": "SEKULIC, SINISA",
+   "alias": "SEKULIC, SINISA",
+   "aliasRaw": "SEKULIC, SINISA",
+   "passportName": "SINISA",
+   "passportSurname": "SEKULIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1971-04-22T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-21T12:11:57.266",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54992,
+  "images": {},
+  "club": {
+   "code": "BUD",
+   "name": "Buducnost VOLI Podgorica",
+   "abbreviatedName": "Buducnost VOLI",
+   "editorialName": "Buducnost",
+   "tvCode": "BUD",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ }
+]

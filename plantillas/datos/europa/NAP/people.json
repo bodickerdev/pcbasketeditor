@@ -1,0 +1,2417 @@
+[
+ {
+  "person": {
+   "code": "015238",
+   "name": "DESIDERIO, MARCO",
+   "alias": "DESIDERIO, MARCO",
+   "aliasRaw": "DESIDERIO, MARCO",
+   "passportName": "MARCO",
+   "passportSurname": "DESIDERIO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1996-11-15T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-25T16:30:09.372",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57020,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015237",
+   "name": "MAKA, ROBERT",
+   "alias": "MAKA, ROBERT",
+   "aliasRaw": "MAKA, ROBERT",
+   "passportName": "ROBERT",
+   "passportSurname": "MAKA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1997-09-30T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-25T16:30:09.128",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57019,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015236",
+   "name": "LAUDATI, ALFONSO",
+   "alias": "LAUDATI, ALFONSO",
+   "aliasRaw": "LAUDATI, ALFONSO",
+   "passportName": "ALFONSO",
+   "passportSurname": "LAUDATI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1981-09-17T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-25T16:30:08.855",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57018,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015222",
+   "name": "ANDRISANI, CRISTIAN",
+   "alias": "ANDRISANI, CRISTIAN",
+   "aliasRaw": "ANDRISANI, CRISTIAN",
+   "passportName": "CRISTIAN VALENTINO",
+   "passportSurname": "ANDRISANI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1977-02-14T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-23T15:26:44.364",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56993,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008004",
+   "name": "TARCZEWSKI, KALEB",
+   "alias": "TARCZEWSKI, KALEB",
+   "aliasRaw": "TARCZEWSKI, KALEB",
+   "passportName": "KALEB ERICK",
+   "passportSurname": "TARCZEWSKI",
+   "jerseyName": "TARCZEWSKI",
+   "abbreviatedName": "Tarczewski, K.",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 213,
+   "weight": 116,
+   "birthDate": "1993-02-26T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-23T14:28:52.437",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "25",
+  "dorsalRaw": "25",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "YOKOHAMA B-CORSAIRS",
+  "externalId": 56989,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/4c100ffa-13e0-4bfe-9c81-e6dda3e5d8e8.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/4c100ffa-13e0-4bfe-9c81-e6dda3e5d8e8.png"
+  },
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "007249",
+   "name": "REPESA, DINO",
+   "alias": "REPESA, DINO",
+   "aliasRaw": "REPESA, DINO",
+   "passportName": "DINO",
+   "passportSurname": "REPESA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "CRO",
+    "name": "Croatia"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1992-09-25T00:00:00",
+   "birthCountry": {
+    "code": "CRO",
+    "name": "Croatia"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-10T12:45:55.737",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56471,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014123",
+   "name": "DOWTIN JR, JEFFREY",
+   "alias": "DOWTIN JR, JEFFREY",
+   "aliasRaw": "DOWTIN JR, JEFFREY",
+   "passportName": "JEFFREY LEE",
+   "passportSurname": "DOWTIN JR",
+   "jerseyName": "DOWTIN JR",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 191,
+   "weight": 95,
+   "birthDate": "1997-05-10T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-10T12:34:38.226",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "3",
+  "dorsalRaw": "3",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "MACCABI TEL AVIV",
+  "externalId": 56467,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/41843f35-2811-47af-a44e-d67f5bb5f1e9.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/41843f35-2811-47af-a44e-d67f5bb5f1e9.png"
+  },
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014088",
+   "name": "SELJAAS, ZACHARY",
+   "alias": "SELJAAS, ZACHARY",
+   "aliasRaw": "SELJAAS, ZACHARY",
+   "passportName": "ZACHARY TODD",
+   "passportSurname": "SELJAAS",
+   "jerseyName": "SELJAAS",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 200,
+   "weight": 110,
+   "birthDate": "1997-07-11T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-10T12:34:37.956",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "1",
+  "dorsalRaw": "1",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "ASVEL BASKET",
+  "externalId": 56466,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/0bd31dd7-a747-4fa7-84ee-e510f14733b1.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/0bd31dd7-a747-4fa7-84ee-e510f14733b1.png"
+  },
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015083",
+   "name": "MADAU, MARCO",
+   "alias": "MADAU, MARCO",
+   "aliasRaw": "MADAU, MARCO",
+   "passportName": "MARCO",
+   "passportSurname": "MADAU",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1997-07-11T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-10T12:14:27.044",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56460,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015082",
+   "name": "MELILLO, MATTEO",
+   "alias": "MELILLO, MATTEO",
+   "aliasRaw": "MELILLO, MATTEO",
+   "passportName": "MATTEO",
+   "passportSurname": "MELILLO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1993-11-30T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-10T12:13:13.467",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56459,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "007086",
+   "name": "DANESI, GIUSTINO",
+   "alias": "DANESI, GIUSTINO",
+   "aliasRaw": "DANESI, GIUSTINO",
+   "passportName": "GIUSTINO",
+   "passportSurname": "DANESI DE LUCA",
+   "jerseyName": "",
+   "abbreviatedName": "",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1967-10-06T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-10T12:11:15.554",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56458,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015081",
+   "name": "BOCCI, DAVIDE",
+   "alias": "BOCCI, DAVIDE",
+   "aliasRaw": "BOCCI, DAVIDE",
+   "passportName": "DAVIDE",
+   "passportSurname": "BOCCI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1995-02-13T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-10T12:10:09.887",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56457,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015080",
+   "name": "LAUGHLIN, JAMES",
+   "alias": "LAUGHLIN, JAMES",
+   "aliasRaw": "LAUGHLIN, JAMES",
+   "passportName": "JAMES THOMAS",
+   "passportSurname": "LAUGHLIN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1990-03-28T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-10T12:06:31.438",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56456,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015079",
+   "name": "GATTO, ARMANDO",
+   "alias": "GATTO, ARMANDO",
+   "aliasRaw": "GATTO, ARMANDO",
+   "passportName": "ARMANDO",
+   "passportSurname": "GATTO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1993-07-10T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-10T11:59:44.609",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56455,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015078",
+   "name": "CASILLO, BENIAMINO",
+   "alias": "CASILLO, BENIAMINO",
+   "aliasRaw": "CASILLO, BENIAMINO",
+   "passportName": "BENIAMINO",
+   "passportSurname": "CASILLO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1981-01-18T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-10T11:58:03.288",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56454,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015077",
+   "name": "CRESCENZI, ANTONIO",
+   "alias": "CRESCENZI, ANTONIO",
+   "aliasRaw": "CRESCENZI, ANTONIO",
+   "passportName": "ANTONIO",
+   "passportSurname": "CRESCENZI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1998-11-13T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "U",
+  "typeName": "Team_Manager",
+  "active": true,
+  "startDate": "2026-09-10T11:57:05.602",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56453,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015076",
+   "name": "TROVATO, PABLO",
+   "alias": "TROVATO, PABLO",
+   "aliasRaw": "TROVATO, PABLO",
+   "passportName": "PABLO",
+   "passportSurname": "TROVATO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "2003-02-11T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-10T11:55:48.823",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56452,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015075",
+   "name": "DI DOMENICO, GIANLUCA",
+   "alias": "DI DOMENICO, GIANLUCA",
+   "aliasRaw": "DI DOMENICO, GIANLUCA",
+   "passportName": "GIANLUCA",
+   "passportSurname": "DI DOMENICO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1979-10-04T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "U",
+  "typeName": "Team_Manager",
+  "active": true,
+  "startDate": "2026-09-10T11:50:20.862",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56451,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015074",
+   "name": "GABRIELE, DAVIDE",
+   "alias": "GABRIELE, DAVIDE",
+   "aliasRaw": "GABRIELE, DAVIDE",
+   "passportName": "DAVIDE",
+   "passportSurname": "GABRIELE",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1992-04-03T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-10T11:42:36.112",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56450,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "WCD",
+   "name": "REPESA, JASMIN",
+   "alias": "REPESA, JASMIN",
+   "aliasRaw": "REPESA, JASMIN",
+   "passportName": "JASMIN",
+   "passportSurname": "REPESA",
+   "jerseyName": "",
+   "abbreviatedName": "Repesa, J.",
+   "country": {
+    "code": "CRO",
+    "name": "Croatia"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1961-06-01T00:00:00",
+   "birthCountry": {
+    "code": "BIH",
+    "name": "Bosnia and Herzegovina"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "E",
+  "typeName": "Coach",
+  "active": true,
+  "startDate": "2026-09-10T11:40:27.196",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56449,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010579",
+   "name": "PETRUCELLI, JOHN",
+   "alias": "PETRUCELLI, JOHN",
+   "aliasRaw": "PETRUCELLI, JOHN",
+   "passportName": "JOHN JOSEPH",
+   "passportSurname": "PETRUCELLI",
+   "jerseyName": "PETRUCELLI",
+   "abbreviatedName": "Petrucelli, J.",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 193,
+   "weight": 86,
+   "birthDate": "1992-10-27T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-10T09:34:20.959",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "11",
+  "dorsalRaw": "11",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "GALATASARAY SPOR KULUBU DERNEGI",
+  "externalId": 56424,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/33ab6ea8-fe49-4a88-98c5-0758413b131b.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/33ab6ea8-fe49-4a88-98c5-0758413b131b.png"
+  },
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015058",
+   "name": "RAMSEY, JAHMI'US",
+   "alias": "RAMSEY, JAHMI'US",
+   "aliasRaw": "RAMSEY, JAHMI'US",
+   "passportName": "JAHMIUS ZYMERE",
+   "passportSurname": "RAMSEY",
+   "jerseyName": "RAMSEY",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 192,
+   "weight": 0,
+   "birthDate": "2001-06-09T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-10T09:32:51.112",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "37",
+  "dorsalRaw": "37",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "NBA",
+  "externalId": 56423,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/671c10f6-81d1-4a3c-b505-4047778d0e89.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/671c10f6-81d1-4a3c-b505-4047778d0e89.png"
+  },
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "006277",
+   "name": "TOTE, LEONARDO",
+   "alias": "TOTE, LEONARDO",
+   "aliasRaw": "TOTE, LEONARDO",
+   "passportName": "LEONARDO",
+   "passportSurname": "TOTE",
+   "jerseyName": "TOTÈ",
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 212,
+   "weight": 107,
+   "birthDate": "1997-07-08T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-10T09:32:50.866",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "35",
+  "dorsalRaw": "35",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "SS NAPOLIBASKET SRL",
+  "externalId": 56422,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/8cec24db-e108-433d-b73d-9df5ced5c85a.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/8cec24db-e108-433d-b73d-9df5ced5c85a.png"
+  },
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "006721",
+   "name": "CARUSO, GUGLIELMO",
+   "alias": "Caruso",
+   "aliasRaw": "Caruso",
+   "passportName": "GUGLIELMO",
+   "passportSurname": "CARUSO",
+   "jerseyName": "CARUSO",
+   "abbreviatedName": "Caruso, G.",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 204,
+   "weight": 102,
+   "birthDate": "1999-07-03T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-10T09:32:50.631",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "30",
+  "dorsalRaw": "30",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "SS NAPOLIBASKET SRL",
+  "externalId": 56421,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/83c26c68-7fa2-44e0-930f-60de637f44ab.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/83c26c68-7fa2-44e0-930f-60de637f44ab.png"
+  },
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009429",
+   "name": "JAKIMOVSKI, ANDREJ",
+   "alias": "JAKIMOVSKI, ANDREJ",
+   "aliasRaw": "JAKIMOVSKI, ANDREJ",
+   "passportName": "ANDREJ",
+   "passportSurname": "JAKIMOVSKI",
+   "jerseyName": "JAKIMOVSKI",
+   "abbreviatedName": "Jakimovski, A.",
+   "country": {
+    "code": "BUL",
+    "name": "Bulgaria"
+   },
+   "height": 203,
+   "weight": 98,
+   "birthDate": "2001-03-18T00:00:00",
+   "birthCountry": {
+    "code": "MKD",
+    "name": "North Macedonia"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-10T09:32:50.405",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "23",
+  "dorsalRaw": "23",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "DOLOMITI ENERGIA TRENTINO",
+  "externalId": 56420,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/386d3d86-c47c-4007-948d-b556a9f3ac09.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/386d3d86-c47c-4007-948d-b556a9f3ac09.png"
+  },
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "007424",
+   "name": "BROWN, MARKEL",
+   "alias": "BROWN, MARKEL",
+   "aliasRaw": "BROWN, MARKEL",
+   "passportName": "DE MARIOUS MARKEL",
+   "passportSurname": "BROWN",
+   "jerseyName": "BROWN",
+   "abbreviatedName": "Brown, M.",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 191,
+   "weight": 84,
+   "birthDate": "1992-01-29T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-10T09:32:50.158",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "22",
+  "dorsalRaw": "22",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "PALLACANESTRO TRIESTE",
+  "externalId": 56419,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/b72dcf54-cc82-4bbd-8adf-654d19ce078c.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/b72dcf54-cc82-4bbd-8adf-654d19ce078c.png"
+  },
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015057",
+   "name": "WHITE, JACK",
+   "alias": "WHITE, JACK",
+   "aliasRaw": "WHITE, JACK",
+   "passportName": "JACKSON THOMAS",
+   "passportSurname": "WHITE",
+   "jerseyName": "WHITE",
+   "abbreviatedName": null,
+   "country": {
+    "code": "AUS",
+    "name": "Australia"
+   },
+   "height": 195,
+   "weight": 0,
+   "birthDate": "1997-08-05T00:00:00",
+   "birthCountry": {
+    "code": "AUS",
+    "name": "Australia"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-10T09:32:49.932",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "14",
+  "dorsalRaw": "14",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "MERSIN BUYUKSEHIR BELEDIYESPOR",
+  "externalId": 56418,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/e637266e-4f00-49bd-a757-b309249f664b.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/e637266e-4f00-49bd-a757-b309249f664b.png"
+  },
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012865",
+   "name": "SANKARE, ASSANE",
+   "alias": "SANKARE, ASSANE",
+   "aliasRaw": "SANKARE, ASSANE",
+   "passportName": "ASSANE",
+   "passportSurname": "SANKARE",
+   "jerseyName": "Sankare",
+   "abbreviatedName": null,
+   "country": {
+    "code": "SEN",
+    "name": "Senegal"
+   },
+   "height": 205,
+   "weight": 95,
+   "birthDate": "2007-04-10T00:00:00",
+   "birthCountry": {
+    "code": "SEN",
+    "name": "Senegal"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-10T09:32:49.709",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "12",
+  "dorsalRaw": "12",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "RINASCITA BASKET RIMINI",
+  "externalId": 56417,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/ec1dd915-1147-45ee-86c7-95c871111677.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/ec1dd915-1147-45ee-86c7-95c871111677.png"
+  },
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015056",
+   "name": "FAGGIAN, LEONARDO",
+   "alias": "FAGGIAN, LEONARDO",
+   "aliasRaw": "FAGGIAN, LEONARDO",
+   "passportName": "LEONARDO CATRIEL",
+   "passportSurname": "FAGGIAN",
+   "jerseyName": "FAGGIAN",
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 195,
+   "weight": 92,
+   "birthDate": "2004-02-06T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-10T09:32:49.492",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "10",
+  "dorsalRaw": "10",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "SS NAPOLIBASKET SRL",
+  "externalId": 56416,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/5982a4d5-728e-45ed-9057-0b72c95a8453.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/5982a4d5-728e-45ed-9057-0b72c95a8453.png"
+  },
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "004381",
+   "name": "SPISSU, MARCO",
+   "alias": "SPISSU, MARCO",
+   "aliasRaw": "SPISSU, MARCO",
+   "passportName": "MARCO",
+   "passportSurname": "SPISSU",
+   "jerseyName": "SPISSU",
+   "abbreviatedName": "Spissu, M.",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 182,
+   "weight": 80,
+   "birthDate": "1995-02-05T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-10T09:32:49.239",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "0",
+  "dorsalRaw": "0",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "BASKET ZARAGOZA 2002 SAD",
+  "externalId": 56415,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/d09816ff-af8e-42d7-9a08-789bd5076780.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/d09816ff-af8e-42d7-9a08-789bd5076780.png"
+  },
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015009",
+   "name": "RAIOLA, VINCENZO",
+   "alias": "RAIOLA, VINCENZO",
+   "aliasRaw": "RAIOLA, VINCENZO",
+   "passportName": "VINCENZO",
+   "passportSurname": "RAIOLA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1988-03-01T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T11:10:57.689",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56297,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015008",
+   "name": "POLLIOSO, ROSSELLA",
+   "alias": "POLLIOSO, ROSSELLA",
+   "aliasRaw": "POLLIOSO, ROSSELLA",
+   "passportName": "ROSSELLA",
+   "passportSurname": "POLLIOSO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1983-05-28T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T11:10:57.453",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56296,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015007",
+   "name": "LIVERANI, MATTEO",
+   "alias": "LIVERANI, MATTEO",
+   "aliasRaw": "LIVERANI, MATTEO",
+   "passportName": "MATTEO",
+   "passportSurname": "LIVERANI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1977-08-23T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": false,
+  "startDate": "2026-09-09T11:10:57.179",
+  "endDate": "2026-09-24T11:11:27.957",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56295,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015006",
+   "name": "D'ANDREA, DANIELA",
+   "alias": "D'ANDREA, DANIELA",
+   "aliasRaw": "D'ANDREA, DANIELA",
+   "passportName": "DANIELA",
+   "passportSurname": "D ANDREA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1973-06-01T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T11:10:56.93",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56294,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015005",
+   "name": "LILLO, CONCETTA",
+   "alias": "LILLO, CONCETTA",
+   "aliasRaw": "LILLO, CONCETTA",
+   "passportName": "CONCETTA",
+   "passportSurname": "LILLO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1987-02-07T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T11:10:56.64",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56293,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015004",
+   "name": "BRONTOLONE, ELISA",
+   "alias": "BRONTOLONE, ELISA",
+   "aliasRaw": "BRONTOLONE, ELISA",
+   "passportName": "ELISA",
+   "passportSurname": "BRONTOLONE",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1986-03-05T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T11:10:56.361",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56292,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015003",
+   "name": "CRISPO, MARIACRISTINA",
+   "alias": "CRISPO, MARIACRISTINA",
+   "aliasRaw": "CRISPO, MARIACRISTINA",
+   "passportName": "MARIACRISTINA",
+   "passportSurname": "CRISPO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1987-05-12T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": false,
+  "startDate": "2026-09-09T11:10:56.129",
+  "endDate": "2026-09-28T15:37:28.56",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56291,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015002",
+   "name": "BORRIELLO, ROSA",
+   "alias": "BORRIELLO, ROSA",
+   "aliasRaw": "BORRIELLO, ROSA",
+   "passportName": "ROSA",
+   "passportSurname": "BORRIELLO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1987-04-05T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T11:10:55.891",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56290,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015001",
+   "name": "TRIGGIANI, MARIO",
+   "alias": "TRIGGIANI, MARIO",
+   "aliasRaw": "TRIGGIANI, MARIO",
+   "passportName": "MARIO",
+   "passportSurname": "TRIGGIANI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1990-02-19T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": false,
+  "startDate": "2026-09-09T11:10:55.661",
+  "endDate": "2026-09-28T08:59:51.56",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56289,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015000",
+   "name": "PEPE, ALESSANDRO",
+   "alias": "PEPE, ALESSANDRO",
+   "aliasRaw": "PEPE, ALESSANDRO",
+   "passportName": "ALESSANDRO",
+   "passportSurname": "PEPE",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1999-07-01T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T11:10:55.416",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56288,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014999",
+   "name": "GIANFRANCESCO, LUCA",
+   "alias": "GIANFRANCESCO, LUCA",
+   "aliasRaw": "GIANFRANCESCO, LUCA",
+   "passportName": "LUCA",
+   "passportSurname": "GIANFRANCESCO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1995-11-19T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T11:10:55.182",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56287,
+  "images": {},
+  "club": {
+   "code": "NAP",
+   "name": "Napoli Basketball",
+   "abbreviatedName": "Napoli",
+   "editorialName": "Napoli",
+   "tvCode": "NAP",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ }
+]

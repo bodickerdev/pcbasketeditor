@@ -1,0 +1,2594 @@
+[
+ {
+  "person": {
+   "code": "012762",
+   "name": "CASALONE, EDOARDO",
+   "alias": "CASALONE, EDOARDO",
+   "aliasRaw": "CASALONE, EDOARDO",
+   "passportName": "EDOARDO",
+   "passportSurname": "CASALONE",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1989-08-12T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-08T11:54:32.535",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 6,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56015,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015260",
+   "name": "OLYNYK, KELLY",
+   "alias": "OLYNYK, KELLY",
+   "aliasRaw": "OLYNYK, KELLY",
+   "passportName": "KELLY TYLER CORNESS",
+   "passportSurname": "OLYNYK",
+   "jerseyName": "Olynyk",
+   "abbreviatedName": null,
+   "country": {
+    "code": "CAN",
+    "name": "Canada"
+   },
+   "height": 213,
+   "weight": 109,
+   "birthDate": "1991-04-19T00:00:00",
+   "birthCountry": {
+    "code": "CAN",
+    "name": "Canada"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "https://www.instagram.com/kellyolynyk/",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-10-12T08:04:04.976",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "22",
+  "dorsalRaw": "22",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "NBA",
+  "externalId": 57069,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4xs/ba5eb521-c264-409b-b964-947e3290341d.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4xs/ba5eb521-c264-409b-b964-947e3290341d.png"
+  },
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015253",
+   "name": "TAVERNELLI, RICCARDO",
+   "alias": "TAVERNELLI, RICCARDO",
+   "aliasRaw": "TAVERNELLI, RICCARDO",
+   "passportName": "RICCARDO GIUSEPPE",
+   "passportSurname": "TAVERNELLI",
+   "jerseyName": "Tavernelli",
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 188,
+   "weight": 82,
+   "birthDate": "1991-03-16T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": false,
+  "startDate": "2026-10-05T11:44:48.536",
+  "endDate": "2026-11-12T13:17:22.768",
+  "order": 0,
+  "dorsal": "8",
+  "dorsalRaw": "8",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "PALLACANESTRO FORLI",
+  "externalId": 57053,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4xs/e7e38493-67f2-4b11-9821-17af9963b513.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4xs/e7e38493-67f2-4b11-9821-17af9963b513.png"
+  },
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015252",
+   "name": "ZONFRILLI, VALERIA",
+   "alias": "ZONFRILLI, VALERIA",
+   "aliasRaw": "ZONFRILLI, VALERIA",
+   "passportName": "VALERIA",
+   "passportSurname": "ZONFRILLI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1996-06-13T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-10-01T08:39:53.828",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57051,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015251",
+   "name": "CARRADORE, FABRIZIA",
+   "alias": "CARRADORE, FABRIZIA",
+   "aliasRaw": "CARRADORE, FABRIZIA",
+   "passportName": "FABRIZIA",
+   "passportSurname": "CARRADORE",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2001-09-27T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-30T15:58:29.209",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57050,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015250",
+   "name": "SMORRA MAZZARELLA, GYNEVRA MARZIA",
+   "alias": "SMORRA MAZZARELLA, GYNEVRA MARZIA",
+   "aliasRaw": "SMORRA MAZZARELLA, GYNEVRA MARZIA",
+   "passportName": "GYNEVRA MARZIA",
+   "passportSurname": "SMORRA MAZZARELLA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2006-02-11T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-30T13:57:02.828",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57047,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015226",
+   "name": "VATTILANA, GABRIELE",
+   "alias": "VATTILANA, GABRIELE",
+   "aliasRaw": "VATTILANA, GABRIELE",
+   "passportName": "GABRIELE",
+   "passportSurname": "VATTILANA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1994-01-20T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-24T11:09:13.042",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56998,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015225",
+   "name": "PACOR, DAVIDE",
+   "alias": "PACOR, DAVIDE",
+   "aliasRaw": "PACOR, DAVIDE",
+   "passportName": "DAVIDE",
+   "passportSurname": "PACOR",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1968-12-30T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-24T11:07:31.731",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56997,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015224",
+   "name": "LANDOLFI, RAFFAELE",
+   "alias": "LANDOLFI, RAFFAELE",
+   "aliasRaw": "LANDOLFI, RAFFAELE",
+   "passportName": "RAFFAELE",
+   "passportSurname": "LANDOLFI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1950-02-07T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-24T11:06:33.01",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56996,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "002299",
+   "name": "MARCHETTI, GIANLUCA",
+   "alias": "MARCHETTI, GIANLUCA",
+   "aliasRaw": "MARCHETTI, GIANLUCA",
+   "passportName": "GIANLUCA",
+   "passportSurname": "MARCHETTI",
+   "jerseyName": "",
+   "abbreviatedName": "",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1993-06-18T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "U",
+  "typeName": "Team_Manager",
+  "active": true,
+  "startDate": "2026-09-21T15:22:54.956",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56957,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015199",
+   "name": "CIOTOLI, VALERIO",
+   "alias": "CIOTOLI, VALERIO",
+   "aliasRaw": "CIOTOLI, VALERIO",
+   "passportName": "VALERIO",
+   "passportSurname": "CIOTOLI",
+   "jerseyName": "Ciotoli",
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 188,
+   "weight": 80,
+   "birthDate": "2009-04-16T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-21T13:18:36.908",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "37",
+  "dorsalRaw": "37",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "CITTA FUTURA ROMA",
+  "externalId": 56952,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "CRA",
+   "name": "IVANOVIC, STEFAN",
+   "alias": "IVANOVIC, S.",
+   "aliasRaw": "IVANOVIC, S.",
+   "passportName": "STEFAN",
+   "passportSurname": "IVANOVIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1986-08-20T00:00:00",
+   "birthCountry": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-21T13:14:30.598",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56951,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015198",
+   "name": "TRANQUILLI, CARLO",
+   "alias": "TRANQUILLI, CARLO",
+   "aliasRaw": "TRANQUILLI, CARLO",
+   "passportName": "CARLO",
+   "passportSurname": "TRANQUILLI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1953-05-25T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-21T13:12:36.294",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56950,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015197",
+   "name": "DALATRI, RICHARD",
+   "alias": "DALATRI, RICHARD",
+   "aliasRaw": "DALATRI, RICHARD",
+   "passportName": "RICHARD",
+   "passportSurname": "DALATRI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1959-07-06T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-21T13:11:37.601",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56949,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015196",
+   "name": "RUGGERI, ANDREA",
+   "alias": "RUGGERI, ANDREA",
+   "aliasRaw": "RUGGERI, ANDREA",
+   "passportName": "ANDREA",
+   "passportSurname": "RUGGERI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1988-04-29T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-21T13:10:40.371",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56948,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013890",
+   "name": "DAVIS JR., COREY",
+   "alias": "DAVIS JR., COREY",
+   "aliasRaw": "DAVIS JR., COREY",
+   "passportName": "COREY RICHARD",
+   "passportSurname": "DAVIS",
+   "jerseyName": "DAVIS",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 185,
+   "weight": 85,
+   "birthDate": "1997-06-04T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T16:31:07.235",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "5",
+  "dorsalRaw": "5",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "NINERS CHEMNITZ",
+  "externalId": 56379,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/57f0e8e6-6c10-487d-b94a-63a12171f0a4.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/57f0e8e6-6c10-487d-b94a-63a12171f0a4.png"
+  },
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015027",
+   "name": "DI RENZO, GAIA",
+   "alias": "DI RENZO, GAIA",
+   "aliasRaw": "DI RENZO, GAIA",
+   "passportName": "GAIA",
+   "passportSurname": "DI RENZO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1993-04-05T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T14:41:02.635",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56339,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012244",
+   "name": "ODZEBE, GIANNIS",
+   "alias": "ODZEBE, GIANNIS",
+   "aliasRaw": "ODZEBE, GIANNIS",
+   "passportName": "GIANNIS",
+   "passportSurname": "ODZEBE",
+   "jerseyName": "ODZEBE",
+   "abbreviatedName": null,
+   "country": {
+    "code": "CGO",
+    "name": "Congo"
+   },
+   "height": 196,
+   "weight": 85,
+   "birthDate": "2008-11-23T00:00:00",
+   "birthCountry": {
+    "code": "CGO",
+    "name": "Congo"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T13:26:03.01",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "13",
+  "dorsalRaw": "13",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "ORANGE1 BASKET BASSANO",
+  "externalId": 56323,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/3216904b-5122-4612-865c-c70aaa3a3965.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/3216904b-5122-4612-865c-c70aaa3a3965.png"
+  },
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015023",
+   "name": "WATSON JR, PAUL",
+   "alias": "WATSON JR, PAUL",
+   "aliasRaw": "WATSON JR, PAUL",
+   "passportName": "PAUL ANTHONY",
+   "passportSurname": "WATSON JR",
+   "jerseyName": "WATSON JR",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 201,
+   "weight": 95,
+   "birthDate": "1994-12-30T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T13:23:35.774",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "3",
+  "dorsalRaw": "3",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "MEMPHIS HUSTLE",
+  "externalId": 56322,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/5b79d47d-85e9-4308-948a-18889e91328f.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/5b79d47d-85e9-4308-948a-18889e91328f.png"
+  },
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015014",
+   "name": "MORUCCI, LUCA",
+   "alias": "MORUCCI, LUCA",
+   "aliasRaw": "MORUCCI, LUCA",
+   "passportName": "LUCA",
+   "passportSurname": "MORUCCI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1981-04-20T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T12:45:10.274",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56308,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014989",
+   "name": "PANETTI, LEONARDO",
+   "alias": "PANETTI, LEONARDO",
+   "aliasRaw": "PANETTI, LEONARDO",
+   "passportName": "LEONARDO",
+   "passportSurname": "PANETTI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2001-08-25T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T10:04:51.485",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56277,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008442",
+   "name": "MEZZANOTTE, ANDREA",
+   "alias": "MEZZANOTTE, ANDREA",
+   "aliasRaw": "MEZZANOTTE, ANDREA",
+   "passportName": "ANDREA",
+   "passportSurname": "MEZZANOTTE",
+   "jerseyName": "MEZZANOTTE",
+   "abbreviatedName": "Mezzanotte, A.",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 208,
+   "weight": 95,
+   "birthDate": "1998-04-08T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "_mezza_14",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T09:28:51.753",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "24",
+  "dorsalRaw": "24",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "DINAMO SASSARI",
+  "externalId": 56264,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/ce554014-1610-4fdc-8be4-4824d19d19d9.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/ce554014-1610-4fdc-8be4-4824d19d19d9.png"
+  },
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "006609",
+   "name": "STRAUTINS, ARTURS",
+   "alias": "Strautins",
+   "aliasRaw": "Strautins",
+   "passportName": "ARTURS",
+   "passportSurname": "STRAUTINS",
+   "jerseyName": "Strautins",
+   "abbreviatedName": "Strautins, A.",
+   "country": {
+    "code": "LAT",
+    "name": "Latvia"
+   },
+   "height": 198,
+   "weight": 100,
+   "birthDate": "1998-10-23T00:00:00",
+   "birthCountry": {
+    "code": "LAT",
+    "name": "Latvia"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T09:28:51.499",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "12",
+  "dorsalRaw": "12",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "DERTHONA BASKET",
+  "externalId": 56263,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/424f5a5b-3365-4c01-8011-890566a9a997.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/424f5a5b-3365-4c01-8011-890566a9a997.png"
+  },
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014974",
+   "name": "VALERIANI, CLAUDIO",
+   "alias": "VALERIANI, CLAUDIO",
+   "aliasRaw": "VALERIANI, CLAUDIO",
+   "passportName": "CLAUDIO",
+   "passportSurname": "VALERIANI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1985-06-15T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T09:07:00.89",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56260,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014972",
+   "name": "RUFINI, TOMMASO",
+   "alias": "RUFINI, TOMMASO",
+   "aliasRaw": "RUFINI, TOMMASO",
+   "passportName": "TOMMASO",
+   "passportSurname": "RUFINI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1991-06-02T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T09:02:58.998",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56258,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014962",
+   "name": "GROSSI, FRANCESCA",
+   "alias": "GROSSI, FRANCESCA",
+   "aliasRaw": "GROSSI, FRANCESCA",
+   "passportName": "FRANCESCA",
+   "passportSurname": "GROSSI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1987-03-04T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T08:33:25.203",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56248,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014936",
+   "name": "PARDO, FRANCESCO",
+   "alias": "PARDO, FRANCESCO",
+   "aliasRaw": "PARDO, FRANCESCO",
+   "passportName": "FRANCESCO",
+   "passportSurname": "PARDO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1989-05-29T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-08T16:14:09.892",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56199,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014891",
+   "name": "IUZZOLINO, MICHAEL",
+   "alias": "IUZZOLINO, MICHAEL",
+   "aliasRaw": "IUZZOLINO, MICHAEL",
+   "passportName": "MICHAEL GIOVANNI",
+   "passportSurname": "IUZZOLINO",
+   "jerseyName": "IUZZOLINO",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 191,
+   "weight": 81,
+   "birthDate": "2001-08-28T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:47:55.268",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "33",
+  "dorsalRaw": "33",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "ST. VINCENT COLLEGE",
+  "externalId": 56090,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/3dd1692b-5935-4153-9d4c-7c07fb764158.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/3dd1692b-5935-4153-9d4c-7c07fb764158.png"
+  },
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012711",
+   "name": "SIMONOVIC, MARKO",
+   "alias": "SIMONOVIC, MARKO",
+   "aliasRaw": "SIMONOVIC, MARKO",
+   "passportName": "MARKO",
+   "passportSurname": "SIMONOVIC",
+   "jerseyName": "SIMONOVIC",
+   "abbreviatedName": "",
+   "country": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "height": 213,
+   "weight": 109,
+   "birthDate": "1999-10-15T00:00:00",
+   "birthCountry": {
+    "code": "MNE",
+    "name": "Montenegro"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:47:55.005",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "19",
+  "dorsalRaw": "19",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "TURK TELEKOM ANKARA",
+  "externalId": 56089,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/0e30734e-6347-435f-a226-d3b3c427bd9a.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/0e30734e-6347-435f-a226-d3b3c427bd9a.png"
+  },
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014890",
+   "name": "AYAYI, GERALD",
+   "alias": "AYAYI, GERALD",
+   "aliasRaw": "AYAYI, GERALD",
+   "passportName": "GERALD THIBAUD AKUETE IBUKUN",
+   "passportSurname": "AYAYI",
+   "jerseyName": "AYAYI",
+   "abbreviatedName": null,
+   "country": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "height": 188,
+   "weight": 84,
+   "birthDate": "2001-08-24T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:47:54.76",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "11",
+  "dorsalRaw": "11",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "NBA",
+  "externalId": 56088,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/44c0adda-cc6f-4078-80e1-5fe70cf38468.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/44c0adda-cc6f-4078-80e1-5fe70cf38468.png"
+  },
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014889",
+   "name": "STEVENSON, ERIK",
+   "alias": "STEVENSON, ERIK",
+   "aliasRaw": "STEVENSON, ERIK",
+   "passportName": "ERIK JAMES",
+   "passportSurname": "STEVENSON",
+   "jerseyName": "STEVENSON",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 193,
+   "weight": 93,
+   "birthDate": "1999-04-28T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:47:54.508",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "10",
+  "dorsalRaw": "10",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "NBA",
+  "externalId": 56087,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/e405362c-5d64-4896-9fbe-09456d9482dd.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/e405362c-5d64-4896-9fbe-09456d9482dd.png"
+  },
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014888",
+   "name": "FLOWERS, TRENTYN",
+   "alias": "FLOWERS, TRENTYN",
+   "aliasRaw": "FLOWERS, TRENTYN",
+   "passportName": "TRENTYN LEVI",
+   "passportSurname": "FLOWERS",
+   "jerseyName": "FLOWERS",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 206,
+   "weight": 84,
+   "birthDate": "2005-03-08T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:47:54.232",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "9",
+  "dorsalRaw": "9",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "BRAMPTON HONEY BADGERS",
+  "externalId": 56086,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/4a50562c-14d3-4357-98a3-6bbf1aae791d.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/4a50562c-14d3-4357-98a3-6bbf1aae791d.png"
+  },
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010224",
+   "name": "EMEJURU, GIOVANNI",
+   "alias": "EMEJURU, GIOVANNI",
+   "aliasRaw": "EMEJURU, GIOVANNI",
+   "passportName": "CHINONSO GIOVANNI",
+   "passportSurname": "EMEJURU",
+   "jerseyName": "Emejuru",
+   "abbreviatedName": "Emejuru, G.",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 210,
+   "weight": 100,
+   "birthDate": "2002-12-21T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:47:53.982",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "7",
+  "dorsalRaw": "7",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "EAST CAROLINA UNIVERSITY",
+  "externalId": 56085,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/b397a00b-caa1-4422-805d-0256618d330f.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/b397a00b-caa1-4422-805d-0256618d330f.png"
+  },
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011064",
+   "name": "MANNION, NICCOLO",
+   "alias": "MANNION, NICCOLO",
+   "aliasRaw": "MANNION, NICCOLO",
+   "passportName": "NICCOLO",
+   "passportSurname": "MANNION",
+   "jerseyName": "MANNION",
+   "abbreviatedName": "Mannion, N.",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 190,
+   "weight": 85,
+   "birthDate": "2001-03-14T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "niccolomannion",
+   "instagramAccount": "niccolo",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:47:53.749",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "1",
+  "dorsalRaw": "1",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "EA7 EMPORTIO ARMANI MILANO",
+  "externalId": 56084,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/0725422d-c163-4fe8-b50d-2874f7cc05c5.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/0725422d-c163-4fe8-b50d-2874f7cc05c5.png"
+  },
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010111",
+   "name": "DIGNO, MATTIA",
+   "alias": "DIGNO, MATTIA",
+   "aliasRaw": "DIGNO, MATTIA",
+   "passportName": "MATTIA",
+   "passportSurname": "DIGNO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1995-11-28T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-08T12:00:07.972",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56029,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014865",
+   "name": "MAGI, MATTEO",
+   "alias": "MAGI, MATTEO",
+   "aliasRaw": "MAGI, MATTEO",
+   "passportName": "MATTEO",
+   "passportSurname": "MAGI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1991-01-07T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "U",
+  "typeName": "Team_Manager",
+  "active": true,
+  "startDate": "2026-09-08T11:58:16.975",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56028,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "AKU",
+   "name": "BONORA, DAVIDE",
+   "alias": "BONORA, DAVIDE",
+   "aliasRaw": "BONORA, DAVIDE",
+   "passportName": "DAVIDE",
+   "passportSurname": "BONORA",
+   "jerseyName": "",
+   "abbreviatedName": "",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1973-02-05T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-08T11:56:07.515",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56016,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011817",
+   "name": "DI PAOLANTONIO, EMANUELE",
+   "alias": "DI PAOLANTONIO, EMANUELE",
+   "aliasRaw": "DI PAOLANTONIO, EMANUELE",
+   "passportName": "EMANUELE",
+   "passportSurname": "DI PAOLANTONIO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1981-12-08T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-08T11:52:12.502",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56014,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008866",
+   "name": "MAGRO, ALESSANDRO",
+   "alias": "MAGRO, ALESSANDRO",
+   "aliasRaw": "MAGRO, ALESSANDRO",
+   "passportName": "ALESSANDRO",
+   "passportSurname": "MAGRO",
+   "jerseyName": "",
+   "abbreviatedName": "",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1982-10-14T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "E",
+  "typeName": "Coach",
+  "active": true,
+  "startDate": "2026-09-08T11:48:38.178",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56013,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014827",
+   "name": "D'ALIESIO, DANIELE",
+   "alias": "D'ALIESIO, DANIELE",
+   "aliasRaw": "D'ALIESIO, DANIELE",
+   "passportName": "DANIELE",
+   "passportSurname": "DALIESIO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1980-01-04T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T14:56:25.627",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55894,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014776",
+   "name": "BRUNORI, ALESSIO",
+   "alias": "BRUNORI, ALESSIO",
+   "aliasRaw": "BRUNORI, ALESSIO",
+   "passportName": "ALESSIO",
+   "passportSurname": "BRUNORI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2006-11-22T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T10:26:25.765",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55784,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014775",
+   "name": "BRUNORI, MATTEO",
+   "alias": "BRUNORI, MATTEO",
+   "aliasRaw": "BRUNORI, MATTEO",
+   "passportName": "MATTEO",
+   "passportSurname": "BRUNORI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2002-01-21T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T10:26:25.515",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55783,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014774",
+   "name": "CABIANCA, GIORGIO",
+   "alias": "CABIANCA, GIORGIO",
+   "aliasRaw": "CABIANCA, GIORGIO",
+   "passportName": "GIORGIO",
+   "passportSurname": "CABIANCA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1981-07-04T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T10:21:10.097",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55782,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014754",
+   "name": "SANGIULIANO, SIMONE",
+   "alias": "SANGIULIANO, SIMONE",
+   "aliasRaw": "SANGIULIANO, SIMONE",
+   "passportName": "SIMONE",
+   "passportSurname": "SANGIULIANO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2007-01-13T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T08:32:02.475",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55747,
+  "images": {},
+  "club": {
+   "code": "BCR",
+   "name": "Roma Basketball",
+   "abbreviatedName": "Roma",
+   "editorialName": "Roma",
+   "tvCode": "ROM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ }
+]

@@ -1,0 +1,2423 @@
+[
+ {
+  "person": {
+   "code": "009299",
+   "name": "RUBSTAVICIUS, MANTAS",
+   "alias": "RUBSTAVICIUS, MANTAS",
+   "aliasRaw": "RUBSTAVICIUS, MANTAS",
+   "passportName": "MANTAS",
+   "passportSurname": "RUBSTAVICIUS",
+   "jerseyName": "RUBSTAVICIUS",
+   "abbreviatedName": "Rubstavicius, M.",
+   "country": {
+    "code": "LTU",
+    "name": "Lithuania"
+   },
+   "height": 200,
+   "weight": 93,
+   "birthDate": "2002-05-06T00:00:00",
+   "birthCountry": {
+    "code": "LTU",
+    "name": "Lithuania"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-11-07T09:05:10.342",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "17",
+  "dorsalRaw": "17",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "ZALGRIS KAUNAS",
+  "externalId": 57278,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008450",
+   "name": "KUS, MURAT",
+   "alias": "KUS, MURAT",
+   "aliasRaw": "KUS, MURAT",
+   "passportName": "HALIT MURAT",
+   "passportSurname": "KUS",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1974-04-16T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-11-02T08:24:57.121",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57265,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008447",
+   "name": "KUTLUATA, CAN",
+   "alias": "KUTLUATA, CAN",
+   "aliasRaw": "KUTLUATA, CAN",
+   "passportName": "SALIH CAN",
+   "passportSurname": "KUTLUATA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1977-08-02T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-11-02T08:24:56.792",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57264,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011093",
+   "name": "GEZINTI, AHMET",
+   "alias": "GEZINTI, AHMET",
+   "aliasRaw": "GEZINTI, AHMET",
+   "passportName": "AHMET",
+   "passportSurname": "GEZINTI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1996-02-09T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": false,
+  "startDate": "2026-10-12T11:15:07.648",
+  "endDate": "2026-11-05T15:36:33.329",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57075,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008451",
+   "name": "DOSTEL, SERTAC",
+   "alias": "DOSTEL, SERTAC",
+   "aliasRaw": "DOSTEL, SERTAC",
+   "passportName": "SERTAC",
+   "passportSurname": "DOSTEL",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1993-01-19T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-10-12T11:15:07.17",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57074,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015112",
+   "name": "PASAOGLU, POYRAZ",
+   "alias": "PASAOGLU, POYRAZ",
+   "aliasRaw": "PASAOGLU, POYRAZ",
+   "passportName": "RIZA POYRAZ",
+   "passportSurname": "PASAOGLU",
+   "jerseyName": "PASAOGLU",
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 201,
+   "weight": 82,
+   "birthDate": "2008-01-04T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-14T10:32:04.309",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "35",
+  "dorsalRaw": "35",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "TOFAS BURSA",
+  "externalId": 56573,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/b2b6bbfd-120b-47aa-8569-ea3cb23b8f01.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/b2b6bbfd-120b-47aa-8569-ea3cb23b8f01.png"
+  },
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015111",
+   "name": "NUTALL, ZACH",
+   "alias": "NUTALL, ZACH",
+   "aliasRaw": "NUTALL, ZACH",
+   "passportName": "ZACHARY MARKEITH",
+   "passportSurname": "NUTALL",
+   "jerseyName": "NUTALL",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 190,
+   "weight": 84,
+   "birthDate": "1999-12-16T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-14T10:32:03.993",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "10",
+  "dorsalRaw": "10",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "XINJIANG FLYING TIGERS",
+  "externalId": 56572,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/e1d28e45-d48a-4a42-ae42-b75b205945db.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/e1d28e45-d48a-4a42-ae42-b75b205945db.png"
+  },
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "007666",
+   "name": "APAYDIN, LEON",
+   "alias": "APAYDIN, HARUN",
+   "aliasRaw": "APAYDIN, HARUN",
+   "passportName": "LEON HARUN",
+   "passportSurname": "APAYDIN",
+   "jerseyName": "APAYDIN",
+   "abbreviatedName": "Apaydin, H.",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 198,
+   "weight": 93,
+   "birthDate": "1999-01-01T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:20:22.787",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "55",
+  "dorsalRaw": "55",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "MERSIN",
+  "externalId": 56213,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/65280af4-bac8-4f04-8271-0c3395391ef0.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/65280af4-bac8-4f04-8271-0c3395391ef0.png"
+  },
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014945",
+   "name": "BROWN, GABRIEL",
+   "alias": "BROWN, GABRIEL",
+   "aliasRaw": "BROWN, GABRIEL",
+   "passportName": "GABRIEL THOMAS",
+   "passportSurname": "BROWN",
+   "jerseyName": "BROWN",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 201,
+   "weight": 95,
+   "birthDate": "2000-03-05T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:20:22.543",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "44",
+  "dorsalRaw": "44",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "SIG STRASBOURG",
+  "externalId": 56212,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/95c99258-011d-473a-a865-214d09328575.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/95c99258-011d-473a-a865-214d09328575.png"
+  },
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014097",
+   "name": "REYNOLDS JR, SHAVAR",
+   "alias": "REYNOLDS JR, SHAVAR",
+   "aliasRaw": "REYNOLDS JR, SHAVAR",
+   "passportName": "SHAVAR LEWIS",
+   "passportSurname": "REYNOLDS JR",
+   "jerseyName": "REYNOLDS JR",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 188,
+   "weight": 90,
+   "birthDate": "1998-05-11T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:20:22.295",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "33",
+  "dorsalRaw": "33",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "LONDON LIONS",
+  "externalId": 56211,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/51e6bba4-3d6b-48e8-96ec-171f7c19d274.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/51e6bba4-3d6b-48e8-96ec-171f7c19d274.png"
+  },
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012621",
+   "name": "JONES, BRYCE",
+   "alias": "JONES, BRYCE",
+   "aliasRaw": "JONES, BRYCE",
+   "passportName": "BRYCE TYLER",
+   "passportSurname": "JONES JR",
+   "jerseyName": "JONES",
+   "abbreviatedName": "",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 183,
+   "weight": 75,
+   "birthDate": "1994-10-12T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:20:22.067",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "32",
+  "dorsalRaw": "32",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "ARIS THESSALONIKI BETSSON",
+  "externalId": 56210,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/17132ee1-76e4-46f3-a7cc-31730ed60708.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/17132ee1-76e4-46f3-a7cc-31730ed60708.png"
+  },
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014944",
+   "name": "SERBEST, EMIRHAN",
+   "alias": "SERBEST, EMIRHAN",
+   "aliasRaw": "SERBEST, EMIRHAN",
+   "passportName": "EMIRHAN",
+   "passportSurname": "SERBEST",
+   "jerseyName": "SERBEST",
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 203,
+   "weight": 101,
+   "birthDate": "2007-03-17T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:20:21.85",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "24",
+  "dorsalRaw": "24",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "TOFAS BURSA",
+  "externalId": 56209,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/a8feb07f-7214-4c94-8041-a4545800b3bb.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/a8feb07f-7214-4c94-8041-a4545800b3bb.png"
+  },
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014943",
+   "name": "POSTEL, EFE",
+   "alias": "POSTEL, EFE",
+   "aliasRaw": "POSTEL, EFE",
+   "passportName": "EFE EVAN",
+   "passportSurname": "POSTEL",
+   "jerseyName": "POSTEL",
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 190,
+   "weight": 87,
+   "birthDate": "2006-06-03T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:20:21.579",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "22",
+  "dorsalRaw": "22",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "TOFAS BURSA",
+  "externalId": 56208,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/4ebdbf50-0905-4d07-afb3-db19bd99b459.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/4ebdbf50-0905-4d07-afb3-db19bd99b459.png"
+  },
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012577",
+   "name": "THURMAN, TRE'SHAWN",
+   "alias": "THURMAN, TRE'SHAWN",
+   "aliasRaw": "THURMAN, TRE'SHAWN",
+   "passportName": "TRESHAWN MARCEL",
+   "passportSurname": "THURMAN",
+   "jerseyName": "THURMAN",
+   "abbreviatedName": "",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 201,
+   "weight": 102,
+   "birthDate": "1995-12-15T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:20:21.336",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "15",
+  "dorsalRaw": "15",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "EROKSPOR",
+  "externalId": 56207,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/4426d325-39aa-41d6-a186-59ecf5a9df4d.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/4426d325-39aa-41d6-a186-59ecf5a9df4d.png"
+  },
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014942",
+   "name": "MCNEACE, JAMUNI",
+   "alias": "MCNEACE, JAMUNI",
+   "aliasRaw": "MCNEACE, JAMUNI",
+   "passportName": "JAMUNI JACQUES",
+   "passportSurname": "MCNEACE",
+   "jerseyName": "MCNEACE",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 208,
+   "weight": 101,
+   "birthDate": "1996-03-25T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:20:21.127",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "8",
+  "dorsalRaw": "8",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "CHOLET BASKET",
+  "externalId": 56206,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/aa684f2c-6beb-499f-9719-e06fc568f04e.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS3/aa684f2c-6beb-499f-9719-e06fc568f04e.png"
+  },
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014941",
+   "name": "KABACA, SADIK",
+   "alias": "KABACA, SADIK",
+   "aliasRaw": "KABACA, SADIK",
+   "passportName": "SADIK EMIR",
+   "passportSurname": "KABACA",
+   "jerseyName": "KABACA",
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 208,
+   "weight": 111,
+   "birthDate": "2000-12-13T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:20:20.87",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "6",
+  "dorsalRaw": "6",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "TOFAS BURSA",
+  "externalId": 56205,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/53bc8ec9-62ae-44c2-9397-aa75d5a678c9.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/53bc8ec9-62ae-44c2-9397-aa75d5a678c9.png"
+  },
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014940",
+   "name": "CARTER II, TERRELL",
+   "alias": "CARTER II, TERRELL",
+   "aliasRaw": "CARTER II, TERRELL",
+   "passportName": "TERRELL NIKKO",
+   "passportSurname": "CARTER II",
+   "jerseyName": "CARTER II",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 208,
+   "weight": 120,
+   "birthDate": "1996-01-06T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:20:20.621",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "5",
+  "dorsalRaw": "5",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "PARMA PERI-PERM",
+  "externalId": 56204,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/5cf63509-e144-4658-a47b-5f1bc02d767b.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/5cf63509-e144-4658-a47b-5f1bc02d767b.png"
+  },
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014939",
+   "name": "CORUMLULAR, KEREM",
+   "alias": "CORUMLULAR, KEREM",
+   "aliasRaw": "CORUMLULAR, KEREM",
+   "passportName": "KEREM",
+   "passportSurname": "CORUMLULAR",
+   "jerseyName": "ÇORUMLULAR",
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 199,
+   "weight": 87,
+   "birthDate": "2008-03-28T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:20:20.359",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "4",
+  "dorsalRaw": "4",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "TOFAS BURSA",
+  "externalId": 56203,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/074d4778-78e9-44ab-ad76-8cfaa1a56be4.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/074d4778-78e9-44ab-ad76-8cfaa1a56be4.png"
+  },
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "006693",
+   "name": "SAYBIR, YIGITCAN",
+   "alias": "Saybir",
+   "aliasRaw": "Saybir",
+   "passportName": "YIGITCAN",
+   "passportSurname": "SAYBIR",
+   "jerseyName": "SAYBIR",
+   "abbreviatedName": "Saybir, Y.",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 204,
+   "weight": 104,
+   "birthDate": "1999-02-27T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "yigitcansaybir",
+   "instagramAccount": "yigitcan_saybir/",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:20:20.075",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "3",
+  "dorsalRaw": "3",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "TOFAS BURSA",
+  "externalId": 56202,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/33b15683-eff3-4897-ba8c-6204cbd148e9.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/33b15683-eff3-4897-ba8c-6204cbd148e9.png"
+  },
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014938",
+   "name": "GONUL, BERKAY",
+   "alias": "GONUL, BERKAY",
+   "aliasRaw": "GONUL, BERKAY",
+   "passportName": "AHMET BERKAY",
+   "passportSurname": "GONUL",
+   "jerseyName": "GONUL",
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 201,
+   "weight": 94,
+   "birthDate": "2007-06-22T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:20:19.851",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "2",
+  "dorsalRaw": "2",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "TOFAS BURSA",
+  "externalId": 56201,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1479ded4-7c13-4f80-a693-a47ea35e9d36.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1479ded4-7c13-4f80-a693-a47ea35e9d36.png"
+  },
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "007084",
+   "name": "CANCELLIERI, MASSIMO",
+   "alias": "CANCELLIERI, MASSIMO",
+   "aliasRaw": "CANCELLIERI, MASSIMO",
+   "passportName": "MASSIMO",
+   "passportSurname": "CANCELLIERI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1972-07-24T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "E",
+  "typeName": "Coach",
+  "active": true,
+  "startDate": "2026-09-08T12:25:35.367",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56056,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014760",
+   "name": "OYLEK, TEOMAN",
+   "alias": "OYLEK, TEOMAN",
+   "aliasRaw": "OYLEK, TEOMAN",
+   "passportName": "TEOMAN",
+   "passportSurname": "OYLEK",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1983-03-16T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T08:45:25.106",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55753,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014759",
+   "name": "UNLU, AYCA",
+   "alias": "UNLU, AYCA",
+   "aliasRaw": "UNLU, AYCA",
+   "passportName": "AYCA",
+   "passportSurname": "UNLU",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2000-12-21T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T08:43:17.814",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55752,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014758",
+   "name": "BABAHANOGLU, ERAY",
+   "alias": "BABAHANOGLU, ERAY",
+   "aliasRaw": "BABAHANOGLU, ERAY",
+   "passportName": "ERAY",
+   "passportSurname": "BABAHANOGLU",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1988-02-24T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T08:41:57.077",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55751,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014757",
+   "name": "TUZUK, NIDA",
+   "alias": "TUZUK, NIDA",
+   "aliasRaw": "TUZUK, NIDA",
+   "passportName": "NIDA",
+   "passportSurname": "TUZUK",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1991-08-27T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T08:39:41.849",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55750,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014710",
+   "name": "KABA, RAMAZAN",
+   "alias": "KABA, RAMAZAN",
+   "aliasRaw": "KABA, RAMAZAN",
+   "passportName": "RAMAZAN",
+   "passportSurname": "KABA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1985-06-13T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-01T13:49:42.63",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55366,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014709",
+   "name": "MERCANLI, ENES",
+   "alias": "MERCANLI, ENES",
+   "aliasRaw": "MERCANLI, ENES",
+   "passportName": "ENES",
+   "passportSurname": "MERCANLI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "2001-08-12T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-01T13:49:42.363",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55365,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "007896",
+   "name": "LOKMAOGLU, RECEP",
+   "alias": "LOKMAOGLU, RECEP",
+   "aliasRaw": "LOKMAOGLU, RECEP",
+   "passportName": "RECEP",
+   "passportSurname": "LOKMAOGLU",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1980-07-26T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-01T13:49:42.107",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55364,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009970",
+   "name": "ERGOK, SERDAR",
+   "alias": "ERGOK, SERDAR",
+   "aliasRaw": "ERGOK, SERDAR",
+   "passportName": "REMZI SERDAR",
+   "passportSurname": "ERGOK",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1978-03-24T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-01T13:49:41.902",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55363,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009969",
+   "name": "SERBEST, FATIH",
+   "alias": "SERBEST, FATIH",
+   "aliasRaw": "SERBEST, FATIH",
+   "passportName": "FATIH",
+   "passportSurname": "SERBEST",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1982-01-18T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-01T13:49:41.685",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55362,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014708",
+   "name": "AKSOY, EMRULLAH",
+   "alias": "AKSOY, EMRULLAH",
+   "aliasRaw": "AKSOY, EMRULLAH",
+   "passportName": "EMRULLAH",
+   "passportSurname": "AKSOY",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1974-01-30T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-01T13:49:41.463",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55361,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "007897",
+   "name": "SOFOR, FERHAT",
+   "alias": "SOFOR, FERHAT",
+   "aliasRaw": "SOFOR, FERHAT",
+   "passportName": "FERHAT",
+   "passportSurname": "SOFOR",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1980-01-01T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "U",
+  "typeName": "Team_Manager",
+  "active": true,
+  "startDate": "2026-09-01T13:49:40.962",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55360,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014707",
+   "name": "GOREC, JOVAN",
+   "alias": "GOREC, JOVAN",
+   "aliasRaw": "GOREC, JOVAN",
+   "passportName": "JOVAN",
+   "passportSurname": "GOREC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1983-03-26T00:00:00",
+   "birthCountry": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-01T13:49:40.76",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55359,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014706",
+   "name": "CAMBEL, SINAN",
+   "alias": "CAMBEL, SINAN",
+   "aliasRaw": "CAMBEL, SINAN",
+   "passportName": "SINAN",
+   "passportSurname": "CAMBEL",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1989-01-01T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-01T13:49:40.523",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55358,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "BGD",
+   "name": "TOPALOGLU, CANER",
+   "alias": "Topaloglu",
+   "aliasRaw": "Topaloglu",
+   "passportName": "CANER",
+   "passportSurname": "TOPALOGLU",
+   "jerseyName": "TOPALOGLU",
+   "abbreviatedName": "Topaloglu, C.",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1985-04-17T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-01T13:49:40.245",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55357,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012036",
+   "name": "ASLAN, FATIH",
+   "alias": "ASLAN, FATIH",
+   "aliasRaw": "ASLAN, FATIH",
+   "passportName": "MUHAMMET FATIH",
+   "passportSurname": "ASLAN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1996-10-30T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-26T10:20:29.862",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55122,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008608",
+   "name": "AKAR, MERIC",
+   "alias": "AKAR, MERIC",
+   "aliasRaw": "AKAR, MERIC",
+   "passportName": "MERIC",
+   "passportSurname": "AKAR",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1989-05-10T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": false,
+  "startDate": "2026-08-26T10:20:29.693",
+  "endDate": "2026-11-05T15:36:33.209",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55121,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008419",
+   "name": "TORUN, FATIH",
+   "alias": "TORUN, FATIH",
+   "aliasRaw": "TORUN, FATIH",
+   "passportName": "FATIH",
+   "passportSurname": "TORUN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1991-01-09T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": false,
+  "startDate": "2026-08-26T10:20:29.528",
+  "endDate": "2026-10-12T08:58:03.589",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55120,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008418",
+   "name": "GURSEL, ARZU",
+   "alias": "GURSEL, ARZU",
+   "aliasRaw": "GURSEL, ARZU",
+   "passportName": "ARZU",
+   "passportSurname": "GURSEL",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1981-06-25T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-26T10:20:29.331",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55119,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011156",
+   "name": "SARACOGLU, SAFAK",
+   "alias": "IRMAK SARACOGLU, SAFAK",
+   "aliasRaw": "IRMAK SARACOGLU, SAFAK",
+   "passportName": "SAFAK",
+   "passportSurname": "IRMAK SARACOGLU",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1989-10-01T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-24T08:44:51.442",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55012,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008423",
+   "name": "KURT, ABDULLAH",
+   "alias": "KURT, ABDULLAH",
+   "aliasRaw": "KURT, ABDULLAH",
+   "passportName": "ABDULLAH",
+   "passportSurname": "KURT",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1980-11-16T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-24T08:44:51.232",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55011,
+  "images": {},
+  "club": {
+   "code": "BUR",
+   "name": "Tofas Bursa",
+   "abbreviatedName": "Tofas Bursa",
+   "editorialName": "Tofas",
+   "tvCode": "TOF",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ }
+]

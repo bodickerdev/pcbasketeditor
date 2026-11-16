@@ -1,0 +1,2384 @@
+[
+ {
+  "person": {
+   "code": "013833",
+   "name": "KOCHOV, GJORGJI",
+   "alias": "KOCHOV, GJORGJI",
+   "aliasRaw": "KOCHOV, GJORGJI",
+   "passportName": "GJORGJI",
+   "passportSurname": "KOCHOV",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "MKD",
+    "name": "North Macedonia"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1984-11-10T00:00:00",
+   "birthCountry": {
+    "code": "MKD",
+    "name": "North Macedonia"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-03T12:25:21.151",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 6,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55663,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009676",
+   "name": "DEL TIO MUNOZ, PABLO",
+   "alias": "DEL TIO, PABLO",
+   "aliasRaw": "DEL TIO, PABLO",
+   "passportName": "PABLO",
+   "passportSurname": "DEL TIO MUNOZ",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ESP",
+    "name": "Spain"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1978-10-06T00:00:00",
+   "birthCountry": {
+    "code": "ESP",
+    "name": "Spain"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-03T12:25:20.944",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 5,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55662,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014100",
+   "name": "MIKESELL, RYAN",
+   "alias": "MIKESELL, RYAN",
+   "aliasRaw": "MIKESELL, RYAN",
+   "passportName": "RYAN RICHARD",
+   "passportSurname": "MIKESELL",
+   "jerseyName": "MIKESELL",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 201,
+   "weight": 96,
+   "birthDate": "1996-12-29T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-10-16T12:12:36.557",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "33",
+  "dorsalRaw": "33",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "MLP ACADEMICS HEIDELBERG",
+  "externalId": 57090,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHHNTLo/e0ac7329-f444-4991-ac20-97a37865d1a7.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHHNTLo/e0ac7329-f444-4991-ac20-97a37865d1a7.png"
+  },
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015084",
+   "name": "ROTTLUFF, ANDREAS",
+   "alias": "ROTTLUFF, ANDREAS",
+   "aliasRaw": "ROTTLUFF, ANDREAS",
+   "passportName": "ANDREAS KARL",
+   "passportSurname": "ROTTLUFF",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1997-03-05T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-10T12:21:44.231",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56461,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015045",
+   "name": "BOCK, ANTON",
+   "alias": "BOCK, ANTON",
+   "aliasRaw": "BOCK, ANTON",
+   "passportName": "ANTON WILHELM",
+   "passportSurname": "BOCK",
+   "jerseyName": "BOCK",
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 209,
+   "weight": 96,
+   "birthDate": "2009-02-27T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T18:13:38.327",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "27",
+  "dorsalRaw": "27",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "NINERS CHEMNITZ II",
+  "externalId": 56400,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/3c9d2a9b-302b-4fc7-969b-7bae11a360a5.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/3c9d2a9b-302b-4fc7-969b-7bae11a360a5.png"
+  },
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014994",
+   "name": "KLOBUSIAK, JAKUB",
+   "alias": "KLOBUSIAK, JAKUB",
+   "aliasRaw": "KLOBUSIAK, JAKUB",
+   "passportName": "JAKUB",
+   "passportSurname": "KLOBUSIAK",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2005-05-14T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T10:17:57.244",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56282,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014977",
+   "name": "DOST, DANIELA",
+   "alias": "DOST, DANIELA",
+   "aliasRaw": "DOST, DANIELA",
+   "passportName": "DANIELA",
+   "passportSurname": "DOST",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1984-02-16T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T09:32:49.285",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56265,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014933",
+   "name": "VON SECKENDORFF, JANNIS",
+   "alias": "VON SECKENDORFF, JANNIS",
+   "aliasRaw": "VON SECKENDORFF, JANNIS",
+   "passportName": "JANNIS ALEXANDER GOETZ MARIA",
+   "passportSurname": "FREIHERR VON SECKENDORFF",
+   "jerseyName": "VON SECKENDORFF",
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 204,
+   "weight": 96,
+   "birthDate": "2002-10-15T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:08:12.188",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "90",
+  "dorsalRaw": "90",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "EISBAEREN BREMERHAVEN",
+  "externalId": 56196,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHHNTLo/685a15e9-3679-4ed0-be91-5351375089fe.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHHNTLo/685a15e9-3679-4ed0-be91-5351375089fe.png"
+  },
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014932",
+   "name": "BURNHAM, BEN",
+   "alias": "BURNHAM, BEN",
+   "aliasRaw": "BURNHAM, BEN",
+   "passportName": "BENJAMIN FORREST",
+   "passportSurname": "BURNHAM",
+   "jerseyName": "BURNHAM",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 201,
+   "weight": 100,
+   "birthDate": "2002-04-03T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:08:11.945",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "25",
+  "dorsalRaw": "25",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "ARTLAND DRAGONS",
+  "externalId": 56195,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/ecdab59c-a4d4-4690-9d32-f14742062f67.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/ecdab59c-a4d4-4690-9d32-f14742062f67.png"
+  },
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014931",
+   "name": "WILLIAMS, COBE",
+   "alias": "WILLIAMS, COBE",
+   "aliasRaw": "WILLIAMS, COBE",
+   "passportName": "COBE LEE",
+   "passportSurname": "WILLIAMS",
+   "jerseyName": "WILLIAMS",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 183,
+   "weight": 84,
+   "birthDate": "2000-07-13T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:08:11.698",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "24",
+  "dorsalRaw": "24",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "BMA365 BAMBERG BASKETS",
+  "externalId": 56194,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/9821a14d-052d-4200-9040-ba76dfb8e41d.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/9821a14d-052d-4200-9040-ba76dfb8e41d.png"
+  },
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014185",
+   "name": "CEASER, NIGHAEL",
+   "alias": "CEASER, NIGHAEL",
+   "aliasRaw": "CEASER, NIGHAEL",
+   "passportName": "NIGHAEL REECE",
+   "passportSurname": "CEASER",
+   "jerseyName": "CEASER",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 203,
+   "weight": 106,
+   "birthDate": "2000-02-03T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:08:11.444",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "22",
+  "dorsalRaw": "22",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "U-BT CLUJ-NAPOCA",
+  "externalId": 56193,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/06b5d0c8-d002-4631-b7f2-25adf0db62c1.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/06b5d0c8-d002-4631-b7f2-25adf0db62c1.png"
+  },
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "006872",
+   "name": "SERIC, MATEO",
+   "alias": "Seric",
+   "aliasRaw": "Seric",
+   "passportName": "MATEO",
+   "passportSurname": "SERIC",
+   "jerseyName": "SERIC",
+   "abbreviatedName": "Seric, M.",
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 204,
+   "weight": 95,
+   "birthDate": "1999-03-21T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:08:11.207",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "21",
+  "dorsalRaw": "21",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "MLP ACADEMICS HEIDELBERG",
+  "externalId": 56192,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/a0418d43-3aab-4ac2-b848-d77955175894.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/a0418d43-3aab-4ac2-b848-d77955175894.png"
+  },
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014930",
+   "name": "KING, URALD",
+   "alias": "KING, URALD",
+   "aliasRaw": "KING, URALD",
+   "passportName": "URALD REMEL",
+   "passportSurname": "KING",
+   "jerseyName": "KING",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 198,
+   "weight": 98,
+   "birthDate": "1990-07-13T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:08:10.998",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "20",
+  "dorsalRaw": "20",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "VET-CONCEPT GLADIATORS TRIER",
+  "externalId": 56191,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/d6ca8fa9-26ab-4855-81bd-c0b80677f0c9.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/d6ca8fa9-26ab-4855-81bd-c0b80677f0c9.png"
+  },
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014109",
+   "name": "MILATZ, ALFONS",
+   "alias": "MILATZ, ALFONS",
+   "aliasRaw": "MILATZ, ALFONS",
+   "passportName": "ALFONS",
+   "passportSurname": "MILATZ",
+   "jerseyName": "MILATZ",
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 200,
+   "weight": 91,
+   "birthDate": "2007-09-19T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:08:10.56",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "19",
+  "dorsalRaw": "19",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "NINERS CHEMNITZ",
+  "externalId": 56190,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/ce168afc-50af-4d21-a37c-fb8d76433373.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/ce168afc-50af-4d21-a37c-fb8d76433373.png"
+  },
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011811",
+   "name": "ATKINS, DARION",
+   "alias": "ATKINS, DARION",
+   "aliasRaw": "ATKINS, DARION",
+   "passportName": "DARION RAY",
+   "passportSurname": "ATKINS",
+   "jerseyName": "ATKINS",
+   "abbreviatedName": "",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 203,
+   "weight": 103,
+   "birthDate": "1992-09-17T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:08:10.347",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "17",
+  "dorsalRaw": "17",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "MACCABI IRONI RAMAT GAN",
+  "externalId": 56189,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/9bacc5e4-f524-4d65-9c23-49f5787b20d0.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/9bacc5e4-f524-4d65-9c23-49f5787b20d0.png"
+  },
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013893",
+   "name": "KELLIG, LUCA",
+   "alias": "KELLIG, LUCA",
+   "aliasRaw": "KELLIG, LUCA",
+   "passportName": "LUCA",
+   "passportSurname": "KELLIG",
+   "jerseyName": "KELLIG",
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 192,
+   "weight": 83,
+   "birthDate": "2006-02-27T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:08:10.149",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "13",
+  "dorsalRaw": "13",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "NINERS CHEMNITZ",
+  "externalId": 56188,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/b272b06b-6257-4cb8-a448-6c68368e254b.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/b272b06b-6257-4cb8-a448-6c68368e254b.png"
+  },
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008216",
+   "name": "ROEDL, ELIAS",
+   "alias": "ROEDL, ELIAS",
+   "aliasRaw": "ROEDL, ELIAS",
+   "passportName": "ELIAS MARTIN",
+   "passportSurname": "ROEDL",
+   "jerseyName": "RÖDL",
+   "abbreviatedName": "roedl, E.",
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 198,
+   "weight": 93,
+   "birthDate": "2002-05-25T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:08:09.933",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "11",
+  "dorsalRaw": "11",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "BRANDEIS UNIVERSITY",
+  "externalId": 56187,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/6e6e6e9d-3981-491e-b04a-d71aeb19773c.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/6e6e6e9d-3981-491e-b04a-d71aeb19773c.png"
+  },
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010074",
+   "name": "RICHARDSON, ALEXANDER",
+   "alias": "RICHARDSON, ALEXANDER",
+   "aliasRaw": "RICHARDSON, ALEXANDER",
+   "passportName": "ALEXANDER ROBERT DIETER",
+   "passportSurname": "RICHARDSON",
+   "jerseyName": "Richardson",
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 206,
+   "weight": 108,
+   "birthDate": "2003-09-09T00:00:00",
+   "birthCountry": {
+    "code": "SCO",
+    "name": "Scotland"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:08:09.727",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "9",
+  "dorsalRaw": "9",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "LOYOLA UNIVERSITY CHICAGO",
+  "externalId": 56186,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/808d2b96-976b-4332-944c-b2d324d65f0b.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/808d2b96-976b-4332-944c-b2d324d65f0b.png"
+  },
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "007481",
+   "name": "CHOUPAS, YOHAN",
+   "alias": "CHOUPAS, YOHAN",
+   "aliasRaw": "CHOUPAS, YOHAN",
+   "passportName": "YOHAN THEO AKOFA",
+   "passportSurname": "CHOUPAS",
+   "jerseyName": "CHOUPAS",
+   "abbreviatedName": "Choupas, Y.",
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 193,
+   "weight": 88,
+   "birthDate": "2000-03-11T00:00:00",
+   "birthCountry": {
+    "code": "FRA",
+    "name": "France"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:08:09.508",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "6",
+  "dorsalRaw": "6",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "ELAN CHALON",
+  "externalId": 56185,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/c1ce1a5d-c3d8-418a-ae77-53b8ac5c780f.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/c1ce1a5d-c3d8-418a-ae77-53b8ac5c780f.png"
+  },
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014929",
+   "name": "SMITH, STEFAN",
+   "alias": "SMITH, STEFAN",
+   "aliasRaw": "SMITH, STEFAN",
+   "passportName": "STEFAN ETHAN ELLIOTT",
+   "passportSurname": "SMITH",
+   "jerseyName": "SMITH",
+   "abbreviatedName": null,
+   "country": {
+    "code": "CAN",
+    "name": "Canada"
+   },
+   "height": 188,
+   "weight": 86,
+   "birthDate": "1999-06-27T00:00:00",
+   "birthCountry": {
+    "code": "CAN",
+    "name": "Canada"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:08:09.208",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "2",
+  "dorsalRaw": "2",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "MHP RIESEN LUDWIGSBURG",
+  "externalId": 56184,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/092e8303-6a2d-4287-928c-577bac9eaaa0.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/092e8303-6a2d-4287-928c-577bac9eaaa0.png"
+  },
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014928",
+   "name": "FLEMING JR, PHLANDROUS",
+   "alias": "FLEMING JR, PHLANDROUS",
+   "aliasRaw": "FLEMING JR, PHLANDROUS",
+   "passportName": "PHLANDROUS LAMAR",
+   "passportSurname": "FLEMING JR",
+   "jerseyName": "FLEMING JR",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 193,
+   "weight": 96,
+   "birthDate": "1998-12-05T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T16:08:08.944",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "1",
+  "dorsalRaw": "1",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "SLUC NANCY",
+  "externalId": 56183,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/86c2e636-a68a-4bc5-aaf8-3972869377bb.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOW8/86c2e636-a68a-4bc5-aaf8-3972869377bb.png"
+  },
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014154",
+   "name": "SCHAPER, KRISTIAN",
+   "alias": "SCHAPER, KRISTIAN",
+   "aliasRaw": "SCHAPER, KRISTIAN",
+   "passportName": "KRISTIAN",
+   "passportSurname": "SCHAPER",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1973-06-28T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-08T11:35:56.196",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55997,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014153",
+   "name": "KROESEL, JULIANE",
+   "alias": "KROESEL, JULIANE",
+   "aliasRaw": "KROESEL, JULIANE",
+   "passportName": "JULIANE FRANZISKA",
+   "passportSurname": "HIEBEL KROESEL",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1981-01-18T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-08T11:35:55.958",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55996,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014112",
+   "name": "KECHAGIAS, VASILEIOS",
+   "alias": "KECHAGIAS, VASILEIOS",
+   "aliasRaw": "KECHAGIAS, VASILEIOS",
+   "passportName": "VASILEIOS",
+   "passportSurname": "KECHAGIAS",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1976-10-24T00:00:00",
+   "birthCountry": {
+    "code": "GRE",
+    "name": "Greece"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-08T11:35:55.734",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55995,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013887",
+   "name": "PASTORE, RODRIGO",
+   "alias": "PASTORE, RODRIGO",
+   "aliasRaw": "PASTORE, RODRIGO",
+   "passportName": "RODRIGO AUGUSTO",
+   "passportSurname": "PASTORE",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1972-09-16T00:00:00",
+   "birthCountry": {
+    "code": "ARG",
+    "name": "Argentina"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "E",
+  "typeName": "Coach",
+  "active": true,
+  "startDate": "2026-09-08T11:32:24.035",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55976,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013838",
+   "name": "ROSER, CHRISTIAN",
+   "alias": "ROSER, CHRISTIAN",
+   "aliasRaw": "ROSER, CHRISTIAN",
+   "passportName": "CHRISTIAN TOBIAS",
+   "passportSurname": "ROSER",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1999-10-15T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-03T12:29:57.717",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55668,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014186",
+   "name": "GRUNDMANN, VALENTIN",
+   "alias": "GRUNDMANN, VALENTIN",
+   "aliasRaw": "GRUNDMANN, VALENTIN",
+   "passportName": "VALENTIN",
+   "passportSurname": "GRUNDMANN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1997-12-20T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-03T12:29:57.485",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55667,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014729",
+   "name": "VAITL, PETER",
+   "alias": "VAITL, PETER",
+   "aliasRaw": "VAITL, PETER",
+   "passportName": "PETER",
+   "passportSurname": "VAITL",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1981-09-08T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-03T12:29:57.289",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55666,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013837",
+   "name": "KUEHNE, PASCAL",
+   "alias": "KUEHNE, PASCAL",
+   "aliasRaw": "KUEHNE, PASCAL",
+   "passportName": "PASCAL ANTONIO",
+   "passportSurname": "KUEHNE",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1994-02-23T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "U",
+  "typeName": "Team_Manager",
+  "active": true,
+  "startDate": "2026-09-03T12:25:21.593",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55665,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013834",
+   "name": "GIBSON, DAVID",
+   "alias": "GIBSON, DAVID",
+   "aliasRaw": "GIBSON, DAVID",
+   "passportName": "DAVID CHINEDU",
+   "passportSurname": "GIBSON",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1998-04-05T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-03T12:25:21.391",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55664,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "007021",
+   "name": "PIGLA, PIOTR",
+   "alias": "PIOTR, PIGLA",
+   "aliasRaw": "PIOTR, PIGLA",
+   "passportName": "PIOTR",
+   "passportSurname": "PIGLA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "POL",
+    "name": "Poland"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1988-06-28T00:00:00",
+   "birthCountry": {
+    "code": "POL",
+    "name": "Poland"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-03T12:25:20.715",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55661,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014045",
+   "name": "DRECHSEL, SUSANN",
+   "alias": "DRECHSEL, SUSANN",
+   "aliasRaw": "DRECHSEL, SUSANN",
+   "passportName": "SUSANN",
+   "passportSurname": "DRECHSEL",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1981-02-04T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-27T12:18:38.45",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55179,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014044",
+   "name": "BRÜCKNER, FRANZISKA",
+   "alias": "BRÜCKNER, FRANZISKA",
+   "aliasRaw": "BRÜCKNER, FRANZISKA",
+   "passportName": "FRANZISKA",
+   "passportSurname": "BRUCKNER",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1990-06-25T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-27T12:18:38.292",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55178,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013996",
+   "name": "BÖHMER, MICHAEL",
+   "alias": "BÖHMER, MICHAEL",
+   "aliasRaw": "BÖHMER, MICHAEL",
+   "passportName": "MICHAEL",
+   "passportSurname": "BOHMER",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1979-06-10T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-27T12:18:38.114",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55177,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013995",
+   "name": "LUCK, VINCENT LAURIN",
+   "alias": "LUCK, VINCENT LAURIN",
+   "aliasRaw": "LUCK, VINCENT LAURIN",
+   "passportName": "VINCENT LAURIN",
+   "passportSurname": "LUCK",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2002-09-14T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-27T12:18:37.936",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55176,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013994",
+   "name": "LUCK, SEBASTIAN",
+   "alias": "LUCK, SEBASTIAN",
+   "aliasRaw": "LUCK, SEBASTIAN",
+   "passportName": "SEBASTIAN",
+   "passportSurname": "LUCK",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1990-04-29T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-27T12:18:37.775",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55175,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013993",
+   "name": "THÄMMIG, KIM",
+   "alias": "THÄMMIG, KIM",
+   "aliasRaw": "THÄMMIG, KIM",
+   "passportName": "KIM",
+   "passportSurname": "THAMMIG",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2002-05-03T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-27T12:18:37.61",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55174,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013992",
+   "name": "LANGENAU, HOLGER",
+   "alias": "LANGENAU, HOLGER",
+   "aliasRaw": "LANGENAU, HOLGER",
+   "passportName": "HOLGER",
+   "passportSurname": "LANGENAU",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1984-10-12T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-27T12:18:37.445",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55173,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013991",
+   "name": "KINDLER, CURT",
+   "alias": "KINDLER, CURT",
+   "aliasRaw": "KINDLER, CURT",
+   "passportName": "CURT",
+   "passportSurname": "KINDLER",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2004-01-03T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-27T12:18:37.281",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55172,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013990",
+   "name": "JAHN, ALEXANDER",
+   "alias": "JAHN, ALEXANDER",
+   "aliasRaw": "JAHN, ALEXANDER",
+   "passportName": "JAHN",
+   "passportSurname": "ALEXANDER",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1978-11-16T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-27T12:18:37.091",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55171,
+  "images": {},
+  "club": {
+   "code": "NIN",
+   "name": "NINERS Chemnitz",
+   "abbreviatedName": "Chemnitz",
+   "editorialName": "Chemnitz",
+   "tvCode": "CHE",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ }
+]

@@ -1,0 +1,2147 @@
+[
+ {
+  "person": {
+   "code": "011056",
+   "name": "KUDAS, SAVAS",
+   "alias": "KUDAS, SAVAS",
+   "aliasRaw": "KUDAS, SAVAS",
+   "passportName": "SAVAS",
+   "passportSurname": "KUDAS",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1975-02-02T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-24T13:03:01.741",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57010,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013788",
+   "name": "ALYANAK, ANIL",
+   "alias": "ALYANAK, A.",
+   "aliasRaw": "ALYANAK, A.",
+   "passportName": "ANIL",
+   "passportSurname": "ALYANAK",
+   "jerseyName": "ALYANAK",
+   "abbreviatedName": "",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 208,
+   "weight": 100,
+   "birthDate": "2008-01-07T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-24T13:02:17.999",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "0",
+  "dorsalRaw": "0",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "MERSIN BSB",
+  "externalId": 57009,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/a5a5fc27-99bb-4799-9cda-9c1f32e0da0b.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/a5a5fc27-99bb-4799-9cda-9c1f32e0da0b.png"
+  },
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012760",
+   "name": "BANKSTON, KRIS",
+   "alias": "BANKSTON, KRISTEON LAMAR",
+   "aliasRaw": "BANKSTON, KRISTEON LAMAR",
+   "passportName": "KRISTEON LAMAR",
+   "passportSurname": "BANKSTON",
+   "jerseyName": "BANKSTON",
+   "abbreviatedName": "",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 205,
+   "weight": 95,
+   "birthDate": "1999-06-11T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-23T07:55:49.768",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "30",
+  "dorsalRaw": "30",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "TURK TELEKOM ANKARA",
+  "externalId": 56965,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/18e4c264-1ab0-478e-bf39-678864783eb6.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/18e4c264-1ab0-478e-bf39-678864783eb6.png"
+  },
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "007673",
+   "name": "TRIFUNOVIC, UROS",
+   "alias": "TRIFUNOVIC, UROS",
+   "aliasRaw": "TRIFUNOVIC, UROS",
+   "passportName": "UROS",
+   "passportSurname": "TRIFUNOVIC",
+   "jerseyName": "TRIFUNOVIC",
+   "abbreviatedName": "Trifunovic, U.",
+   "country": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "height": 200,
+   "weight": 99,
+   "birthDate": "2000-12-05T00:00:00",
+   "birthCountry": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "uros_trifunovic",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-23T07:55:49.575",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "10",
+  "dorsalRaw": "10",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "TURK TELEKOM ANKARA",
+  "externalId": 56964,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/663ac60e-b56c-4390-850f-52ca55823aad.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/663ac60e-b56c-4390-850f-52ca55823aad.png"
+  },
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "007373",
+   "name": "CAN, ERDEM",
+   "alias": "CAN, ERDEM",
+   "aliasRaw": "CAN, ERDEM",
+   "passportName": "ERDEM",
+   "passportSurname": "CAN",
+   "jerseyName": "",
+   "abbreviatedName": "",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1980-11-03T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "E",
+  "typeName": "Coach",
+  "active": true,
+  "startDate": "2026-09-10T14:42:54.771",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56502,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015097",
+   "name": "HARDING, JERRICK",
+   "alias": "HARDING, JERRICK",
+   "aliasRaw": "HARDING, JERRICK",
+   "passportName": "JERRICK DEONTRE",
+   "passportSurname": "HARDING",
+   "jerseyName": "HARDING",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 185,
+   "weight": 78,
+   "birthDate": "1998-04-13T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-10T14:42:07.303",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "7",
+  "dorsalRaw": "7",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "RYTAS VILNIUS",
+  "externalId": 56501,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/f38f2616-8c1f-4671-9d27-0b20ca08bddb.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/f38f2616-8c1f-4671-9d27-0b20ca08bddb.png"
+  },
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "004655",
+   "name": "BAKO, ISMAEL",
+   "alias": "BAKO, I.",
+   "aliasRaw": "BAKO, I.",
+   "passportName": "ISMAEL",
+   "passportSurname": "BAKO",
+   "jerseyName": "BAKO",
+   "abbreviatedName": "Bako, I.",
+   "country": {
+    "code": "BEL",
+    "name": "Belgium"
+   },
+   "height": 208,
+   "weight": 100,
+   "birthDate": "1995-10-10T00:00:00",
+   "birthCountry": {
+    "code": "BEL",
+    "name": "Belgium"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-10T14:41:51.479",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "28",
+  "dorsalRaw": "28",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "BC ZENIT ST PETERSBURG",
+  "externalId": 56500,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/8899b1a5-f5a2-4b51-ba88-3b0e3dac1d19.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/8899b1a5-f5a2-4b51-ba88-3b0e3dac1d19.png"
+  },
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "006251",
+   "name": "SCHNEIDER, TIM",
+   "alias": "Schneider",
+   "aliasRaw": "Schneider",
+   "passportName": "TIM",
+   "passportSurname": "SCHNEIDER",
+   "jerseyName": "SCHNEIDER",
+   "abbreviatedName": "Schneider, T.",
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 208,
+   "weight": 102,
+   "birthDate": "1997-09-01T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "tim.naider/",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-10T14:41:51.269",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "3",
+  "dorsalRaw": "3",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "IBARAKI ROBOTS",
+  "externalId": 56499,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/7efb52b0-c715-4bb7-80f8-7d2513c2386d.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/7efb52b0-c715-4bb7-80f8-7d2513c2386d.png"
+  },
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013199",
+   "name": "ONSAY, BURAK",
+   "alias": "ONSAY, BURAK",
+   "aliasRaw": "ONSAY, BURAK",
+   "passportName": "BURAK",
+   "passportSurname": "ONSAY",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1994-08-10T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-09T15:40:44.841",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56362,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013198",
+   "name": "TOPAL, METIN",
+   "alias": "TOPAL, METIN",
+   "aliasRaw": "TOPAL, METIN",
+   "passportName": "METIN",
+   "passportSurname": "TOPAL",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1982-05-02T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-09T15:40:44.63",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56361,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013197",
+   "name": "SIPAR, ÜMITCAN",
+   "alias": "SIPAR, ÜMITCAN",
+   "aliasRaw": "SIPAR, ÜMITCAN",
+   "passportName": "UMITCAN",
+   "passportSurname": "SIPAR",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1992-11-28T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-09T15:40:44.42",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56360,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008893",
+   "name": "EVREN , GOKHAN",
+   "alias": "EVREN , GOKHAN",
+   "aliasRaw": "EVREN , GOKHAN",
+   "passportName": "GOKHAN",
+   "passportSurname": "EVREN",
+   "jerseyName": "",
+   "abbreviatedName": "Evren, G.",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1992-11-04T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-09T15:40:44.184",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56359,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008956",
+   "name": "GUVENC, ISMAIL",
+   "alias": "GUVENC, SEYIT ISMAIL",
+   "aliasRaw": "GUVENC, SEYIT ISMAIL",
+   "passportName": "SEYIT ISMAIL",
+   "passportSurname": "GUVENC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1978-02-26T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "U",
+  "typeName": "Team_Manager",
+  "active": true,
+  "startDate": "2026-09-09T15:38:27.953",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56358,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011296",
+   "name": "DIKMEN, MEHMET SERHAT",
+   "alias": "DIKMEN, MEHMET SERHAT",
+   "aliasRaw": "DIKMEN, MEHMET SERHAT",
+   "passportName": "MEHMET SERHAT",
+   "passportSurname": "DIKMEN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1988-06-18T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "U",
+  "typeName": "Team_Manager",
+  "active": true,
+  "startDate": "2026-09-09T15:38:27.721",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56357,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "JVE",
+   "name": "AKIN, CAN",
+   "alias": "AKIN, FIKRET CAN",
+   "aliasRaw": "AKIN, FIKRET CAN",
+   "passportName": "FIKRET CAN",
+   "passportSurname": "AKIN",
+   "jerseyName": "CAN",
+   "abbreviatedName": "Akin, F. C.",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1983-01-30T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-09T15:36:33.475",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56353,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013196",
+   "name": "NAYIR, AYBERK",
+   "alias": "NAYIR, AYBERK",
+   "aliasRaw": "NAYIR, AYBERK",
+   "passportName": "AYBERK",
+   "passportSurname": "NAYIR",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1985-06-22T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-09T15:33:57.624",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56352,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012035",
+   "name": "KAYNAK, SAVAS",
+   "alias": "KAYNAK, SAVAS",
+   "aliasRaw": "KAYNAK, SAVAS",
+   "passportName": "SAVAS",
+   "passportSurname": "KAYNAK",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1985-09-30T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-09T15:33:05.944",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56351,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "007853",
+   "name": "MCKISSIC, SHAQUIELLE",
+   "alias": "MCKISSIC, SHAQUIELLE",
+   "aliasRaw": "MCKISSIC, SHAQUIELLE",
+   "passportName": "SHAQUIELLE ONEAL",
+   "passportSurname": "MCKISSIC",
+   "jerseyName": "MCKISSIC",
+   "abbreviatedName": "McKissic, S.",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 196,
+   "weight": 95,
+   "birthDate": "1990-08-17T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "ShaqInTheBox",
+   "instagramAccount": "smck40/",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T15:29:57.24",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "77",
+  "dorsalRaw": "77",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "OLYMPIACOS PIRAEUS",
+  "externalId": 56350,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/0ba95474-5768-4e6a-80e3-a27ffb1d6192.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/0ba95474-5768-4e6a-80e3-a27ffb1d6192.png"
+  },
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008278",
+   "name": "BAS, GOKTUG",
+   "alias": "BAS, GOKTUG",
+   "aliasRaw": "BAS, GOKTUG",
+   "passportName": "GOKTUG",
+   "passportSurname": "BAS",
+   "jerseyName": "BAS",
+   "abbreviatedName": "Bas, G.",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 201,
+   "weight": 100,
+   "birthDate": "2001-05-08T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T15:29:56.977",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "57",
+  "dorsalRaw": "57",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "BAHCESEHIR KOLEJI",
+  "externalId": 56349,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/c585a706-ace0-4e24-8f41-bb9f1c8b0121.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/c585a706-ace0-4e24-8f41-bb9f1c8b0121.png"
+  },
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013299",
+   "name": "TEKCEVIK, METE",
+   "alias": "TEKCEVIK, METE",
+   "aliasRaw": "TEKCEVIK, METE",
+   "passportName": "METE",
+   "passportSurname": "TEKCEVIK",
+   "jerseyName": "TEKCEVIK",
+   "abbreviatedName": "",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 185,
+   "weight": 85,
+   "birthDate": "2001-07-18T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T15:29:56.742",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "55",
+  "dorsalRaw": "55",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "TURK TELEKOM ANKARA",
+  "externalId": 56348,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/76f86019-d9c4-47bf-9ca5-eaa9272a0bbe.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/76f86019-d9c4-47bf-9ca5-eaa9272a0bbe.png"
+  },
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013272",
+   "name": "LAMB, ANTHONY",
+   "alias": "LAMB, ANTHONY",
+   "aliasRaw": "LAMB, ANTHONY",
+   "passportName": "ANTHONY MILES",
+   "passportSurname": "LAMB",
+   "jerseyName": "LAMB",
+   "abbreviatedName": "",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 198,
+   "weight": 103,
+   "birthDate": "1998-01-20T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T15:26:09.611",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "22",
+  "dorsalRaw": "22",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "HAPOEL MIDTOWN JERUSALEM",
+  "externalId": 56347,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/9d898b59-08fa-4175-908b-a662cf32224f.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/9d898b59-08fa-4175-908b-a662cf32224f.png"
+  },
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "005850",
+   "name": "TAYLOR, TONY",
+   "alias": "Taylor",
+   "aliasRaw": "Taylor",
+   "passportName": "TONY CHRISTOPHER",
+   "passportSurname": "TAYLOR",
+   "jerseyName": "TAYLOR II",
+   "abbreviatedName": "Taylor, T.",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 185,
+   "weight": 85,
+   "birthDate": "1990-08-09T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T15:26:09.403",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "21",
+  "dorsalRaw": "21",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "TURK TELEKOM ANKARA",
+  "externalId": 56346,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4te/4fd1b6f8-396f-4c65-98d7-2172ba604516.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4te/4fd1b6f8-396f-4c65-98d7-2172ba604516.png"
+  },
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "006640",
+   "name": "OZDEMIROGLU, DOGUS",
+   "alias": "Ozdemiroglu",
+   "aliasRaw": "Ozdemiroglu",
+   "passportName": "DOGUS",
+   "passportSurname": "OZDEMIROGLU",
+   "jerseyName": "OZDEMIROGLU",
+   "abbreviatedName": "Ozdemiroglu, D.",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 194,
+   "weight": 85,
+   "birthDate": "1996-04-17T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T15:24:39.78",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "18",
+  "dorsalRaw": "18",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "TURK TELEKOM ANKARA",
+  "externalId": 56345,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/b1c4f2a0-d486-449d-9d86-d4e162e71818.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/b1c4f2a0-d486-449d-9d86-d4e162e71818.png"
+  },
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "004096",
+   "name": "KOSUT, EMIRCAN",
+   "alias": "Kosut",
+   "aliasRaw": "Kosut",
+   "passportName": "EMIRCAN",
+   "passportSurname": "KOSUT",
+   "jerseyName": "KOSUT",
+   "abbreviatedName": "Kosut, E.",
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 216,
+   "weight": 112,
+   "birthDate": "1995-07-03T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T15:23:19.53",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "9",
+  "dorsalRaw": "9",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "TURK TELEKOM ANKARA",
+  "externalId": 56344,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/3f4006a4-1263-40f9-86fb-264d612e228d.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/3f4006a4-1263-40f9-86fb-264d612e228d.png"
+  },
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013924",
+   "name": "CAN, OMER",
+   "alias": "CAN, ÖMER",
+   "aliasRaw": "CAN, ÖMER",
+   "passportName": "OMER",
+   "passportSurname": "CAN",
+   "jerseyName": "CAN",
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 204,
+   "weight": 95,
+   "birthDate": "2007-12-05T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T15:22:41.106",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "8",
+  "dorsalRaw": "8",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "TURK TELEKOM ANKARA",
+  "externalId": 56343,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/23e2b2dc-93c3-4794-a441-49f4cf00641c.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/23e2b2dc-93c3-4794-a441-49f4cf00641c.png"
+  },
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013923",
+   "name": "KAHRAMAN, ATA",
+   "alias": "KAHRAMAN, ATA",
+   "aliasRaw": "KAHRAMAN, ATA",
+   "passportName": "ATA",
+   "passportSurname": "KAHRAMAN",
+   "jerseyName": "KAHRAMAN",
+   "abbreviatedName": null,
+   "country": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "height": 195,
+   "weight": 85,
+   "birthDate": "1999-02-15T00:00:00",
+   "birthCountry": {
+    "code": "TUR",
+    "name": "Turkiye"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T15:20:18.804",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "6",
+  "dorsalRaw": "6",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "TURK TELEKOM ANKARA",
+  "externalId": 56342,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/1131e5e0-4ab7-4ac9-a2b6-160ac910c7ef.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS4/1131e5e0-4ab7-4ac9-a2b6-160ac910c7ef.png"
+  },
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014976",
+   "name": "BASKURT, HASAN",
+   "alias": "BASKURT, HASAN",
+   "aliasRaw": "BASKURT, HASAN",
+   "passportName": "HASAN",
+   "passportSurname": "BASKURT",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1998-04-07T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T09:10:57.399",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56262,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014926",
+   "name": "ÖZKAN, AZRA",
+   "alias": "ÖZKAN, AZRA",
+   "aliasRaw": "ÖZKAN, AZRA",
+   "passportName": "AZRA",
+   "passportSurname": "OZKAN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2003-06-25T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-08T16:00:13.254",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56180,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014788",
+   "name": "ÖZGÜRSOY, ÖZGÜR",
+   "alias": "ÖZGÜRSOY, ÖZGÜR",
+   "aliasRaw": "ÖZGÜRSOY, ÖZGÜR",
+   "passportName": "OZGUR",
+   "passportSurname": "OZGURSOY",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1977-05-28T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T11:08:04.842",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55838,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014756",
+   "name": "YESILBAG, ONUR",
+   "alias": "YESILBAG, ONUR",
+   "aliasRaw": "YESILBAG, ONUR",
+   "passportName": "ONUR",
+   "passportSurname": "YESILBAG",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1983-11-27T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T08:37:18.932",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55749,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014753",
+   "name": "KESEN, ALPER",
+   "alias": "KESEN, ALPER",
+   "aliasRaw": "KESEN, ALPER",
+   "passportName": "ALPER",
+   "passportSurname": "KESEN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1985-01-05T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T08:29:05.622",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55745,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013998",
+   "name": "SUNGUR, ALI MURAT",
+   "alias": "SUNGUR, ALI MURAT",
+   "aliasRaw": "SUNGUR, ALI MURAT",
+   "passportName": "ALI MURAT",
+   "passportSurname": "SUNGUR",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1988-07-03T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-03T08:31:46.223",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55647,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012038",
+   "name": "DEMIRCI, FATIH",
+   "alias": "DEMIRCI, FATIH",
+   "aliasRaw": "DEMIRCI, FATIH",
+   "passportName": "FATIH",
+   "passportSurname": "DEMIRCI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1996-12-16T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-03T08:31:46.032",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55646,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012036",
+   "name": "ASLAN, FATIH",
+   "alias": "ASLAN, FATIH",
+   "aliasRaw": "ASLAN, FATIH",
+   "passportName": "MUHAMMET FATIH",
+   "passportSurname": "ASLAN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1996-10-30T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-03T08:31:45.864",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55645,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008608",
+   "name": "AKAR, MERIC",
+   "alias": "AKAR, MERIC",
+   "aliasRaw": "AKAR, MERIC",
+   "passportName": "MERIC",
+   "passportSurname": "AKAR",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1989-05-10T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-03T08:31:45.676",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55644,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008447",
+   "name": "KUTLUATA, CAN",
+   "alias": "KUTLUATA, CAN",
+   "aliasRaw": "KUTLUATA, CAN",
+   "passportName": "SALIH CAN",
+   "passportSurname": "KUTLUATA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1977-08-02T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-03T08:31:45.5",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55643,
+  "images": {},
+  "club": {
+   "code": "TTK",
+   "name": "Turk Telekom Ankara",
+   "abbreviatedName": "Turk Telekom",
+   "editorialName": "Turk Telekom",
+   "tvCode": "TTA",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/4ba35608-54ca-4800-a59c-f2571e6f8e13.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ }
+]

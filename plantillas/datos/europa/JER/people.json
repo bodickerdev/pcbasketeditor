@@ -1,0 +1,2837 @@
+[
+ {
+  "person": {
+   "code": "015332",
+   "name": "KELLER, YONATAN",
+   "alias": "KELLER, YONATAN",
+   "aliasRaw": "KELLER, YONATAN",
+   "passportName": "YONATAN",
+   "passportSurname": "KELLER",
+   "jerseyName": "KELLER",
+   "abbreviatedName": null,
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "2007-06-03T00:00:00",
+   "birthCountry": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-10-19T15:32:52.517",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "30",
+  "dorsalRaw": "30",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "HAPOEL MIDTOWN JERUSALEM",
+  "externalId": 57165,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008488",
+   "name": "MOSIC, IVAN",
+   "alias": "MOSIC, IVAN",
+   "aliasRaw": "MOSIC, IVAN",
+   "passportName": "IVAN",
+   "passportSurname": "MOSIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1981-03-24T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-10-19T08:03:27.751",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 57092,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009622",
+   "name": "BROWN, LORENZO",
+   "alias": "BROWN, LORENZO",
+   "aliasRaw": "BROWN, LORENZO",
+   "passportName": "LORENZO DONTEZ",
+   "passportSurname": "BROWN",
+   "jerseyName": "BROWN",
+   "abbreviatedName": "Brown, L.",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 196,
+   "weight": 89,
+   "birthDate": "1990-08-26T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "zo_brown",
+   "instagramAccount": "OfficialZobrown",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-28T08:51:25.457",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "4",
+  "dorsalRaw": "4",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "OLIMPIA MILANO",
+  "externalId": 57025,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4xq/d6b6475c-533c-4959-b7b7-281a3371a073.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4xq/d6b6475c-533c-4959-b7b7-281a3371a073.png"
+  },
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015212",
+   "name": "WEICHSELBAUM , GILAD YITZCHAK",
+   "alias": "WEICHSELBAUM , GILAD YITZCHAK",
+   "aliasRaw": "WEICHSELBAUM , GILAD YITZCHAK",
+   "passportName": "GILAD YITZCHAK",
+   "passportSurname": "WEICHSELBAUM",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "2004-11-19T00:00:00",
+   "birthCountry": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-23T11:21:21.365",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56975,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015211",
+   "name": "LOBERBOUM, SHACHAR",
+   "alias": "LOBERBOUM, SHACHAR",
+   "aliasRaw": "LOBERBOUM, SHACHAR",
+   "passportName": "SHACHAR",
+   "passportSurname": "LOBERBOUM",
+   "jerseyName": "7",
+   "abbreviatedName": null,
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "2008-07-22T00:00:00",
+   "birthCountry": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-23T11:00:11.952",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "7",
+  "dorsalRaw": "7",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "HAPOEL MIDTOWN JERUSALEM",
+  "externalId": 56971,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/8fc39710-97b6-4c1e-9c17-44bf82c265bb.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/8fc39710-97b6-4c1e-9c17-44bf82c265bb.png"
+  },
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013279",
+   "name": "CHACHASHVILI, GABRIEL",
+   "alias": "CHACHASHVILI, GABRIEL",
+   "aliasRaw": "CHACHASHVILI, GABRIEL",
+   "passportName": "GABRIEL",
+   "passportSurname": "CHACHASHVILI",
+   "jerseyName": "Chachashvili",
+   "abbreviatedName": "",
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 210,
+   "weight": 0,
+   "birthDate": "1999-12-08T00:00:00",
+   "birthCountry": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-17T11:29:19.571",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "33",
+  "dorsalRaw": "33",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "HAPOEL MIDTOWN JERUSALEM",
+  "externalId": 56795,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/c4ee0b1f-b9a4-4116-85bd-8576fcabb53e.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/c4ee0b1f-b9a4-4116-85bd-8576fcabb53e.png"
+  },
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013904",
+   "name": "HUBER, ROI",
+   "alias": "HUBER, ROI",
+   "aliasRaw": "HUBER, ROI",
+   "passportName": "ROI",
+   "passportSurname": "HUBER",
+   "jerseyName": "Huber",
+   "abbreviatedName": null,
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1997-02-10T00:00:00",
+   "birthCountry": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-17T08:45:35.308",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "13",
+  "dorsalRaw": "13",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "HAPOEL MIDTOWN JERUSALEM",
+  "externalId": 56759,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/a1142084-bfa6-4d67-b35e-9d4deef77dce.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/a1142084-bfa6-4d67-b35e-9d4deef77dce.png"
+  },
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015144",
+   "name": "HANOCHI, YOTAM",
+   "alias": "HANOCHI, YOTAM",
+   "aliasRaw": "HANOCHI, YOTAM",
+   "passportName": "YOTAM",
+   "passportSurname": "HANOCHI",
+   "jerseyName": "hanochi",
+   "abbreviatedName": null,
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "2000-12-08T00:00:00",
+   "birthCountry": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-17T08:44:05.777",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "8",
+  "dorsalRaw": "8",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "HAPOEL MIDTOWN JERUSALEM",
+  "externalId": 56758,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/580b42ea-596c-4b63-8be8-db2b960c2366.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/580b42ea-596c-4b63-8be8-db2b960c2366.png"
+  },
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015128",
+   "name": "PERIC, MIHAJLO",
+   "alias": "PERIC, MIHAJLO",
+   "aliasRaw": "PERIC, MIHAJLO",
+   "passportName": "MIHAJLO",
+   "passportSurname": "PERIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2005-12-16T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-15T07:40:23.669",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56679,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015024",
+   "name": "ISKRENOVIC, DIMITRIJE",
+   "alias": "ISKRENOVIC, DIMITRIJE",
+   "aliasRaw": "ISKRENOVIC, DIMITRIJE",
+   "passportName": "DIMITRIJE",
+   "passportSurname": "ISKRENOVIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2006-10-16T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T14:12:56.395",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56325,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "AEY",
+   "name": "OBRADOVIC, SASA",
+   "alias": "OBRADOVIC, SASA",
+   "aliasRaw": "OBRADOVIC, SASA",
+   "passportName": "SASA",
+   "passportSurname": "OBRADOVIC",
+   "jerseyName": "",
+   "abbreviatedName": "Obradovic, S.",
+   "country": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1969-01-29T00:00:00",
+   "birthCountry": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "E",
+  "typeName": "Coach",
+  "active": true,
+  "startDate": "2026-09-09T07:22:13.499",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56233,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014007",
+   "name": "MILTON, SHAKE",
+   "alias": "MILTON, MALIK",
+   "aliasRaw": "MILTON, MALIK",
+   "passportName": "MALIK BENJAMIN",
+   "passportSurname": "MILTON",
+   "jerseyName": "MILTON",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 196,
+   "weight": 93,
+   "birthDate": "1996-09-26T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-09T06:57:37.071",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "9",
+  "dorsalRaw": "9",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "PARTIZAN BELGRADE",
+  "externalId": 56230,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/69d6e851-c161-4f7c-89b8-275e238ad200.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/69d6e851-c161-4f7c-89b8-275e238ad200.png"
+  },
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013981",
+   "name": "STAMENKOVIC, MILICA",
+   "alias": "STOSIC, MILICA",
+   "aliasRaw": "STOSIC, MILICA",
+   "passportName": "MILICA",
+   "passportSurname": "STAMENKOVIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1997-09-20T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T06:54:30.952",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56229,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014145",
+   "name": "PETE, BORIS",
+   "alias": "PETE, BORIS",
+   "aliasRaw": "PETE, BORIS",
+   "passportName": "BORIS",
+   "passportSurname": "PETE",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1988-06-25T00:00:00",
+   "birthCountry": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-09T06:50:21.988",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56228,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014904",
+   "name": "RODDY, DAVID",
+   "alias": "RODDY, DAVID",
+   "aliasRaw": "RODDY, DAVID",
+   "passportName": "DAVID MICHAEL",
+   "passportSurname": "RODDY",
+   "jerseyName": "RODDY",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "2001-03-27T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T13:34:31.489",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "21",
+  "dorsalRaw": "21",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "DENVER NUGGETS",
+  "externalId": 56120,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/79caccff-92d6-421d-8cad-680be28b5ffe.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/79caccff-92d6-421d-8cad-680be28b5ffe.png"
+  },
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014903",
+   "name": "LOFTON JR, KENNY",
+   "alias": "LOFTON JR, KENNY",
+   "aliasRaw": "LOFTON JR, KENNY",
+   "passportName": "KENNETH WAYNE",
+   "passportSurname": "LOFTON JR",
+   "jerseyName": "Lofton jr",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "2002-08-14T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T13:34:31.176",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "2",
+  "dorsalRaw": "2",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "SHANGHAI SHARKS",
+  "externalId": 56119,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/adc66baa-c97f-447c-984e-a09f64728a54.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/adc66baa-c97f-447c-984e-a09f64728a54.png"
+  },
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "006625",
+   "name": "ZOOSMAN, YOVEL",
+   "alias": "Zoosman",
+   "aliasRaw": "Zoosman",
+   "passportName": "YOVEL",
+   "passportSurname": "ZOOSMAN",
+   "jerseyName": "Zoosman",
+   "abbreviatedName": "Zoosman, Y.",
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 200,
+   "weight": 90,
+   "birthDate": "1998-05-12T00:00:00",
+   "birthCountry": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:13:16.971",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "50",
+  "dorsalRaw": "50",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "HAPOEL MIDTOWN JERUSALEM",
+  "externalId": 56048,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/32599150-9e8c-472c-8765-ab8d8bcd2c76.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/32599150-9e8c-472c-8765-ab8d8bcd2c76.png"
+  },
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014874",
+   "name": "BURG, ETHAN",
+   "alias": "BURG, ETHAN",
+   "aliasRaw": "BURG, ETHAN",
+   "passportName": "ETHAN",
+   "passportSurname": "BUTLER BURG",
+   "jerseyName": "BURG",
+   "abbreviatedName": null,
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "2002-09-04T00:00:00",
+   "birthCountry": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:13:16.728",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "35",
+  "dorsalRaw": "35",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "HAPOEL MIDTOWN JERUSALEM",
+  "externalId": 56047,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/d15be71a-7fff-4d35-8cb6-b73d7bdd78fa.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/d15be71a-7fff-4d35-8cb6-b73d7bdd78fa.png"
+  },
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "007768",
+   "name": "LEVI, NIMROD",
+   "alias": "LEVI, NIMROD",
+   "aliasRaw": "LEVI, NIMROD",
+   "passportName": "NIMROD",
+   "passportSurname": "LEVI",
+   "jerseyName": "Levi",
+   "abbreviatedName": "Levi, N.",
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 208,
+   "weight": 86,
+   "birthDate": "1995-03-24T00:00:00",
+   "birthCountry": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:13:16.425",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "15",
+  "dorsalRaw": "15",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "HAPOEL MIDTOWN JERUSALEM",
+  "externalId": 56046,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/98f25115-5478-44cc-9ffb-a2baf12a0cef.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/98f25115-5478-44cc-9ffb-a2baf12a0cef.png"
+  },
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009896",
+   "name": "MILETIC, DUSAN",
+   "alias": "MILETIC, DUSAN",
+   "aliasRaw": "MILETIC, DUSAN",
+   "passportName": "DUSAN",
+   "passportSurname": "MILETIC",
+   "jerseyName": "MILETIC",
+   "abbreviatedName": "Miletic, D.",
+   "country": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "height": 214,
+   "weight": 103,
+   "birthDate": "1998-07-30T00:00:00",
+   "birthCountry": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "miletic.11",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:13:16.18",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "11",
+  "dorsalRaw": "11",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "AL RIYADI",
+  "externalId": 56045,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/6a70d44e-84b3-4679-bcff-9295f42803a9.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/6a70d44e-84b3-4679-bcff-9295f42803a9.png"
+  },
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011192",
+   "name": "SMITH, JALEEN",
+   "alias": "SMITH, JALEEN",
+   "aliasRaw": "SMITH, JALEEN",
+   "passportName": "JALEEN DEVON",
+   "passportSurname": "SMITH",
+   "jerseyName": "SMITH",
+   "abbreviatedName": "Smith, J.",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 190,
+   "weight": 93,
+   "birthDate": "1994-11-24T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "jaleensmith3",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:13:15.932",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "3",
+  "dorsalRaw": "3",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "TURK TELEKOM",
+  "externalId": 56044,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/9868d08a-f4a4-4785-9df3-b45239b5db34.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/9868d08a-f4a4-4785-9df3-b45239b5db34.png"
+  },
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011970",
+   "name": "HARPER, JARED",
+   "alias": "HARPER, JARED",
+   "aliasRaw": "HARPER, JARED",
+   "passportName": "JARED LAMAR",
+   "passportSurname": "HARPER",
+   "jerseyName": "HARPER",
+   "abbreviatedName": "",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 178,
+   "weight": 79,
+   "birthDate": "1997-09-14T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:13:15.697",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "1",
+  "dorsalRaw": "1",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "HAPOEL MIDTOWN JERUSALEM",
+  "externalId": 56043,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/fa87e748-14bd-432e-98d2-aaf6ab2c6d9b.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/fa87e748-14bd-432e-98d2-aaf6ab2c6d9b.png"
+  },
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012714",
+   "name": "CACOK, DEVONTAE",
+   "alias": "CACOK, DEVONTAE",
+   "aliasRaw": "CACOK, DEVONTAE",
+   "passportName": "DEVONTAE CALVIN",
+   "passportSurname": "CACOK",
+   "jerseyName": "CACOK",
+   "abbreviatedName": "",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 201,
+   "weight": 0,
+   "birthDate": "1996-10-08T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T12:13:15.478",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "0",
+  "dorsalRaw": "0",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "MANRESA",
+  "externalId": 56042,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/7b733f2d-d21b-4011-8220-586be46b46b1.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/7b733f2d-d21b-4011-8220-586be46b46b1.png"
+  },
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014832",
+   "name": "DEUTSCH, AVIHU",
+   "alias": "DEUTSCH, AVIHU",
+   "aliasRaw": "DEUTSCH, AVIHU",
+   "passportName": "AVIHU",
+   "passportSurname": "DEUTSCH",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1993-09-20T00:00:00",
+   "birthCountry": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-07T20:06:59.665",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55905,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014831",
+   "name": "AVIV (YUABOV), EFRAIM",
+   "alias": "AVIV (YUABOV), EFRAIM",
+   "aliasRaw": "AVIV (YUABOV), EFRAIM",
+   "passportName": "EFRAIM",
+   "passportSurname": "AVIV YUABOV",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1985-07-06T00:00:00",
+   "birthCountry": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-07T20:06:59.422",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55904,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014830",
+   "name": "NAHMIAS EYTAN, EILAY IZHAK",
+   "alias": "NAHMIAS EYTAN, EILAY IZHAK",
+   "aliasRaw": "NAHMIAS EYTAN, EILAY IZHAK",
+   "passportName": "EILAY IZHAK",
+   "passportSurname": "NAHMIAS EYTAN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "2003-09-15T00:00:00",
+   "birthCountry": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-07T20:06:59.175",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55903,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013828",
+   "name": "MANOLSON, YAIR",
+   "alias": "MANOLSON, YAIR",
+   "aliasRaw": "MANOLSON, YAIR",
+   "passportName": "YAIR YAIR SIMCHA",
+   "passportSurname": "MANOLSON",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1989-10-06T00:00:00",
+   "birthCountry": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-07T20:06:58.928",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55902,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013404",
+   "name": "BAR ZAKAI, GUY",
+   "alias": "BAR ZAKAI, GUY",
+   "aliasRaw": "BAR ZAKAI, GUY",
+   "passportName": "GUY",
+   "passportSurname": "BAR ZAKAI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1989-10-12T00:00:00",
+   "birthCountry": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-07T20:06:58.695",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55901,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013211",
+   "name": "GAFNY, GUY",
+   "alias": "GAFNY, GUY",
+   "aliasRaw": "GAFNY, GUY",
+   "passportName": "GUY",
+   "passportSurname": "GAFNY",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1982-03-03T00:00:00",
+   "birthCountry": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-07T20:06:58.47",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55900,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014829",
+   "name": "WEINSTEIN, MICHEAL YOSSEF",
+   "alias": "WEINSTEIN, MICHEAL YOSSEF",
+   "aliasRaw": "WEINSTEIN, MICHEAL YOSSEF",
+   "passportName": "MICHEAL YOSSEF",
+   "passportSurname": "WEINSTEIN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "2006-02-14T00:00:00",
+   "birthCountry": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-07T20:06:58.235",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55899,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014828",
+   "name": "RADISIC, DEJAN",
+   "alias": "RADISIC, DEJAN",
+   "aliasRaw": "RADISIC, DEJAN",
+   "passportName": "DEJAN",
+   "passportSurname": "RADISIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1990-10-08T00:00:00",
+   "birthCountry": {
+    "code": "SRB",
+    "name": "Serbia"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-07T20:06:57.987",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55898,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013210",
+   "name": "ROSENTHAL, RON",
+   "alias": "ROSENTHAL, RON",
+   "aliasRaw": "ROSENTHAL, RON",
+   "passportName": "RON",
+   "passportSurname": "ROSENTHAL",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1981-06-19T00:00:00",
+   "birthCountry": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-07T20:06:57.708",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55897,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013350",
+   "name": "MARESKY, ZEEV",
+   "alias": "MARESKI, ZEEV",
+   "aliasRaw": "MARESKI, ZEEV",
+   "passportName": "ZEEV YUVAL",
+   "passportSurname": "MARESKY",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1985-10-08T00:00:00",
+   "birthCountry": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-07T20:06:57.483",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55896,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013980",
+   "name": "MILICIC, SARA",
+   "alias": "MILICIC, SARA",
+   "aliasRaw": "MILICIC, SARA",
+   "passportName": "SARA",
+   "passportSurname": "MILICIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1997-12-03T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T09:31:35.034",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55614,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013979",
+   "name": "SAVIC, MARIJA",
+   "alias": "SAVIC, MARIJA",
+   "aliasRaw": "SAVIC, MARIJA",
+   "passportName": "MARIJA",
+   "passportSurname": "SAVIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2001-02-17T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T09:31:34.81",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55613,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013978",
+   "name": "PROJOVIC, SARA",
+   "alias": "PROJOVIC, SARA",
+   "aliasRaw": "PROJOVIC, SARA",
+   "passportName": "SARA",
+   "passportSurname": "PROJOVIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2003-03-17T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T09:31:34.568",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55612,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009773",
+   "name": "KRIVOKUCA, JOVANA",
+   "alias": "KRIVOKUCA-MILOVANOVIC, JOVANA",
+   "aliasRaw": "KRIVOKUCA-MILOVANOVIC, JOVANA",
+   "passportName": "JOVANA",
+   "passportSurname": "KRIVOKUCA MILOVANOVIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1983-07-27T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T09:31:34.315",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55611,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009699",
+   "name": "VASILJEVIC, IVANA",
+   "alias": "VASILJEVIC, IVANA",
+   "aliasRaw": "VASILJEVIC, IVANA",
+   "passportName": "IVANA",
+   "passportSurname": "VASILJEVIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1980-08-08T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T09:31:34.114",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55759,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008557",
+   "name": "VASILJEVIC, PETAR",
+   "alias": "VASILJEVIC, PETAR",
+   "aliasRaw": "VASILJEVIC, PETAR",
+   "passportName": "PETAR",
+   "passportSurname": "VASILJEVIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1979-01-26T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T09:31:33.931",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55758,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008494",
+   "name": "KREMIC, MILOS",
+   "alias": "KREMIC, MILOS",
+   "aliasRaw": "KREMIC, MILOS",
+   "passportName": "MILOS",
+   "passportSurname": "KREMIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1981-05-17T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T09:31:33.685",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55609,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014744",
+   "name": "KOJIC, ANA",
+   "alias": "KOJIC, ANA",
+   "aliasRaw": "KOJIC, ANA",
+   "passportName": "ANA",
+   "passportSurname": "KOJIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1997-04-09T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T07:38:44.341",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55726,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "DAN",
+   "name": "MARESKY, JONATHAN",
+   "alias": "MARESKY, J.",
+   "aliasRaw": "MARESKY, J.",
+   "passportName": "JONATHAN",
+   "passportSurname": "MARESKY",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1955-08-20T00:00:00",
+   "birthCountry": {
+    "code": "RSA",
+    "name": "South Africa"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-03T11:23:11.257",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55654,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014727",
+   "name": "LAVIE, GUY",
+   "alias": "LAVIE, GUY",
+   "aliasRaw": "LAVIE, GUY",
+   "passportName": "GUY",
+   "passportSurname": "LAVIE",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1992-02-27T00:00:00",
+   "birthCountry": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "U",
+  "typeName": "Team_Manager",
+  "active": true,
+  "startDate": "2026-09-03T11:23:10.992",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55653,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013212",
+   "name": "GIANNAKOPOULOS, THEODOROS",
+   "alias": "GIANNAKOPOULOS, THEODOROS",
+   "aliasRaw": "GIANNAKOPOULOS, THEODOROS",
+   "passportName": "THEODOROS",
+   "passportSurname": "GIANNAKOPOULOS",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "GRE",
+    "name": "Greece"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1985-03-28T00:00:00",
+   "birthCountry": {
+    "code": "GRE",
+    "name": "Greece"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-03T11:15:52.792",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55652,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013202",
+   "name": "OLEARCZYK, SHAI",
+   "alias": "OLEARCZYK, SHAI",
+   "aliasRaw": "OLEARCZYK, SHAI",
+   "passportName": "SHAI RAM",
+   "passportSurname": "OLEARCZYK",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ISR",
+    "name": "Israel"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1987-05-01T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-03T11:15:52.523",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55651,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014047",
+   "name": "KRSTIC, ANA",
+   "alias": "KRSTIC, ANA",
+   "aliasRaw": "KRSTIC, ANA",
+   "passportName": "ANA",
+   "passportSurname": "KRSTIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1985-07-07T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-02T10:14:23.282",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55617,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009775",
+   "name": "DOJCINOVIC, JOVANA",
+   "alias": "DOJCINOVIC, JOVANA",
+   "aliasRaw": "DOJCINOVIC, JOVANA",
+   "passportName": "JOVANA",
+   "passportSurname": "DOJCINOVIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1989-10-04T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-02T10:13:19.444",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55616,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008563",
+   "name": "KOSTRES, BILJANA",
+   "alias": "KOSTRES, BILJANA",
+   "aliasRaw": "KOSTRES, BILJANA",
+   "passportName": "BILJANA",
+   "passportSurname": "KOSTRES",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1979-10-03T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-02T10:13:00.474",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55610,
+  "images": {},
+  "club": {
+   "code": "JER",
+   "name": "Hapoel Midtown Jerusalem",
+   "abbreviatedName": "Hapoel JLM",
+   "editorialName": "Jerusalem",
+   "tvCode": "JLM",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ }
+]

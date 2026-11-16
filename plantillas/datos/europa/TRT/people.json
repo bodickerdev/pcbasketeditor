@@ -1,0 +1,2018 @@
+[
+ {
+  "person": {
+   "code": "014673",
+   "name": "VICENZUTTO, ANDREA",
+   "alias": "VICENZUTTO, ANDREA",
+   "aliasRaw": "VICENZUTTO, ANDREA",
+   "passportName": "ANDREA",
+   "passportSurname": "VICENZUTTO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1991-12-30T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-08-21T10:47:29.429",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 6,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54991,
+  "images": {},
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015409",
+   "name": "VITAL, CHRISTIAN",
+   "alias": "VITAL, CHRISTIAN",
+   "aliasRaw": "VITAL, CHRISTIAN",
+   "passportName": "CHRISTIAN LUCIEN",
+   "passportSurname": "VITAL",
+   "jerseyName": "1",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1997-03-21T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-11-09T10:55:45.677",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "1",
+  "dorsalRaw": "1",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "ZHEJIANG GOLDEN BULLS",
+  "externalId": 57282,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHHNTPs/a39fb19d-cbb6-4a45-988c-4f0a3f68506d.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHHNTPs/a39fb19d-cbb6-4a45-988c-4f0a3f68506d.png"
+  },
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015205",
+   "name": "ZUMSTEIN, BRAYDEN",
+   "alias": "ZUMSTEIN, BRAYDEN",
+   "aliasRaw": "ZUMSTEIN, BRAYDEN",
+   "passportName": "BRAYDEN GREGORY",
+   "passportSurname": "ZUMSTEIN",
+   "jerseyName": "ZUMSTEIN",
+   "abbreviatedName": null,
+   "country": {
+    "code": "SUI",
+    "name": "Switzerland"
+   },
+   "height": 203,
+   "weight": 95,
+   "birthDate": "2008-07-07T00:00:00",
+   "birthCountry": {
+    "code": "SUI",
+    "name": "Switzerland"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-22T07:20:36.986",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "10",
+  "dorsalRaw": "10",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "GRAN TORINO BASKETBALL",
+  "externalId": 56960,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/6c20a85a-38da-492f-8989-db65fd5e429d.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/6c20a85a-38da-492f-8989-db65fd5e429d.png"
+  },
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "015020",
+   "name": "LONARDO, FRANCESCO",
+   "alias": "LONARDO, FRANCESCO",
+   "aliasRaw": "LONARDO, FRANCESCO",
+   "passportName": "FRANCESCO",
+   "passportSurname": "LONARDO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2001-11-15T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T13:12:20.115",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56315,
+  "images": {},
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014997",
+   "name": "GHISLIERI, FRANCESCO",
+   "alias": "GHISLIERI, FRANCESCO",
+   "aliasRaw": "GHISLIERI, FRANCESCO",
+   "passportName": "FRANCESCO",
+   "passportSurname": "GHISLIERI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2001-07-15T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T10:48:04.639",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56285,
+  "images": {},
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014979",
+   "name": "LONARDO, CATERINA",
+   "alias": "LONARDO, CATERINA",
+   "aliasRaw": "LONARDO, CATERINA",
+   "passportName": "CATERINA",
+   "passportSurname": "LONARDO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1998-09-04T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T09:38:14.351",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56267,
+  "images": {},
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014967",
+   "name": "DELLA GODENZA, TOMMASO",
+   "alias": "DELLA GODENZA, TOMMASO",
+   "aliasRaw": "DELLA GODENZA, TOMMASO",
+   "passportName": "TOMMASO",
+   "passportSurname": "DELLA GODENZA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1982-02-11T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T08:52:49.809",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56253,
+  "images": {},
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014964",
+   "name": "SARTORI, ALESSIA",
+   "alias": "SARTORI, ALESSIA",
+   "aliasRaw": "SARTORI, ALESSIA",
+   "passportName": "ALESSIA",
+   "passportSurname": "SARTORI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1992-12-26T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-09T08:44:18.874",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56250,
+  "images": {},
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "007087",
+   "name": "FIORETTI, MARIO",
+   "alias": "FIORETTI, MARIO",
+   "aliasRaw": "FIORETTI, MARIO",
+   "passportName": "MARIO",
+   "passportSurname": "FIORETTI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1973-09-11T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "E",
+  "typeName": "Coach",
+  "active": true,
+  "startDate": "2026-09-08T13:55:06.964",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56141,
+  "images": {},
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012582",
+   "name": "DURHAM, ALJAMI",
+   "alias": "DURHAM, ALJAMI",
+   "aliasRaw": "DURHAM, ALJAMI",
+   "passportName": "ALJAMI KIAN",
+   "passportSurname": "DURHAM",
+   "jerseyName": "Durham",
+   "abbreviatedName": "",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 193,
+   "weight": 82,
+   "birthDate": "1998-09-30T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T13:13:11.96",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "42",
+  "dorsalRaw": "42",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "VANOLI CREMONA",
+  "externalId": 56117,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/4ffc8ab6-7086-44bb-9bdc-2a81330bbd33.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/4ffc8ab6-7086-44bb-9bdc-2a81330bbd33.png"
+  },
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "005422",
+   "name": "JALLOW, KARIM",
+   "alias": "Jallow",
+   "aliasRaw": "Jallow",
+   "passportName": "KARIM JOHANNES",
+   "passportSurname": "JALLOW",
+   "jerseyName": "Jallow",
+   "abbreviatedName": "Jallow, K.",
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 198,
+   "weight": 90,
+   "birthDate": "1997-04-13T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": "jallow88",
+   "instagramAccount": "karim_jallow_",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T13:13:11.722",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "35",
+  "dorsalRaw": "35",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "VIRTUS BOLOGNA",
+  "externalId": 56116,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/c9a2314c-b1fb-4fa9-8593-9d3bcbb5712e.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/c9a2314c-b1fb-4fa9-8593-9d3bcbb5712e.png"
+  },
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "001506",
+   "name": "GAZZOTTI, GIULIO",
+   "alias": "GAZZOTTI, G.",
+   "aliasRaw": "GAZZOTTI, G.",
+   "passportName": "GIULIO",
+   "passportSurname": "GAZZOTTI",
+   "jerseyName": "24",
+   "abbreviatedName": "",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 202,
+   "weight": 104,
+   "birthDate": "1991-09-23T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T13:13:11.478",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "24",
+  "dorsalRaw": "24",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "PALLACANESTRO FORLI 2.015",
+  "externalId": 56115,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/303a1e7a-57fa-4609-a962-1e765784aec1.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/303a1e7a-57fa-4609-a962-1e765784aec1.png"
+  },
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014902",
+   "name": "MADDOX JR, DANTE",
+   "alias": "MADDOX JR, DANTE",
+   "aliasRaw": "MADDOX JR, DANTE",
+   "passportName": "DANTE TELANIOUS",
+   "passportSurname": "MADDOX JR",
+   "jerseyName": "MADDOX JR",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 188,
+   "weight": 85,
+   "birthDate": "2002-01-15T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T13:13:11.255",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "21",
+  "dorsalRaw": "21",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "PHILADELPHIA 76ERS",
+  "externalId": 56114,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/c34cdbc7-508a-4714-b3fa-e7cc38bdc2fc.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/c34cdbc7-508a-4714-b3fa-e7cc38bdc2fc.png"
+  },
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "005542",
+   "name": "OLEJNICZAK, DOMINIK",
+   "alias": "DOMINIK OLEJNICZAK",
+   "aliasRaw": "DOMINIK OLEJNICZAK",
+   "passportName": "DOMINIK",
+   "passportSurname": "OLEJNICZAK",
+   "jerseyName": "OLEJNICZAK",
+   "abbreviatedName": null,
+   "country": {
+    "code": "POL",
+    "name": "Poland"
+   },
+   "height": 209,
+   "weight": 115,
+   "birthDate": "1996-07-01T00:00:00",
+   "birthCountry": {
+    "code": "POL",
+    "name": "Poland"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T13:13:10.972",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "17",
+  "dorsalRaw": "17",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "DERTHONA BASKET S.S.R.L.",
+  "externalId": 56113,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/8a148e79-9700-4758-8098-a72991754549.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/8a148e79-9700-4758-8098-a72991754549.png"
+  },
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "006701",
+   "name": "BORTOLANI, GIORDANO",
+   "alias": "Bortolani",
+   "aliasRaw": "Bortolani",
+   "passportName": "GIORDANO",
+   "passportSurname": "BORTOLANI",
+   "jerseyName": "BORTOLANI",
+   "abbreviatedName": "Bortolani, G.",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 193,
+   "weight": 85,
+   "birthDate": "2000-12-02T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T13:13:10.711",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "12",
+  "dorsalRaw": "12",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "EA7 EMPORIO ARMANI MILANO",
+  "externalId": 56112,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/dd8c8fb6-2f34-4b32-8149-00248ebe2f77.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/dd8c8fb6-2f34-4b32-8149-00248ebe2f77.png"
+  },
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014901",
+   "name": "DI MEO, EDOARDO",
+   "alias": "DI MEO, EDOARDO",
+   "aliasRaw": "DI MEO, EDOARDO",
+   "passportName": "EDOARDO",
+   "passportSurname": "DI MEO",
+   "jerseyName": "Di Meo",
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 190,
+   "weight": 80,
+   "birthDate": "2008-05-12T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T13:13:10.476",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "9",
+  "dorsalRaw": "9",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "DERTHONA BASKET S.S.R.L.",
+  "externalId": 56111,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/ab3f95d2-6f72-4de5-9be3-db69a2eb6bfc.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/ab3f95d2-6f72-4de5-9be3-db69a2eb6bfc.png"
+  },
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "004469",
+   "name": "ALIBEGOVIC, AMAR",
+   "alias": "ALIBEGOVIC, A.",
+   "aliasRaw": "ALIBEGOVIC, A.",
+   "passportName": "AMAR",
+   "passportSurname": "ALIBEGOVIC",
+   "jerseyName": "ALIBEGOVIC",
+   "abbreviatedName": "Alibegovic, A.",
+   "country": {
+    "code": "BIH",
+    "name": "Bosnia and Herzegovina"
+   },
+   "height": 205,
+   "weight": 105,
+   "birthDate": "1995-03-31T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "Amar7Alibegovic",
+   "instagramAccount": "ace_0107",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T13:13:10.178",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "7",
+  "dorsalRaw": "7",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "COVIRAN GRANADA",
+  "externalId": 56110,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/a322ccb6-dc63-4cd9-8763-cc1b2a4513d7.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/a322ccb6-dc63-4cd9-8763-cc1b2a4513d7.png"
+  },
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "005438",
+   "name": "PECCHIA, ANDREA",
+   "alias": "Pecchia",
+   "aliasRaw": "Pecchia",
+   "passportName": "ANDREA",
+   "passportSurname": "PECCHIA",
+   "jerseyName": "PECCHIA",
+   "abbreviatedName": "Pecchia, A.",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 197,
+   "weight": 90,
+   "birthDate": "1997-11-16T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T13:13:09.927",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "6",
+  "dorsalRaw": "6",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "DERTHONA BASKET S.S.R.L.",
+  "externalId": 56109,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/6cbe4bfe-9f43-4987-92ce-1b4041cfa211.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/6cbe4bfe-9f43-4987-92ce-1b4041cfa211.png"
+  },
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014900",
+   "name": "GORHAM, JUSTIN",
+   "alias": "GORHAM, JUSTIN",
+   "aliasRaw": "GORHAM, JUSTIN",
+   "passportName": "JUSTIN TERRELL",
+   "passportSurname": "GORHAM",
+   "jerseyName": "Gorham",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 201,
+   "weight": 102,
+   "birthDate": "1998-08-06T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T13:13:09.663",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "4",
+  "dorsalRaw": "4",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "DERTHONA BASKET S.S.R.L.",
+  "externalId": 56108,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/578790c4-b601-4d96-a2cb-97a5c4cc9695.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/578790c4-b601-4d96-a2cb-97a5c4cc9695.png"
+  },
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012595",
+   "name": "HUBB, PRENTISS",
+   "alias": "HUBB, PRENTISS",
+   "aliasRaw": "HUBB, PRENTISS",
+   "passportName": "PRENTISS CHARLES",
+   "passportSurname": "HUBB",
+   "jerseyName": "HUBB",
+   "abbreviatedName": "",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 190,
+   "weight": 80,
+   "birthDate": "1999-03-19T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T13:13:09.377",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "3",
+  "dorsalRaw": "3",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "DERTHONA BASKET S.S.R.L.",
+  "externalId": 56107,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/f4eaa33e-9aff-427a-b7b9-ac101f93a80b.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/f4eaa33e-9aff-427a-b7b9-ac101f93a80b.png"
+  },
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "006725",
+   "name": "EBOUA, PAUL",
+   "alias": "EBOUA, PAUL",
+   "aliasRaw": "EBOUA, PAUL",
+   "passportName": "PAUL HERMAN",
+   "passportSurname": "EBOUA",
+   "jerseyName": "EBOUA",
+   "abbreviatedName": "Eboua, P.",
+   "country": {
+    "code": "CMR",
+    "name": "Cameroon"
+   },
+   "height": 203,
+   "weight": 97,
+   "birthDate": "2000-02-15T00:00:00",
+   "birthCountry": {
+    "code": "CMR",
+    "name": "Cameroon"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T13:13:09.126",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "00",
+  "dorsalRaw": "00",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "LDLC ASVEL VILLURBANNE",
+  "externalId": 56106,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/9d2adc18-c9d3-4009-916a-71e3e6d29fb3.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS8/9d2adc18-c9d3-4009-916a-71e3e6d29fb3.png"
+  },
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014747",
+   "name": "PRIORI, MARCO",
+   "alias": "PRIORI, MARCO",
+   "aliasRaw": "PRIORI, MARCO",
+   "passportName": "MARCO",
+   "passportSurname": "PRIORI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1990-12-31T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T08:24:21.083",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55730,
+  "images": {},
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014746",
+   "name": "CASTELLI, ROBERTA",
+   "alias": "CASTELLI, ROBERTA",
+   "aliasRaw": "CASTELLI, ROBERTA",
+   "passportName": "ROBERTA",
+   "passportSurname": "CASTELLI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1988-07-21T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-07T08:21:33.556",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55729,
+  "images": {},
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014726",
+   "name": "BENEDETTI, LORENZO",
+   "alias": "BENEDETTI, LORENZO",
+   "aliasRaw": "BENEDETTI, LORENZO",
+   "passportName": "LORENZO",
+   "passportSurname": "BENEDETTI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1991-10-17T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-03T10:55:31.331",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55650,
+  "images": {},
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014725",
+   "name": "D'ANTONA, GIUSEPPE",
+   "alias": "D'ANTONA, GIUSEPPE",
+   "aliasRaw": "D'ANTONA, GIUSEPPE",
+   "passportName": "GIUSEPPE",
+   "passportSurname": "DANTONA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1969-02-26T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-03T10:55:31.024",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55649,
+  "images": {},
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011277",
+   "name": "SQUARCINA, IACOPO",
+   "alias": "SQUARCINA, IACOPO",
+   "aliasRaw": "SQUARCINA, IACOPO",
+   "passportName": "IACOPO",
+   "passportSurname": "SQUARCINA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1988-12-16T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-09-03T10:55:30.726",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55648,
+  "images": {},
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008605",
+   "name": "CASILLO, IMMACOLATA",
+   "alias": "CASILLO, IMMACOLATA",
+   "aliasRaw": "CASILLO, IMMACOLATA",
+   "passportName": "IMMACOLATA",
+   "passportSurname": "CASILLO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1977-11-10T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-09-02T09:39:03.11",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55579,
+  "images": {},
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012054",
+   "name": "GALBIATI, CARLO",
+   "alias": "GALBIATI, CARLO",
+   "aliasRaw": "GALBIATI, CARLO",
+   "passportName": "CARLO",
+   "passportSurname": "GALBIATI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1990-11-13T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-01T07:52:36.848",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55281,
+  "images": {},
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014685",
+   "name": "TORRESI, JACOPO",
+   "alias": "TORRESI, JACOPO",
+   "aliasRaw": "TORRESI, JACOPO",
+   "passportName": "JACOPO",
+   "passportSurname": "TORRESI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1984-05-25T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-09-01T07:52:36.614",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55280,
+  "images": {},
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011062",
+   "name": "BERGAMINI, TOMMASO",
+   "alias": "BERGAMINI, TOMMASO",
+   "aliasRaw": "BERGAMINI, TOMMASO",
+   "passportName": "TOMMASO",
+   "passportSurname": "BERGAMINI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1989-12-15T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "U",
+  "typeName": "Team_Manager",
+  "active": true,
+  "startDate": "2026-08-27T08:01:13.639",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55135,
+  "images": {},
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008607",
+   "name": "ZONGOLI, SABRINA",
+   "alias": "ZONGOLI, SABRINA",
+   "aliasRaw": "ZONGOLI, SABRINA",
+   "passportName": "SABRINA",
+   "passportSurname": "ZONGOLI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1985-04-29T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-25T11:23:15.621",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55087,
+  "images": {},
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008604",
+   "name": "MASTRIA, FILIPPO",
+   "alias": "MASTRIA, FILIPPO",
+   "aliasRaw": "MASTRIA, FILIPPO",
+   "passportName": "FILIPPO",
+   "passportSurname": "MASTRIA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1976-06-06T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-25T11:23:15.438",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55086,
+  "images": {},
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008602",
+   "name": "TEDESCO, ARIANNA",
+   "alias": "TEDESCO, ARIANNA",
+   "aliasRaw": "TEDESCO, ARIANNA",
+   "passportName": "ARIANNA",
+   "passportSurname": "TEDESCO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1975-07-28T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-25T11:23:15.263",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55085,
+  "images": {},
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014672",
+   "name": "SOLDINI, ALESSANDRO",
+   "alias": "SOLDINI, ALESSANDRO",
+   "aliasRaw": "SOLDINI, ALESSANDRO",
+   "passportName": "ALESSANDRO",
+   "passportSurname": "SOLDINI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1962-09-22T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-08-21T10:46:31.385",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54990,
+  "images": {},
+  "club": {
+   "code": "TRT",
+   "name": "Baglietto Derthona Tortona",
+   "abbreviatedName": "Derthona",
+   "editorialName": "Derthona",
+   "tvCode": "DER",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ }
+]

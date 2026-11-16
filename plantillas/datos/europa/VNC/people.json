@@ -1,0 +1,2564 @@
+[
+ {
+  "person": {
+   "code": "015231",
+   "name": "SARGHINI, GABRIELE",
+   "alias": "SARGHINI, GABRIELE",
+   "aliasRaw": "SARGHINI, GABRIELE",
+   "passportName": "GABRIELE",
+   "passportSurname": "SARGHINI",
+   "jerseyName": "SARGHINI",
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 196,
+   "weight": 85,
+   "birthDate": "2008-12-19T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-25T07:26:04.808",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "40",
+  "dorsalRaw": "40",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "REYER VENEZIA",
+  "externalId": 57012,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014515",
+   "name": "FASOLO, FEDERICO",
+   "alias": "FASOLO, FEDERICO",
+   "aliasRaw": "FASOLO, FEDERICO",
+   "passportName": "FEDERICO",
+   "passportSurname": "FASOLO",
+   "jerseyName": "Fasolo",
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 185,
+   "weight": 75,
+   "birthDate": "2008-07-22T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-23T11:13:30.98",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "45",
+  "dorsalRaw": "45",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "VIRTUS PADOVA",
+  "externalId": 56973,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "005159",
+   "name": "GREEN, ERICK",
+   "alias": "Green",
+   "aliasRaw": "Green",
+   "passportName": "ERICK OBRIEN",
+   "passportSurname": "GREEN II",
+   "jerseyName": "GREEN",
+   "abbreviatedName": "Green, E.",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 191,
+   "weight": 85,
+   "birthDate": "1992-05-09T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": false,
+  "startDate": "2026-09-23T11:09:43.393",
+  "endDate": "2026-11-12T13:30:45.015",
+  "order": 0,
+  "dorsal": "32",
+  "dorsalRaw": "32",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "PALLACANESTRO CANTU",
+  "externalId": 56972,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/a30e98fe-5ca4-4aa5-bd6e-3d61d2048791.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/a30e98fe-5ca4-4aa5-bd6e-3d61d2048791.png"
+  },
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "WAI",
+   "name": "SPAHIJA, NEVEN",
+   "alias": "SPAHIJA, NEVEN",
+   "aliasRaw": "SPAHIJA, NEVEN",
+   "passportName": "NEVEN",
+   "passportSurname": "SPAHIJA",
+   "jerseyName": "",
+   "abbreviatedName": "Spahija, N.",
+   "country": {
+    "code": "CRO",
+    "name": "Croatia"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1962-11-06T00:00:00",
+   "birthCountry": {
+    "code": "CRO",
+    "name": "Croatia"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "E",
+  "typeName": "Coach",
+  "active": true,
+  "startDate": "2026-09-08T12:29:17.677",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 56068,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008250",
+   "name": "GRANT, SASHA",
+   "alias": "GRANT, SASHA",
+   "aliasRaw": "GRANT, SASHA",
+   "passportName": "SASHA MATTIAS",
+   "passportSurname": "GRANT",
+   "jerseyName": "GRANT",
+   "abbreviatedName": "Grant, S.",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 201,
+   "weight": 105,
+   "birthDate": "2002-02-15T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T10:37:35.445",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "44",
+  "dorsalRaw": "44",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "VANOLI CREMONA",
+  "externalId": 55921,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/870401e0-92dd-4c5a-b43d-db1cb1161daa.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/870401e0-92dd-4c5a-b43d-db1cb1161daa.png"
+  },
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008052",
+   "name": "WILTJER, KYLE",
+   "alias": "WILTJER, KYLE",
+   "aliasRaw": "WILTJER, KYLE",
+   "passportName": "KYLE GREGORY",
+   "passportSurname": "WILTJER",
+   "jerseyName": "WILTJER",
+   "abbreviatedName": "Wiltjer, K.",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 208,
+   "weight": 103,
+   "birthDate": "1992-10-20T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T10:37:35.172",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "33",
+  "dorsalRaw": "33",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "REYER VENEZIA",
+  "externalId": 55920,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/efcf8757-6a9d-4422-9c8a-22eb2ffd87ee.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/efcf8757-6a9d-4422-9c8a-22eb2ffd87ee.png"
+  },
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014013",
+   "name": "WATSON, GLYNN",
+   "alias": "WATSON, GLYNN",
+   "aliasRaw": "WATSON, GLYNN",
+   "passportName": "GLYNN JUWAN",
+   "passportSurname": "WATSON",
+   "jerseyName": "WATSON JR",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 183,
+   "weight": 82,
+   "birthDate": "1997-03-09T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T10:37:34.886",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "30",
+  "dorsalRaw": "30",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "LDLC ASVEL VILLEURBANNE",
+  "externalId": 55919,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/1f10e4e3-d4b0-400a-b769-29a7db572467.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/1f10e4e3-d4b0-400a-b769-29a7db572467.png"
+  },
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011909",
+   "name": "PARKS, JORDAN",
+   "alias": "PARKS, JORDAN",
+   "aliasRaw": "PARKS, JORDAN",
+   "passportName": "JORDAN ANTHONY",
+   "passportSurname": "PARKS",
+   "jerseyName": "PARKS",
+   "abbreviatedName": "",
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 201,
+   "weight": 95,
+   "birthDate": "1994-04-06T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T10:37:34.593",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "22",
+  "dorsalRaw": "22",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "REYER VENEZIA",
+  "externalId": 55918,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/9eadd729-cdd0-4ef5-b7d3-b9a47e1de658.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/9eadd729-cdd0-4ef5-b7d3-b9a47e1de658.png"
+  },
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "006919",
+   "name": "OLINDE, LOUIS",
+   "alias": "Olinde",
+   "aliasRaw": "Olinde",
+   "passportName": "LOUIS FRANKLIN",
+   "passportSurname": "OLINDE",
+   "jerseyName": "OLINDE",
+   "abbreviatedName": "Olinde, L.",
+   "country": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "height": 205,
+   "weight": 92,
+   "birthDate": "1998-03-19T00:00:00",
+   "birthCountry": {
+    "code": "GER",
+    "name": "Germany"
+   },
+   "twitterAccount": "louisolinde98",
+   "instagramAccount": "louisolinde/",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T10:37:34.304",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "19",
+  "dorsalRaw": "19",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "MANRESA",
+  "externalId": 55917,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/56f35891-a75b-4451-a1e4-fd064b796576.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/56f35891-a75b-4451-a1e4-fd064b796576.png"
+  },
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012588",
+   "name": "JANELIDZE, GIGA",
+   "alias": "JANELIDZE, GIGA",
+   "aliasRaw": "JANELIDZE, GIGA",
+   "passportName": "GIGA",
+   "passportSurname": "JANELIDZE",
+   "jerseyName": "JANELIDZE",
+   "abbreviatedName": "",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 201,
+   "weight": 100,
+   "birthDate": "1995-04-03T00:00:00",
+   "birthCountry": {
+    "code": "GEO",
+    "name": "Georgia"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T10:37:34.027",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "14",
+  "dorsalRaw": "14",
+  "position": 2,
+  "positionName": "Forward",
+  "lastTeam": "REYER VENEZIA",
+  "externalId": 55916,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/0e7f1c11-7ce4-4133-af34-c8965c5b99d4.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/0e7f1c11-7ce4-4133-af34-c8965c5b99d4.png"
+  },
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014836",
+   "name": "BOAKYE, ENOCH",
+   "alias": "BOAKYE, ENOCH",
+   "aliasRaw": "BOAKYE, ENOCH",
+   "passportName": "ENOCH OWUSU",
+   "passportSurname": "BOAKYE",
+   "jerseyName": "BOAKYE",
+   "abbreviatedName": null,
+   "country": {
+    "code": "CAN",
+    "name": "Canada"
+   },
+   "height": 208,
+   "weight": 113,
+   "birthDate": "2003-03-24T00:00:00",
+   "birthCountry": {
+    "code": "CAN",
+    "name": "Canada"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T10:37:33.771",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "13",
+  "dorsalRaw": "13",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "SPIROU CHARLEROI",
+  "externalId": 55915,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/9773a5ae-beec-4741-a842-650974290f4b.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/9773a5ae-beec-4741-a842-650974290f4b.png"
+  },
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014835",
+   "name": "RICE, SIR'JABARI",
+   "alias": "RICE, SIR'JABARI",
+   "aliasRaw": "RICE, SIR'JABARI",
+   "passportName": "SIR JABARI PRINCE",
+   "passportSurname": "RICE",
+   "jerseyName": "RICE",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 193,
+   "weight": 82,
+   "birthDate": "1998-12-28T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T10:37:33.44",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "10",
+  "dorsalRaw": "10",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "ANDORRA",
+  "externalId": 55914,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/ee4d3233-e8f1-4559-b830-7b5cbdd8554e.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/ee4d3233-e8f1-4559-b830-7b5cbdd8554e.png"
+  },
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013928",
+   "name": "BOWMAN, KY",
+   "alias": "BOWMAN, KY",
+   "aliasRaw": "BOWMAN, KY",
+   "passportName": "KYRIAN AZENDE",
+   "passportSurname": "BOWMAN",
+   "jerseyName": "BOWMAN",
+   "abbreviatedName": null,
+   "country": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "height": 190,
+   "weight": 89,
+   "birthDate": "1997-06-16T00:00:00",
+   "birthCountry": {
+    "code": "USA",
+    "name": "United States of America"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T10:37:33.087",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "8",
+  "dorsalRaw": "8",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "REYER VENEZIA",
+  "externalId": 55913,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/587b984b-e793-41b7-b42f-1aed4b972646.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/587b984b-e793-41b7-b42f-1aed4b972646.png"
+  },
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "007921",
+   "name": "CANDI, LEONARDO",
+   "alias": "CANDI, LEONARDO",
+   "aliasRaw": "CANDI, LEONARDO",
+   "passportName": "LEONARDO",
+   "passportSurname": "CANDI",
+   "jerseyName": "CANDI",
+   "abbreviatedName": "Candi, L.",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 190,
+   "weight": 89,
+   "birthDate": "1997-03-30T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T10:37:32.861",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "7",
+  "dorsalRaw": "7",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "REYER VENEZIA",
+  "externalId": 55912,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/8677221c-1d25-4747-ae46-1725a582aea2.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/8677221c-1d25-4747-ae46-1725a582aea2.png"
+  },
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "005390",
+   "name": "DE NICOLAO, GIOVANNI",
+   "alias": "GIOVANNI DE NICOLAO",
+   "aliasRaw": "GIOVANNI DE NICOLAO",
+   "passportName": "GIOVANNI",
+   "passportSurname": "DE NICOLAO",
+   "jerseyName": "DE NICOLAO",
+   "abbreviatedName": "",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 187,
+   "weight": 78,
+   "birthDate": "1996-06-10T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": "",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T10:37:32.628",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "5",
+  "dorsalRaw": "5",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "REYER VENEZIA",
+  "externalId": 55911,
+  "images": {
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/93d4877f-7a59-4f9d-9f0a-0ccba92571c8.png",
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/93d4877f-7a59-4f9d-9f0a-0ccba92571c8.png"
+  },
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011664",
+   "name": "MARETTO, OCTAVIO",
+   "alias": "MARETTO, OCTAVIO",
+   "aliasRaw": "MARETTO, OCTAVIO",
+   "passportName": "OCTAVIO",
+   "passportSurname": "MARETTO",
+   "jerseyName": "MARETTO",
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 198,
+   "weight": 97,
+   "birthDate": "2004-04-07T00:00:00",
+   "birthCountry": {
+    "code": "ARG",
+    "name": "Argentina"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T10:37:32.377",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "1",
+  "dorsalRaw": "1",
+  "position": 1,
+  "positionName": "Guard",
+  "lastTeam": "VL PESARO",
+  "externalId": 55910,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/dea92aef-39bd-4e81-a3b6-57f684c84332.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/dea92aef-39bd-4e81-a3b6-57f684c84332.png"
+  },
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "003759",
+   "name": "TESSITORI,  AMEDEO",
+   "alias": "Tessitori",
+   "aliasRaw": "Tessitori",
+   "passportName": "AMEDEO VITTORIO",
+   "passportSurname": "TESSITORI",
+   "jerseyName": "TESSITORI",
+   "abbreviatedName": "Tessitori, A.",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 208,
+   "weight": 118,
+   "birthDate": "1994-10-07T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "amedeotess",
+   "facebookAccount": "amedeo.tessitori",
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "J",
+  "typeName": "Player",
+  "active": true,
+  "startDate": "2026-09-08T10:37:32.133",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "00",
+  "dorsalRaw": "00",
+  "position": 3,
+  "positionName": "Center",
+  "lastTeam": "REYER VENEZIA",
+  "externalId": 55909,
+  "images": {
+   "action": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/14ca526b-012b-4a8c-9a92-9a0b67434980.png",
+   "headshot": "https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS5/14ca526b-012b-4a8c-9a92-9a0b67434980.png"
+  },
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009613",
+   "name": "NOVELLI, ROBERTO",
+   "alias": "NOVELLI, ROBERTO",
+   "aliasRaw": "NOVELLI, ROBERTO",
+   "passportName": "ROBERTO",
+   "passportSurname": "NOVELLI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1961-10-05T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-01T12:43:12.917",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55356,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009612",
+   "name": "BEGGIO, MICHELANGELO",
+   "alias": "BEGGIO, MICHELANGELO",
+   "aliasRaw": "BEGGIO, MICHELANGELO",
+   "passportName": "MICHELANGELO",
+   "passportSurname": "BEGGIO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1962-09-07T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-01T12:43:12.617",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55355,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009611",
+   "name": "MUNARIN, FEDERICO",
+   "alias": "MUNARIN, FEDERICO",
+   "aliasRaw": "MUNARIN, FEDERICO",
+   "passportName": "FEDERICO",
+   "passportSurname": "MUNARIN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1951-10-29T00:00:00",
+   "birthCountry": {
+    "code": "ARG",
+    "name": "Argentina"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-01T12:43:12.34",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55354,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014705",
+   "name": "SCHIRRIPA, VINCENZO",
+   "alias": "SCHIRRIPA, VINCENZO",
+   "aliasRaw": "SCHIRRIPA, VINCENZO",
+   "passportName": "VINCENZO",
+   "passportSurname": "SCHIRRIPA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1994-03-13T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-01T12:43:12.1",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55353,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013832",
+   "name": "BEGGIO, LORENZO",
+   "alias": "BEGGIO, LORENZO",
+   "aliasRaw": "BEGGIO, LORENZO",
+   "passportName": "LORENZO",
+   "passportSurname": "BEGGIO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "2000-06-13T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-01T12:43:11.825",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55352,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011148",
+   "name": "PALERMI, STEFANO",
+   "alias": "PALERMI, STEFANO",
+   "aliasRaw": "PALERMI, STEFANO",
+   "passportName": "STEFANO",
+   "passportSurname": "PALERMI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1991-09-21T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "D",
+  "typeName": "Doctor",
+  "active": true,
+  "startDate": "2026-09-01T12:43:11.587",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55351,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013181",
+   "name": "PAVAN, FEDERICO",
+   "alias": "PAVAN, FEDERICO",
+   "aliasRaw": "PAVAN, FEDERICO",
+   "passportName": "FEDERICO",
+   "passportSurname": "PAVAN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1999-04-20T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "U",
+  "typeName": "Team_Manager",
+  "active": true,
+  "startDate": "2026-08-28T11:01:30.958",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55213,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013937",
+   "name": "VIANELLO, FABIO",
+   "alias": "VIANELLO, FABIO",
+   "aliasRaw": "VIANELLO, FABIO",
+   "passportName": "FABIO",
+   "passportSurname": "VIANELLO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1959-01-26T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "U",
+  "typeName": "Team_Manager",
+  "active": true,
+  "startDate": "2026-08-28T11:01:30.398",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55212,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "BYW",
+   "name": "MOLIN, EMANUELE",
+   "alias": "MOLIN, EMANUELE",
+   "aliasRaw": "MOLIN, EMANUELE",
+   "passportName": "EMANUELE",
+   "passportSurname": "MOLIN",
+   "jerseyName": "",
+   "abbreviatedName": "Molin, E.",
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1960-02-12T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": "",
+   "instagramAccount": "",
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-08-28T11:01:30.147",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55211,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009610",
+   "name": "BILLIO, ALBERTO",
+   "alias": "BILLIO, ALBERTO",
+   "aliasRaw": "BILLIO, ALBERTO",
+   "passportName": "ALBERTO",
+   "passportSurname": "BILLIO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1968-07-20T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-08-28T11:01:29.564",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55210,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008992",
+   "name": "PEROVIC, VELJKO",
+   "alias": "PEROVIC, VELJKO",
+   "aliasRaw": "PEROVIC, VELJKO",
+   "passportName": "VELJKO",
+   "passportSurname": "PEROVIC",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "CRO",
+    "name": "Croatia"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1983-02-20T00:00:00",
+   "birthCountry": {
+    "code": "CRO",
+    "name": "Croatia"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "A",
+  "typeName": "Assitant coach",
+  "active": true,
+  "startDate": "2026-08-28T11:01:29.326",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55209,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "013182",
+   "name": "PERISSINOTTO, SAMUELE",
+   "alias": "PERISSINOTTO, SAMUELE",
+   "aliasRaw": "PERISSINOTTO, SAMUELE",
+   "passportName": "SAMUELE",
+   "passportSurname": "PERISSINOTTO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "2001-02-19T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-08-25T09:51:57.846",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55059,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012481",
+   "name": "BASSO, GIOVANNI",
+   "alias": "BASSO, GIOVANNI",
+   "aliasRaw": "BASSO, GIOVANNI",
+   "passportName": "GIOVANNI",
+   "passportSurname": "BASSO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1994-01-05T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-08-25T09:51:57.612",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55058,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "011060",
+   "name": "ZANETTI, EDOARDO",
+   "alias": "ZANETTI, EDOARDO",
+   "aliasRaw": "ZANETTI, EDOARDO",
+   "passportName": "EDOARDO",
+   "passportSurname": "ZANETTI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1996-11-09T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-08-25T09:51:57.383",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55057,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009616",
+   "name": "XALLE, MATTEO",
+   "alias": "XALLE, MATTEO",
+   "aliasRaw": "XALLE, MATTEO",
+   "passportName": "MATTEO",
+   "passportSurname": "XALLE",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1988-08-13T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-08-25T09:51:57.162",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55056,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009615",
+   "name": "DE BEI, ALBERTO",
+   "alias": "DE BEI, ALBERTO",
+   "aliasRaw": "DE BEI, ALBERTO",
+   "passportName": "ALBERTO",
+   "passportSurname": "DE BEI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "height": 0,
+   "weight": 0,
+   "birthDate": "1990-10-04T00:00:00",
+   "birthCountry": {
+    "code": "ITA",
+    "name": "Italy"
+   },
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "F",
+  "typeName": "Team_Follower",
+  "active": true,
+  "startDate": "2026-08-25T09:51:56.919",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": 0,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 55055,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014040",
+   "name": "DECET , MATTIA",
+   "alias": "DECET , MATTIA",
+   "aliasRaw": "DECET , MATTIA",
+   "passportName": "MATTIA",
+   "passportSurname": "DECET",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1996-01-30T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-19T11:58:42.237",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54967,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014039",
+   "name": "CONCINA, MARCO",
+   "alias": "CONCINA, MARCO",
+   "aliasRaw": "CONCINA, MARCO",
+   "passportName": "MARCO",
+   "passportSurname": "CONCINA",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1995-06-20T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-19T11:58:42.022",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54966,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014002",
+   "name": "STURARO , SARA",
+   "alias": "STURARO , SARA",
+   "aliasRaw": "STURARO , SARA",
+   "passportName": "SARA",
+   "passportSurname": "STURARO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1981-04-03T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-19T11:58:41.8",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54965,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "014001",
+   "name": "BOSCARATO, LEONARDO",
+   "alias": "BOSCARATO, LEONARDO",
+   "aliasRaw": "BOSCARATO, LEONARDO",
+   "passportName": "LEONARDO",
+   "passportSurname": "BOSCARATO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "2003-01-31T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-19T11:58:41.594",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54964,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012682",
+   "name": "DAL CIN, MARCO",
+   "alias": "DAL CIN, MARCO",
+   "aliasRaw": "DAL CIN, MARCO",
+   "passportName": "MARCO",
+   "passportSurname": "DAL CIN",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1986-03-05T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-19T11:58:41.396",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54963,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "012681",
+   "name": "GAGNO, SILVIA",
+   "alias": "GAGNO, SILVIA",
+   "aliasRaw": "GAGNO, SILVIA",
+   "passportName": "SILVIA",
+   "passportSurname": "GAGNO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1983-08-01T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-19T11:58:41.208",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54962,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "010517",
+   "name": "TRONCO, ENRICO",
+   "alias": "TRONCO, ENRICO",
+   "aliasRaw": "TRONCO, ENRICO",
+   "passportName": "ENRICO",
+   "passportSurname": "TRONCO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1976-09-29T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-19T11:58:41.005",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54961,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009719",
+   "name": "POSENATO, DANIELE",
+   "alias": "POSENATO, DANIELE",
+   "aliasRaw": "POSENATO, DANIELE",
+   "passportName": "DANIELE",
+   "passportSurname": "POSENATO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1982-04-22T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-19T11:58:40.786",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54960,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "009717",
+   "name": "PILUTTI, RICCARDO",
+   "alias": "PILUTTI, RICCARDO",
+   "aliasRaw": "PILUTTI, RICCARDO",
+   "passportName": "RICCARDO",
+   "passportSurname": "PILUTTI",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1991-08-08T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-19T11:58:40.581",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54959,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ },
+ {
+  "person": {
+   "code": "008406",
+   "name": "COPPO, ANDREA",
+   "alias": "COPPO, ANDREA",
+   "aliasRaw": "COPPO, ANDREA",
+   "passportName": "ANDREA",
+   "passportSurname": "COPPO",
+   "jerseyName": null,
+   "abbreviatedName": null,
+   "country": null,
+   "height": null,
+   "weight": null,
+   "birthDate": "1975-04-22T00:00:00",
+   "birthCountry": null,
+   "twitterAccount": null,
+   "instagramAccount": null,
+   "facebookAccount": null,
+   "isReferee": false,
+   "images": {}
+  },
+  "type": "Z",
+  "typeName": "Unified_Score_Crew",
+  "active": true,
+  "startDate": "2026-08-19T11:58:40.314",
+  "endDate": "2027-06-30T00:00:00",
+  "order": 0,
+  "dorsal": "",
+  "dorsalRaw": "",
+  "position": -1,
+  "positionName": null,
+  "lastTeam": "",
+  "externalId": 54958,
+  "images": {},
+  "club": {
+   "code": "VNC",
+   "name": "Umana Reyer Venice",
+   "abbreviatedName": "Reyer Venice",
+   "editorialName": "Reyer Venice",
+   "tvCode": "URV",
+   "isVirtual": false,
+   "images": {
+    "crest": "https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png"
+   }
+  },
+  "season": {
+   "name": "EuroCup 2026-27",
+   "code": "U2026",
+   "alias": "2026-27",
+   "competitionCode": "U",
+   "year": 2026,
+   "startDate": "2026-07-01T00:00:00"
+  }
+ }
+]
