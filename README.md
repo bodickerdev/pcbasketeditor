@@ -32,6 +32,12 @@ Los originales se guardan como `.BAK` y el botón **Restaurar copia de seguridad
 | [Formato de los archivos](FORMATO_DBC.md) | Descripción técnica de los archivos del juego |
 | [Scripts de plantillas](plantillas/LEEME.md) | Cómo se descargan y aplican las plantillas reales |
 
+## Licencia
+
+El código del editor y de los scripts se publica con la [licencia MIT](LICENSE).
+
+La licencia **no** cubre el juego, sus archivos ni los datos derivados de él. Tampoco cubre los nombres, escudos, fotografías y demás material de terceros incluido en las plantillas, que pertenecen a sus respectivos dueños.
+
 ## Aviso legal
 
 PC Basket 4.5 es propiedad de sus actuales titulares de la licencia. Este editor es un proyecto de aficionados, gratuito y sin ánimo de lucro, que no tiene ninguna relación ni acuerdo con la Liga Endesa (ACB), la NBA, la Euroliga (EuroLeague Basketball), la EuroCup, sus clubes ni sus jugadores. Los nombres, escudos, imágenes y fotografías pertenecen a sus respectivos dueños y se usan solo con fines informativos y de entretenimiento. En ningún caso se distribuye el juego completo: únicamente este editor y sus archivos asociados.
