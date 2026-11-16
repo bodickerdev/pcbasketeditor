@@ -11,7 +11,12 @@ otro sitio, a una distancia fija:
 
     ancla           = archivo 0x284   (D0 07, jornada en +2)
     ancla - 0xE704  = resultados (archivo 0x119E2)
-    ancla - 0xE3E8  = calendario (archivo 0x20)
+    ancla - 0xE3E8  = calendario y títulos (archivo 0x20-0x283)
+
+El cuadro de playoffs y el final de la Copa de Europa están en otra zona,
+unos 900 KB antes del ancla. El cuadro va justo detrás de la serie 01..31,
+así que se busca por esa firma; el final de la Copa de Europa está 0xAE0
+bytes después del cuadro y acaba en 0x28.
 
 Se localiza el ancla buscando la serie de bloques de equipo («Ordenador»
 cada 0x52C bytes). La posición cambia en cada arranque, así que se busca de
@@ -36,7 +41,10 @@ ANCHOR_MAGIC = b"\xd0\x07"
 SAVE_SIZE = logros.SCORES_OFS + logros.N_ROUNDS * logros.N_ACB
 MIN_CPU_TEAMS = 30
 MAX_REGION = 1 << 30
-RESCAN_SECONDS = 10     # sin liga cargada, no buscar en toda la memoria a cada momento
+RESCAN_SECONDS = 10
+PLAYOFFS_SIGNATURE = bytes(range(1, 0x32))
+PLAYOFFS_SEARCH = 0x200000      # se busca en ±2 MB alrededor del ancla
+EURO_FROM_PLAYOFFS = 0xAE0     # sin liga cargada, no buscar en toda la memoria a cada momento
 
 
 if sys.platform == "win32":
@@ -93,6 +101,7 @@ class MemoryReader:
         self.pid: Optional[int] = None
         self.handle = None
         self.anchor: Optional[int] = None
+        self.playoffs_addr: Optional[int] = None
         self._next_scan = 0.0
 
     # ---- proceso ---------------------------------------------------------
@@ -119,7 +128,7 @@ class MemoryReader:
     def close(self):
         if self.handle:
             _k.CloseHandle(self.handle)
-        self.pid = self.handle = self.anchor = None
+        self.pid = self.handle = self.anchor = self.playoffs_addr = None
 
     def _read(self, addr: int, size: int) -> Optional[bytes]:
         buf = ctypes.create_string_buffer(size)
@@ -172,6 +181,7 @@ class MemoryReader:
             if time.monotonic() < self._next_scan:
                 return None
             self.anchor = self._scan()
+            self.playoffs_addr = self._find_playoffs() if self.anchor else None
             if self.anchor is None:
                 self._next_scan = time.monotonic() + RESCAN_SECONDS
                 return None
@@ -187,7 +197,35 @@ class MemoryReader:
         if cal and scores and _plausible(cal, scores):
             d[logros.CALENDAR_OFS:MID_START] = cal
             d[logros.SCORES_OFS:] = scores
-        return logros.LeagueSave.parse(bytes(d), "memoria")
+        save = logros.LeagueSave.parse(bytes(d), "memoria")
+        save.playoffs, save.euro_champion = [], None
+        if self.playoffs_addr is not None:
+            raw = self._read(self.playoffs_addr, logros.PLAYOFFS_SIZE)
+            if raw:
+                save.playoffs = logros.parse_playoffs(raw)
+            save.euro_champion = logros.parse_euro_end(
+                self._read(self.playoffs_addr + EURO_FROM_PLAYOFFS, 4) or b"")
+        return save
+
+    def _find_playoffs(self) -> Optional[int]:
+        """Dirección del cuadro de playoffs (la serie 01..31 lo precede)."""
+        lo = max(self.anchor - PLAYOFFS_SEARCH, 0)
+        step = 0x10000
+        tail = b""
+        for base in range(lo, self.anchor + PLAYOFFS_SEARCH, step):
+            chunk = self._read(base, step)
+            if chunk is None:
+                tail = b""
+                continue
+            buf = tail + chunk
+            i = buf.find(PLAYOFFS_SIGNATURE)
+            if i != -1:
+                addr = base - len(tail) + i + len(PLAYOFFS_SIGNATURE)
+                end = self._read(addr + EURO_FROM_PLAYOFFS + 3, 1)
+                if end == bytes([logros.EURO_END_MARK]):
+                    return addr
+            tail = chunk[-len(PLAYOFFS_SIGNATURE):]
+        return None
 
 
 def _plausible(cal: bytes, scores: bytes) -> bool:

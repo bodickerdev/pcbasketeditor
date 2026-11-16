@@ -218,9 +218,12 @@ El juego escribe el archivo solo cuando el usuario pulsa «Guardar». Mide unos 
 | `0x0000` | u32 | Año de la temporada (2026) |
 | `0x000C` | texto | Nombre de la liga |
 | `0x0020` | 612 | Calendario: 34 jornadas × 9 partidos, como pares de equipos 0-17 |
+| `0x0280` | 4 | Títulos de la temporada anterior: `+1` campeón de liga, `+3` subcampeón (comprobado: Breogán campeón y Real Madrid subcampeón; `+0` y `+2`, sin identificar, quizá la Copa del Rey). Al empezar una liga valen `03 01 0C 00`, los de 1995-96 |
 | `0x0286` | u8 | Jornada que toca jugar: 1 al empezar, así que las jugadas son este valor menos 1 |
 | `0x051C` | 50 × `0x52C` | Un bloque por equipo, en el mismo orden que el DBC |
+| `0x11452` | 122 | Cuadro de playoffs (ver abajo) |
 | `0x119E2` | 612 | Resultados de la liga regular: 34 jornadas × 9 partidos × 2 bytes. Cada par es el tanteo del 1.º y del 2.º equipo, en el mismo orden que el calendario. 0-0 = sin jugar |
+| final − 4 | 4 | Copa de Europa: campeón, subcampeón, ?, `0x28`. `FF` = sin decidir. Antes van la Final Four (semis, 3.er puesto y final: 2 equipos + 2 × u16 cada una) y el resto de la competición, de longitud variable |
 
 Dentro de cada bloque de equipo:
 
@@ -229,7 +232,11 @@ Dentro de cada bloque de equipo:
 | `+0x0C` | Nombre del mánager. `" Ordenador "` indica un equipo de la CPU |
 | `+0x38` | 12 jugadores de `0x68` bytes cada uno. Si el primer byte es `0xFF`, la lista termina ahí |
 
-Cada jugador empieza así: `+0` índice del jugador en su equipo **original** del DBC, `+1` equipo original, `+2` dorsal. Con eso se ven los traspasos: un jugador cuyo equipo original no coincide con el bloque en el que está ha sido fichado. El resto del registro (estadísticas, contrato…) está sin decodificar.
+Cada jugador empieza así: `+0` índice del jugador en su equipo **original** del DBC, `+1` equipo original, `+2` dorsal. Con eso se ven los traspasos: un jugador cuyo equipo original no coincide con el bloque en el que está ha sido fichado.
+
+Estadísticas del jugador: tres bloques de 24 bytes, `+0x20` liga regular, `+0x38` playoffs y `+0x50` Europa. Cada uno tiene 10 × u16 (robos, TL anotados, T2 anotados, T3 anotados, TL intentados, T2 intentados, T3 intentados, rebotes, tapones, asistencias) y un u32 con el tiempo jugado en centésimas de segundo. Puntos = TL + 2·T2 + 3·T3. La suma por equipo da un 85 % de los puntos de los marcadores; el reparto entre jugadores sirve igual para los líderes. Al pasar de temporada se ponen a cero.
+
+Cuadro de playoffs (`0x11452`): 4 cuartos (2 equipos + 3 partidos, al mejor de 3), 2 semifinales y la final (2 equipos + 5 partidos, al mejor de 5). Cada partido son 2 × u16 con el tanteo de cada equipo; `FFFF` = sin jugar. El cuadro solo vale cuando ha terminado la liga regular: antes tiene restos, y al empezar la temporada siguiente se rellena con `00 07 03 04 01 06 02 05`. En ese momento el campeón queda en `0x0281` y el subcampeón en `0x0283`.
 
 Al empezar una liga, el juego carga como máximo **11 jugadores** por equipo: el 12.º del DBC no aparece en la liga.
 
@@ -244,7 +251,9 @@ Mientras se juega, la liga está en la memoria del juego con casi el mismo forma
 | En memoria | Equivale en el archivo | Contenido |
 |---|---|---|
 | ancla | `0x0284`-`0x1078C` | Bloque entero y en el mismo orden: `D0 07`, jornada y los 50 bloques de equipo |
-| ancla − `0xE3E8` | `0x0020` | Calendario |
+| ancla − `0xE3E8` | `0x0020`-`0x0283` | Calendario y títulos de la temporada anterior |
+| detrás de la serie `01`..`31` (≈ ancla − `0xDD116`) | `0x11452` | Cuadro de playoffs |
+| cuadro + `0xAE0` | final − 4 | Campeón y subcampeón de la Copa de Europa, `0x28` |
 | ancla − `0xE704` | `0x119E2` | Resultados |
 
 El ancla se localiza buscando la serie de bloques de equipo («Ordenador» cada `0x52C` bytes). Las direcciones absolutas cambian en cada arranque de RetroArch. El resultado de una jornada aparece en memoria cuando se termina de simular la jornada entera, no al acabar tu partido.
