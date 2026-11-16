@@ -19,6 +19,7 @@ sys.path.insert(0, os.path.join(HERE, '..'))
 sys.stdout.reconfigure(encoding='utf-8')
 from PIL import Image  # noqa: E402
 from dbc import Database, Player  # noqa: E402
+from formato100 import per100  # noqa: E402
 from dgf import DGF  # noqa: E402
 from caras import small_from_image, SMALL_PALETTE  # noqa: E402
 from europa import (ratings, latin1, wrap, title, upper_name, fmt, backup, country,  # noqa: E402
@@ -255,7 +256,7 @@ def main():
             weight=kg, birthplace=latin1(place),
             birthdate=f"{birth[8:10]}-{birth[5:7]}-{birth[2:4]}" if birth else '-',
             value=int(min(900, 300 + pir * 12)), prev_club='-', attrs=attrs,
-            team=upper_name(nba_team)[:30], current=stats30(cur), seasons=[]))
+            team=upper_name(nba_team)[:30], current=per100(stats30(cur), pos), seasons=[]))
         photo = os.path.join(DATA, 'img', at_['id'] + '.png')
         g = old.gfx[1]
         if os.path.exists(photo) and g > 1 and dg.header(g)[:3] == (24, 24, 4):

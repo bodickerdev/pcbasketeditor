@@ -23,6 +23,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(HERE, '..'))
 sys.stdout.reconfigure(encoding='utf-8')
 from dbc import Database  # noqa: E402
+from formato100 import is_per100  # noqa: E402
 from europa import SLOTS, typical_stats, position, upper_name, backup, GAME_DEFAULT  # noqa: E402
 
 TARGET_GAMES = 10
@@ -117,7 +118,7 @@ def nba_priors():
 def league_typical(db, teams, pos):
     """Medias de los suplentes (10-20 min) de esa posición en esos equipos del juego."""
     rows = [p.current for ti in teams for p in db.teams[ti].players
-            if p.position == pos and p.current[13] >= 3 and 10 <= p.current[12] / p.current[13] <= 20]
+            if p.position == pos and not is_per100(p.current) and p.current[13] >= 3 and 10 <= p.current[12] / p.current[13] <= 20]
     if not rows:
         return None
     pg = [per_game(r) for r in rows]
@@ -137,6 +138,8 @@ def main():
     n = 0
     for ti, t in enumerate(db.teams):
         for p in t.players:
+            if is_per100(p.current):   # equipos no ACB ya en formato «por 100»
+                continue
             why = problems(p.current)
             if not why:
                 continue

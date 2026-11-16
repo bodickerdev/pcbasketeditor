@@ -22,6 +22,7 @@ sys.path.insert(0, os.path.join(HERE, '..'))
 sys.stdout.reconfigure(encoding='utf-8')
 from PIL import Image  # noqa: E402
 from dbc import Database, Player  # noqa: E402
+from formato100 import per100  # noqa: E402
 from caras import Faces, small_from_image, SMALL_PALETTE, LOGO_BASE, BG_INDEX  # noqa: E402
 from dgf import DGF  # noqa: E402
 import equipaciones as eq  # noqa: E402
@@ -460,7 +461,7 @@ def main():
                 value=int(max(10, min(400, 20 + pir * 9 + (25 if comp == 'E' else 0)))),
                 prev_club=latin1(title(p.get('lastTeam') or '-'))[:30] or '-',
                 attrs=at, team=short,
-                current=stats30(s if s.get('gamesPlayed') else typical_stats(stats, comp, POS_OF, pos)),
+                current=per100(stats30(s if s.get('gamesPlayed') else typical_stats(stats, comp, POS_OF, pos)), pos),
                 seasons=[]))
             # cara pequeña de la pantalla previa al partido
             g = old.gfx[1]

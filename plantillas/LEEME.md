@@ -161,3 +161,9 @@ Al empezar una liga, el juego carga como máximo 11 jugadores por equipo. El 12.
 
 **Hay que ejecutarlo después de `valoraciones.py`**, porque depende de las valoraciones finales. `europa.py` ya lo aplica al crear los equipos europeos.
 Copias de antes del primer uso: `BASKET96.DBC.antes_orden12` y `CARAS.BIN.antes_orden12`.
+
+## Estadísticas de los equipos no ACB (formato «por 100»)
+
+El juego lee las estadísticas de los equipos europeos y del All-Star NBA en el formato de 1996: en T2, T3 y TL lo anotado es el porcentaje y los intentos son 100, hay 100 partidos y el resto de cifras es la media por partido ×100. Si se ponen totales reales, el simulador divide entre 100 igualmente: un 15 de 29 en T2 se convierte en un 15 %, y los equipos europeos meten 20-35 puntos.
+
+`europa.py` y `nba.py` ya escriben este formato. `python formato100.py` convierte los equipos 18-50 del DBC si hiciera falta; no hace nada con los jugadores ya convertidos. `completar_estadisticas.py` se salta a esos jugadores.
