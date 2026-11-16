@@ -58,7 +58,8 @@ TITLES_OFS = 0x280
 TITLES_DEFAULT = bytes([0x03, 0x01, 0x0C, 0x00])   # los de 1996: aún no hay campeón
 TITLE_CHAMPION, TITLE_RUNNER_UP = 1, 3   # confirmado: Breogán campeón, Madrid subcampeón
 LEAGUE_STATS_OFS = 0x20     # dentro del registro del jugador
-STAT_FT, STAT_2P, STAT_3P, STAT_REB = 1, 2, 3, 7
+STAT_FT, STAT_2P, STAT_3P, STAT_REB, STAT_BLK = 1, 2, 3, 7, 8
+LEAD_POINTS, LEAD_BLOCKS, LEAD_REBOUNDS = 0, 1, 2   # posiciones en SaveTeam.league_stats
 PLAYOFFS_OFS = 0x11452
 PLAYOFFS_SIZE = 4 * (2 + 3 * 4) + 3 * (2 + 5 * 4)
 NO_SCORE = 0xFFFF
@@ -76,7 +77,7 @@ class SaveTeam:
     index: int
     manager: str
     roster: List[tuple] = field(default_factory=list)   # (equipo original, índice)
-    league_stats: List[tuple] = field(default_factory=list)  # (puntos, rebotes), mismo orden
+    league_stats: List[tuple] = field(default_factory=list)  # (puntos, tapones, rebotes), mismo orden
 
     @property
     def human(self) -> bool:
@@ -181,7 +182,7 @@ class LeagueSave:
                 def stat(i, s=s):
                     return int.from_bytes(d[s + 2 * i:s + 2 * i + 2], "little")
                 pts = stat(STAT_FT) + 2 * stat(STAT_2P) + 3 * stat(STAT_3P)
-                st.league_stats.append((pts, stat(STAT_REB)))
+                st.league_stats.append((pts, stat(STAT_BLK), stat(STAT_REB)))
             teams.append(st)
         games = []
         playoffs: List[Series] = []
@@ -239,7 +240,7 @@ class LeagueSave:
 
     def league_leader(self, stat: int) -> Set[int]:
         """Equipos (0-17) que tienen al líder de la liga regular en esa
-        estadística (0 = puntos, 1 = rebotes); varios si hay empate."""
+        estadística (LEAD_POINTS, LEAD_BLOCKS o LEAD_REBOUNDS); varios si hay empate."""
         best, teams = 0, set()
         for t in self.teams[:N_ACB]:
             for line in t.league_stats:
@@ -316,9 +317,13 @@ ACHIEVEMENTS: List[Achievement] = [
     Achievement("europa", "A hombros de gigantes",
                 "Gana la Copa de Europa.", _euro_title),
     Achievement("max_anotador", "Jugón",
-                "Ten al máximo anotador de la liga al final de la temporada.", _leader(0)),
-    Achievement("max_reboteador", "Pincho de merluza",
-                "Ten al máximo reboteador de la liga al final de la temporada.", _leader(1)),
+                "Ten al máximo anotador de la liga al final de la temporada.", _leader(LEAD_POINTS)),
+    Achievement("max_taponador", "Pincho de merluza",
+                "Ten al jugador con más tapones de la liga al final de la temporada.",
+                _leader(LEAD_BLOCKS)),
+    Achievement("max_reboteador", "El techo de España",
+                "Ten al máximo reboteador de la liga ACB al final de la temporada.",
+                _leader(LEAD_REBOUNDS)),
     Achievement("liga_coruna", "Matagigantes",
                 "Gana la liga con Leyma Coruña.", lambda s: _league_title(s, CORUNA)),
     Achievement("europa_coruna", "Matagigantes Universal",
