@@ -117,6 +117,18 @@ Son textos libres que se ven en la base de datos del juego.
 
 Los calcetines y las zapatillas no se pueden cambiar. La vista previa es aproximada, así que comprueba el resultado en el juego.
 
+## Logros
+
+El botón **🏆 Logros** abre la lista de logros del modo mánager, con los superados (y su fecha) y los pendientes. Cuando consigues uno, sale un aviso arriba a la izquierda de la pantalla con el nombre del logro y la palabra **SUPERADO**.
+
+- **Cuándo se comprueban:** mientras el editor está abierto (puede estar minimizado). Si juegas con **RetroArch y DOSBox Pure**, el editor lee la liga en directo y los logros saltan al momento, sin guardar. Si no, se comprueban cada vez que pulsas «Grabar liga» en el juego.
+- **Solo cuenta lo que haces mientras juegas:** cargar una liga antigua no desbloquea nada por lo que ya se hizo en ella.
+- **Reiniciar logros** los borra todos y vuelve a empezar.
+- **Dónde se guarda el progreso:** en `LOGROS.JSON`, en la carpeta del juego.
+- Algunos logros aparecen como *aún en preparación*: todavía no se pueden detectar y llegarán en próximas versiones.
+
+**El aviso no se ve si RetroArch está a pantalla completa.** Con tarjetas NVIDIA y el controlador de vídeo `glcore`, Windows no dibuja otras ventanas encima del juego. Para solucionarlo, abre el *Panel de control de NVIDIA* › *Administrar la configuración 3D* › *Configuración de programa*, elige `retroarch.exe` y pon *Método de presentación de Vulkan/OpenGL* en *Preferir capas en la cadena de intercambio DXGI*. Otra opción es cambiar en RetroArch el controlador de vídeo a `d3d11` (*Ajustes › Controladores › Vídeo*).
+
 ## Reglas importantes
 
 - **Número de jugadores:** no se pueden añadir ni quitar jugadores de un equipo. Para fichar a alguien, sustituye a un jugador existente.

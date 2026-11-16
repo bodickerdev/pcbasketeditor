@@ -23,6 +23,7 @@ except ImportError as _e:  # sin Pillow: el editor funciona, pero sin retratos
     PIL_ERROR = str(_e)
 
 import equipaciones as eq  # noqa: E402
+from logros_ui import AchievementsWindow, AchievementTracker  # noqa: E402
 
 try:
     import parche
@@ -1262,6 +1263,8 @@ class App(tk.Tk):
         self.path: str | None = None
         self.dirty = False
         self.current = None     # (iid, objeto)
+        self.achievements_win = None
+        self.tracker = AchievementTracker(self, on_change=self._achievements_changed)
         self._setup_style()
         self._build()
         self.protocol("WM_DELETE_WINDOW", self.on_close)
@@ -1309,6 +1312,8 @@ class App(tk.Tk):
         ttk.Button(bar, text="↺  Restaurar copia de seguridad",
                    command=self.restore_backup).pack(side="left", padx=6)
         ttk.Button(bar, text="?  Ayuda", command=self.show_help).pack(side="right")
+        ttk.Button(bar, text="🏆  Logros",
+                   command=self.show_achievements).pack(side="right", padx=6)
         ttk.Separator(self).pack(fill="x")
 
         # Aviso legal (abajo del todo). Se empaqueta antes que el panel central
@@ -1573,6 +1578,7 @@ class App(tk.Tk):
             messagebox.showerror(APP_TITLE, "El archivo no parece una base de datos de PC Basket 4.5.")
             return
         self.db, self.path, self.dirty, self.current = db, path, False, None
+        self.tracker.set_game_dir(os.path.dirname(os.path.abspath(path)))
         self._load_faces(path)
         self._load_dgf(path)
         self.small_opened = {}
@@ -1725,6 +1731,17 @@ class App(tk.Tk):
                                 "NUEVA en el juego para ver los equipos actualizados.")
         self.dirty = False
         self.open(parche.find_file(game, "BASKET96.DBC"))
+
+    def show_achievements(self):
+        if self.achievements_win and self.achievements_win.winfo_exists():
+            self.achievements_win.refresh()
+            self.achievements_win.lift()
+            return
+        self.achievements_win = AchievementsWindow(self, self.tracker, APP_TITLE)
+
+    def _achievements_changed(self):
+        if self.achievements_win and self.achievements_win.winfo_exists():
+            self.achievements_win.refresh()
 
     def on_close(self):
         if self.confirm_discard():

@@ -23,6 +23,12 @@ El juego espera exactamente el mismo número de jugadores por equipo que tenía 
 ### ¿Por qué falta un jugador en la plantilla de un equipo europeo?
 Por la misma razón: algunos equipos tenían 9 o 10 jugadores en 1996, así que de la plantilla actual entran solo los más importantes.
 
+### ¿Por qué un equipo de 12 jugadores empieza la liga con 11?
+El modo mánager empieza la liga con 11 jugadores por equipo para dejar un hueco libre para fichar; también lo hacía con los datos de 1996. El que se queda fuera es el 12.º de la plantilla, así que la actualización coloca ahí al suplente más flojo.
+
+### El aviso de los logros no sale encima del juego
+Pasa con RetroArch a pantalla completa en tarjetas NVIDIA. La solución está en la [guía del editor](guia-del-editor.md#logros).
+
 ### Un nombre sale sin tildes o con letras raras
 El juego solo admite el alfabeto latino básico (Latin-1). Los nombres con *ć*, *š* y letras parecidas se escriben sin el signo. El marcador tampoco muestra bien las tildes, así que allí se usan mayúsculas sin ellas.
 

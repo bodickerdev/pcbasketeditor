@@ -208,3 +208,43 @@ El editor recolorea a partir de las imágenes de `BASKET96.DGF.BAK`:
 Cada jugador ACB tiene una cara de 24×24 en 16 colores, a la que apunta su 2.º puntero gráfico. Es distinta del retrato de `CARAS.BIN`.
 En esa pantalla, los colores 1 y 2 son tonos de piel: (252,208,156) y (212,120,96). El resto de colores son la paleta fija. Las caras originales usan solo los colores 0, 1, 2, 3, 4, 8, 11 y 12-15. Una cara toda negra significa que el jugador no tiene foto.
 Al guardar, el editor convierte a estas caras los retratos de `CARAS.BIN` que ya no son los de 1996 (`caras.sync_small_faces`).
+
+## Partidas guardadas del mánager (SAVE*/LIGAS*.DAT)
+
+El juego escribe el archivo solo cuando el usuario pulsa «Guardar». Mide unos 74 KB. Lo que se conoce hasta ahora:
+
+| Offset | Tamaño | Contenido |
+|---|---|---|
+| `0x0000` | u32 | Año de la temporada (2026) |
+| `0x000C` | texto | Nombre de la liga |
+| `0x0020` | 612 | Calendario: 34 jornadas × 9 partidos, como pares de equipos 0-17 |
+| `0x0286` | u8 | Jornada que toca jugar: 1 al empezar, así que las jugadas son este valor menos 1 |
+| `0x051C` | 50 × `0x52C` | Un bloque por equipo, en el mismo orden que el DBC |
+| `0x119E2` | 612 | Resultados de la liga regular: 34 jornadas × 9 partidos × 2 bytes. Cada par es el tanteo del 1.º y del 2.º equipo, en el mismo orden que el calendario. 0-0 = sin jugar |
+
+Dentro de cada bloque de equipo:
+
+| Offset | Contenido |
+|---|---|
+| `+0x0C` | Nombre del mánager. `" Ordenador "` indica un equipo de la CPU |
+| `+0x38` | 12 jugadores de `0x68` bytes cada uno. Si el primer byte es `0xFF`, la lista termina ahí |
+
+Cada jugador empieza así: `+0` índice del jugador en su equipo **original** del DBC, `+1` equipo original, `+2` dorsal. Con eso se ven los traspasos: un jugador cuyo equipo original no coincide con el bloque en el que está ha sido fichado. El resto del registro (estadísticas, contrato…) está sin decodificar.
+
+Al empezar una liga, el juego carga como máximo **11 jugadores** por equipo: el 12.º del DBC no aparece en la liga.
+
+Con el calendario y los resultados se calcula el balance de cada equipo. Se ha comprobado con 9 partidas: no hay empates ni jornadas a medias.
+
+Los logros (`logros.py`) usan este formato. El progreso se guarda en `LOGROS.JSON`, en la carpeta del juego.
+
+### La liga en memoria (RetroArch + DOSBox Pure)
+
+Mientras se juega, la liga está en la memoria del juego con casi el mismo formato que el archivo, así que los logros saltan sin guardar (`logros_mem.py`, solo lectura). Las posiciones son relativas al «ancla», que corresponde al offset `0x284` del archivo:
+
+| En memoria | Equivale en el archivo | Contenido |
+|---|---|---|
+| ancla | `0x0284`-`0x1078C` | Bloque entero y en el mismo orden: `D0 07`, jornada y los 50 bloques de equipo |
+| ancla − `0xE3E8` | `0x0020` | Calendario |
+| ancla − `0xE704` | `0x119E2` | Resultados |
+
+El ancla se localiza buscando la serie de bloques de equipo («Ordenador» cada `0x52C` bytes). Las direcciones absolutas cambian en cada arranque de RetroArch. El resultado de una jornada aparece en memoria cuando se termina de simular la jornada entera, no al acabar tu partido.
