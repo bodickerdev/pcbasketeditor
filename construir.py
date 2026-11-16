@@ -27,8 +27,9 @@ INSTALAR
 1. Descomprime este zip donde quieras.
 2. Abre EditorPCBasket.exe.
    (Si Windows avisa de "aplicación desconocida": "Más información" > "Ejecutar de todas formas".)
-3. Pulsa "Instalar actualización 2026-27" y elige la carpeta de tu PC Basket 4.5
-   (la que tiene BASKET45.EXE).
+3. El editor te ofrece instalar la actualización: di que sí y elige la carpeta de
+   tu PC Basket 4.5 (la que tiene BASKET45.EXE). También puedes usar el botón
+   "Instalar actualización 2026-27", arriba a la izquierda.
 4. Empieza una liga NUEVA en el juego.
 
 Antes de cambiar nada se guarda una copia de cada archivo original (.BAK).

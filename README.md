@@ -15,7 +15,7 @@ Editor de equipos y jugadores para **PC Basket 4.5** (Dinamic, 1996), con una ac
 
 1. Ve a [**Releases**](https://github.com/bodickerdev/pcbasketeditor/releases/latest) y descarga `EditorPCBasket_2026-27.zip`.
 2. Descomprímelo donde quieras y abre `EditorPCBasket.exe`.
-3. Pulsa **⬇ Instalar actualización 2026-27** y elige la carpeta del juego, la que contiene `BASKET45.EXE`.
+3. El editor te ofrece instalar la actualización (o pulsa **⬇ Instalar actualización 2026-27**). Acepta y elige la carpeta del juego, la que contiene `BASKET45.EXE`.
 4. En el juego, empieza una **liga nueva**.
 
 Los originales se guardan como `.BAK` y el botón **Restaurar copia de seguridad** deja el juego como estaba. Los detalles y la solución de problemas están en la [guía de instalación](docs/instalacion.md).

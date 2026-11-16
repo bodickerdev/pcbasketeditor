@@ -1269,6 +1269,10 @@ class App(tk.Tk):
         self.bind_all("<Control-f>", lambda _: self.search_entry.focus_set())
         if path and os.path.exists(path):
             self.open(path)
+            if parche and parche.default_patch():
+                self.after(300, lambda: self.offer_patch(os.path.dirname(path)))
+        elif parche and parche.default_patch():
+            self.after(300, self.offer_patch)
         else:
             self.after(100, self.ask_open)
 
@@ -1288,6 +1292,7 @@ class App(tk.Tk):
         st.configure("Error.TSpinbox", fieldbackground="#ffd6d6", foreground="#a00000")
         st.configure("Treeview", rowheight=24)
         st.configure("Status.TLabel", padding=(8, 3))
+        st.configure("Accent.TButton", font=("Segoe UI Semibold", 10))
         st.configure("Disclaimer.TLabel", padding=(12, 4), foreground="#6b6b6b",
                      font=("Segoe UI", 8))
 
@@ -1295,15 +1300,15 @@ class App(tk.Tk):
         # Barra superior
         bar = ttk.Frame(self, padding=(8, 6))
         bar.pack(fill="x")
+        if parche and parche.default_patch():
+            ttk.Button(bar, text="⬇  Instalar actualización 2026-27", style="Accent.TButton",
+                       command=self.install_patch).pack(side="left", padx=(0, 10))
         ttk.Button(bar, text="📂  Abrir…", command=self.ask_open).pack(side="left")
         ttk.Button(bar, text="💾  Guardar  (Ctrl+S)", command=self.save).pack(side="left", padx=6)
         ttk.Button(bar, text="Guardar como…", command=self.save_as).pack(side="left")
         ttk.Button(bar, text="↺  Restaurar copia de seguridad",
                    command=self.restore_backup).pack(side="left", padx=6)
         ttk.Button(bar, text="?  Ayuda", command=self.show_help).pack(side="right")
-        if parche and parche.default_patch():
-            ttk.Button(bar, text="⬇  Instalar actualización 2026-27",
-                       command=self.install_patch).pack(side="right", padx=6)
         ttk.Separator(self).pack(fill="x")
 
         # Aviso legal (abajo del todo). Se empaqueta antes que el panel central
@@ -1647,19 +1652,43 @@ class App(tk.Tk):
         self.open(self.path)
         messagebox.showinfo(APP_TITLE, "Base de datos original restaurada.")
 
-    def install_patch(self):
+    def offer_patch(self, game: str | None = None):
+        """Al arrancar: si el juego aún no tiene la actualización, ofrece instalarla."""
+        patch = parche.default_patch()
+        if game is None:  # el .exe no está junto al juego: preguntar dónde está
+            if messagebox.askyesno(APP_TITLE, (
+                    "Este editor incluye la actualización de la temporada 2026-27.\n\n"
+                    "¿Quieres instalarla ahora? A continuación elige la carpeta de "
+                    "PC Basket 4.5 (la que contiene BASKET45.EXE).")):
+                self.install_patch()
+            elif not self.path:
+                self.ask_open()
+            return
+        try:
+            sts = parche.status(game, patch)
+        except Exception:  # noqa: BLE001
+            return
+        if any(st in (parche.MISSING, parche.UNKNOWN) for _, st in sts):
+            return  # no es una copia original: que el usuario use el botón si quiere
+        if all(st == parche.APPLIED for _, st in sts):
+            return
+        self.install_patch(game, sts)
+
+    def install_patch(self, game: str | None = None, sts=None):
         patch = parche.default_patch()
         if not self.confirm_discard():
             return
-        start = os.path.dirname(self.path) if self.path else os.path.join(HERE, "..")
-        game = filedialog.askdirectory(
-            title="Elige la carpeta de PC Basket 4.5 (donde está BASKET45.EXE)",
-            initialdir=start, mustexist=True)
-        if not game:
-            return
+        if game is None:
+            start = os.path.dirname(self.path) if self.path else os.path.join(HERE, "..")
+            game = filedialog.askdirectory(
+                title="Elige la carpeta de PC Basket 4.5 (donde está BASKET45.EXE)",
+                initialdir=start, mustexist=True)
+            if not game:
+                return
+            sts = None
         game = os.path.normpath(game)
         try:
-            sts = parche.status(game, patch)
+            sts = sts or parche.status(game, patch)
         except Exception as e:  # noqa: BLE001
             messagebox.showerror(APP_TITLE, f"No se puede leer el parche:\n{e}")
             return
@@ -1675,7 +1704,8 @@ class App(tk.Tk):
             messagebox.showinfo(APP_TITLE, "Este juego ya tiene la actualización instalada.")
         else:
             touched = [e["name"] for e, st in sts if st == parche.FROM_BAK]
-            msg = ("Se instalarán las plantillas de la temporada 2026-27 (Liga Endesa, "
+            msg = ("El juego aún no tiene la actualización.\n\n"
+                   "Se instalarán las plantillas de la temporada 2026-27 (Liga Endesa, "
                    "Euroliga, EuroCup y All-Star) en:\n\n" + game +
                    "\n\nAntes se guarda una copia de cada archivo original (.BAK), y "
                    "«Restaurar copia de seguridad» la recupera.")

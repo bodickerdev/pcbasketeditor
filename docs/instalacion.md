@@ -13,7 +13,7 @@
 1. Entra en [Releases](https://github.com/bodickerdev/pcbasketeditor/releases/latest) y descarga `EditorPCBasket_2026-27.zip`.
 2. Descomprímelo en cualquier carpeta. Puede ser la del juego u otra distinta.
 3. Abre `EditorPCBasket.exe`.
-4. Pulsa **⬇ Instalar actualización 2026-27**, arriba a la derecha.
+4. El editor detecta que el juego no está actualizado y te ofrece instalar la actualización: acepta. Si no te lo ofrece, pulsa **⬇ Instalar actualización 2026-27**, el primer botón arriba a la izquierda.
 5. Elige la carpeta del juego, la que contiene `BASKET45.EXE` y `BASKET96.DBC`.
 6. Confirma. En unos segundos verás «Actualización instalada», y el editor abrirá la base de datos ya actualizada.
 7. Abre el juego y empieza una **liga nueva**. Las partidas guardadas antes de la actualización conservan los equipos antiguos.
