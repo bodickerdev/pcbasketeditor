@@ -1704,8 +1704,10 @@ class App(tk.Tk):
             messagebox.showinfo(APP_TITLE, "Este juego ya tiene la actualización instalada.")
         else:
             touched = [e["name"] for e, st in sts if st == parche.FROM_BAK]
-            msg = ("El juego aún no tiene la actualización.\n\n"
-                   "Se instalarán las plantillas de la temporada 2026-27 (Liga Endesa, "
+            older = any(st == parche.OLDER for _, st in sts)
+            msg = ("Hay una versión nueva de la actualización.\n\n" if older else
+                   "El juego aún no tiene la actualización.\n\n")
+            msg += ("Se instalarán las plantillas de la temporada 2026-27 (Liga Endesa, "
                    "Euroliga, EuroCup y All-Star) en:\n\n" + game +
                    "\n\nAntes se guarda una copia de cada archivo original (.BAK), y "
                    "«Restaurar copia de seguridad» la recupera.")

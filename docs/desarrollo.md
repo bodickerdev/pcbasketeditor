@@ -33,7 +33,7 @@ Sin argumentos, el editor busca `BASKET96.DBC` en su propia carpeta y en la carp
 
 Es un ZIP con estos archivos:
 
-- `manifest.json`: título, fecha y, para cada archivo, el SHA-256 y el tamaño del original y del resultado.
+- `manifest.json`: título, fecha y, para cada archivo, el SHA-256 y el tamaño del original y del resultado. También guarda los SHA-256 de las versiones anteriores de la actualización (`prev_sha256`). `crear` los toma del parche al que sustituye, así que se acumulan solos.
 - `<ARCHIVO>.bsdiff`: la diferencia binaria, calculada con [bsdiff4](https://pypi.org/project/bsdiff4/), entre el original de 1996 y el archivo actualizado.
 
 ```
@@ -48,6 +48,7 @@ Para crear el parche, los `.BAK` de la carpeta del juego tienen que ser los **or
 |---|---|
 | `original` | Listo para aplicar el parche |
 | `aplicado` | Ya está actualizado |
+| `anterior` | Tiene una versión anterior de la actualización: se actualiza desde el `.BAK` |
 | `modificado` | Se cambió a mano, pero el `.BAK` es el original |
 | `desconocido` | Es de otra versión del juego |
 | `falta` | No está en la carpeta |

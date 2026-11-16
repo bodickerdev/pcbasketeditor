@@ -21,7 +21,7 @@ D = {
 }
 # Titulares por partidos de inicio en la Liga 2026-27
 ORDER = ['Perry', 'Hunt', 'Brazdeikis', 'Noua', 'Kravish',
-         'Pantzar', 'Kalinoski', 'Hernangómez', 'Pérez', 'Knox', 'Barreiro', 'Díaz']
+         'Pantzar', 'Kalinoski', 'Hernangómez', 'Pérez', 'Barreiro', 'Díaz', 'Knox']
 SURNAME = {'Pérez': 'Pérez, T.', 'Díaz': 'Díaz, A.'}
 
 TEAM = dict(

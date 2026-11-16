@@ -25,6 +25,7 @@ from dbc import Database, Player  # noqa: E402
 from caras import Faces, small_from_image, SMALL_PALETTE, LOGO_BASE, BG_INDEX  # noqa: E402
 from dgf import DGF  # noqa: E402
 import equipaciones as eq  # noqa: E402
+from orden12 import weakest_last  # noqa: E402
 
 DATA = os.path.join(HERE, 'datos', 'europa')
 GAME_DEFAULT = os.path.normpath(os.path.join(HERE, '..', '..')) + os.sep
@@ -468,6 +469,7 @@ def main():
                 dg.encode(g, px)
                 dg.d[g + 2:g + 50] = bytes(v for rgb in SMALL_PALETTE for v in rgb)
 
+        weakest_last(new)   # el 12.º se queda fuera de la liga del mánager
         team.players = new
         name = latin1(club['name'])
         arena = ''

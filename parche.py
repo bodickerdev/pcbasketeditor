@@ -30,6 +30,7 @@ FORMAT = 1
 ORIGINAL = "original"          # listo para parchear
 APPLIED = "aplicado"           # ya actualizado
 FROM_BAK = "modificado"        # cambiado a mano, pero el .BAK es el original
+OLDER = "anterior"             # tiene una versión anterior de esta misma actualización
 MISSING = "falta"
 UNKNOWN = "desconocido"        # otra versión del juego
 
@@ -67,7 +68,21 @@ def default_patch() -> str | None:
 
 
 # --------------------------------------------------------------------------
-def create(game: str, out: str, title: str = "Temporada 2026-27") -> dict:
+def _previous_versions(patch: str) -> dict:
+    """Huellas de las versiones anteriores de la actualización, sacadas del parche
+    que se va a sustituir, para reconocerlas al instalar la nueva."""
+    try:
+        m = read_manifest(patch)
+    except (OSError, KeyError, ValueError, zipfile.BadZipFile):
+        return {}
+    return {e["name"]: set(e.get("prev_sha256", [])) | {e["new_sha256"]} for e in m["files"]}
+
+
+def create(game: str, out: str, title: str = "Temporada 2026-27",
+           extra_prev: dict | None = None) -> dict:
+    prev = _previous_versions(out) if os.path.exists(out) else {}
+    for name, hashes in (extra_prev or {}).items():
+        prev.setdefault(name, set()).update(hashes)
     manifest = {"format": FORMAT, "title": title,
                 "created": datetime.date.today().isoformat(), "files": []}
     with zipfile.ZipFile(out, "w", zipfile.ZIP_DEFLATED) as z:
@@ -82,7 +97,9 @@ def create(game: str, out: str, title: str = "Temporada 2026-27") -> dict:
             manifest["files"].append({
                 "name": name,
                 "orig_sha256": hashlib.sha256(old).hexdigest(), "orig_size": len(old),
-                "new_sha256": hashlib.sha256(new).hexdigest(), "new_size": len(new)})
+                "new_sha256": hashlib.sha256(new).hexdigest(), "new_size": len(new),
+                "prev_sha256": sorted(prev.get(name, set())
+                                      - {hashlib.sha256(new).hexdigest()})})
         z.writestr("manifest.json", json.dumps(manifest, indent=2, ensure_ascii=False))
     return manifest
 
@@ -109,7 +126,12 @@ def status(game: str, patch: str) -> list[tuple[dict, str]]:
             st = ORIGINAL
         else:
             bak = find_file(game, e["name"] + ".BAK")
-            st = FROM_BAK if bak and sha256(bak) == e["orig_sha256"] else UNKNOWN
+            if not (bak and sha256(bak) == e["orig_sha256"]):
+                st = UNKNOWN
+            elif h in e.get("prev_sha256", []):
+                st = OLDER
+            else:
+                st = FROM_BAK
         out.append((e, st))
     return out
 

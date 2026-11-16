@@ -21,7 +21,7 @@ D = {
 }
 # Quinteto titular según partidos de titular en la Liga 2026-27
 ORDER = ['Robinson', 'Punter', 'Martin', 'Parra', 'Balcerowski',
-         'Brizuela', 'Nkamhoua', 'Nebo', 'Gibson', 'Evbuomwan', 'Umude', 'Núñez']
+         'Brizuela', 'Nkamhoua', 'Nebo', 'Gibson', 'Umude', 'Núñez', 'Evbuomwan']
 SURNAME = {}
 
 TEAM = dict(

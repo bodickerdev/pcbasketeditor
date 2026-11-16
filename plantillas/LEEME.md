@@ -38,6 +38,7 @@ Revisa el resumen que muestra y ajusta la configuración: si hay jugadores nuevo
 - **Mismo número de jugadores.** Cada equipo debe tener los mismos jugadores que tenía en 1996 (entre 9 y 12). Si cambia, se desplazan los jugadores de todos los equipos siguientes del archivo.
 - **Nombre del marcador (`SCOREBOARD`).** Tiene que tener exactamente 12 caracteres y conviene no usar tildes ni Ñ.
 - **Letras admitidas.** Solo letras del alfabeto latino básico (Latin-1). `descargar.py` convierte las demás: ć pasa a c, š a s.
+- **El 12.º no juega la liga.** El modo mánager empieza la liga con 11 jugadores por equipo y deja fuera al 12.º de la lista (orden 12); ese hueco queda libre para fichar. En `ORDER`, el último debe ser el suplente más flojo. `orden12.py` lo comprueba en todos los equipos.
 - **Extranjeros.** `equipo.py` marca como extranjeros a los de licencia EXT (extracomunitarios). Conviene que no haya más de 2 por equipo.
 
 ## Ajustes de los retratos
@@ -152,3 +153,11 @@ Los 24 equipos de la Euroliga del mánager no salen de la clasificación: están
 Con `--solo-listar` muestra los grupos sin tocar nada. El original está en `BASKET4.DAT.BAK`. Solo vale para **ligas nuevas**, porque cada partida guarda su propia copia de la lista.
 
 `clasificacion.py` pone en el palmarés la posición de cada equipo en la ACB 2025-26, pero el juego **no** la usa para la Euroliga.
+
+# Jugador 12 (fuera de la liga del mánager)
+
+Al empezar una liga, el juego carga como máximo 11 jugadores por equipo. El 12.º de la lista, que también tiene el orden 12, se queda fuera. Lo hacía igual con los datos de 1996.
+`python orden12.py` pone en ese hueco al suplente con la valoración media más baja y renumera el banquillo (6-12). En los equipos ACB mueve también los retratos de `CARAS.BIN`. Con `--prueba` solo muestra los cambios.
+
+**Hay que ejecutarlo después de `valoraciones.py`**, porque depende de las valoraciones finales. `europa.py` ya lo aplica al crear los equipos europeos.
+Copias de antes del primer uso: `BASKET96.DBC.antes_orden12` y `CARAS.BIN.antes_orden12`.
