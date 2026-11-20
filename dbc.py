@@ -17,6 +17,7 @@ Uso:
 from __future__ import annotations
 
 import struct
+import unicodedata
 from dataclasses import dataclass, field
 from typing import List, Optional, Tuple
 
@@ -26,6 +27,28 @@ TEXT_ENC = "cp437"     # biografías e historias (texto DOS: ó=0xA2, ñ=0xA4, �
 SEASON_END = 0xF0      # marca fin de la lista de temporadas de un jugador
 
 POSITIONS = ["base", "escolta", "alero", "ala-pivot", "pivot"]
+
+# Letras de los nombres. El juego se cuelga al mostrar la ficha con foto de un
+# jugador cuyo nombre lleva una letra que no está en su tipo de letra (pasó con
+# «Reyes, Á.» al anotar o hacer falta). Solo se dejan las que usan los datos de
+# 1996: letras sin tilde, á é í ó ú, ñ Ñ, ç Ç y estos signos. Lo demás se
+# convierte a la letra sin tilde (Á -> A, ü -> u, š -> s...) o se quita.
+SAFE_NAME_CHARS = frozenset(
+    " \"',-.ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyzáéíóúñÑçÇ")
+_NAME_SPECIAL = {"ß": "ss", "æ": "ae", "Æ": "AE", "œ": "oe", "Œ": "OE", "ø": "o", "Ø": "O",
+                 "đ": "d", "Đ": "D", "ł": "l", "Ł": "L", "ı": "i", "þ": "th", "ð": "d",
+                 "’": "'", "‘": "'", "´": "'", "`": "'", "–": "-", "—": "-"}
+
+
+def game_safe_name(s: str) -> str:
+    """Nombre solo con letras que el juego sabe mostrar en el partido."""
+    out = []
+    for ch in s:
+        if ch not in SAFE_NAME_CHARS:
+            ch = _NAME_SPECIAL.get(ch) or "".join(
+                c for c in unicodedata.normalize("NFD", ch) if c in SAFE_NAME_CHARS)
+        out.append(ch)
+    return "".join(out)
 
 # Orden de las 15 estadísticas de cada temporada (x2: liga regular + play-off)
 STAT_NAMES = [
@@ -199,7 +222,8 @@ class Player:
                    value, prev, attrs, team, cur, seasons)
 
     def write(self, w: Writer):
-        w.pstr(self.full_name); w.pstr(self.short_name); w.pstr(self.surname)
+        for name in (self.full_name, self.short_name, self.surname):
+            w.pstr(game_safe_name(name))
         for g in self.gfx:
             w.u32(g)
         w.lines(self.bio)
@@ -234,7 +258,7 @@ class Coach:
         return cls(r.pstr(), r.pstr(), [r.u32(), r.u32()], r.lines())
 
     def write(self, w: Writer):
-        w.pstr(self.full_name); w.pstr(self.short_name)
+        w.pstr(game_safe_name(self.full_name)); w.pstr(game_safe_name(self.short_name))
         for g in self.gfx:
             w.u32(g)
         w.lines(self.bio)

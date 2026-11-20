@@ -12,7 +12,7 @@ import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from dbc import Database, Player, Team  # noqa: E402
+from dbc import Database, Player, Team, game_safe_name  # noqa: E402
 
 try:
     from PIL import Image, ImageTk
@@ -87,23 +87,34 @@ class Form:
         lbl.grid(row=self.row, column=2, sticky="w", **PAD)
         return lbl
 
-    def text(self, label, attr, width=40, hint="", maxlen=255, on_change=None):
+    def text(self, label, attr, width=40, hint="", maxlen=255, on_change=None,
+             game_name=False):
+        """game_name: nombre de jugador o entrenador. Avisa de las letras que el
+        juego no sabe mostrar (dbc.game_safe_name las cambia al guardar)."""
         self._label(label)
         var = tk.StringVar()
         ent = ttk.Entry(self.parent, textvariable=var, width=width)
         ent.grid(row=self.row, column=1, sticky="we", **PAD)
-        hint_lbl = self._hint(hint) if hint else None
+        hint_lbl = self._hint(hint) if (hint or game_name) else None
+
+        def update_hint(*_):
+            # también al cargar otro jugador, para que no se quede el aviso del anterior
+            if not hint_lbl:
+                return
+            v = var.get()
+            safe = game_safe_name(v) if game_name else v
+            hint_lbl.configure(
+                text=f"El juego no tiene esa letra: se guardará «{safe}»" if safe != v else hint,
+                style="Warn.TLabel" if (len(v) > maxlen or safe != v) else "Hint.TLabel")
+
+        var.trace_add("write", update_hint)
 
         def setter(v):
             try:
                 v.encode("latin-1")
             except UnicodeEncodeError:
-                raise ValueError
-            if len(v) > maxlen:
-                if hint_lbl:
-                    hint_lbl.configure(style="Warn.TLabel")
-            elif hint_lbl:
-                hint_lbl.configure(style="Hint.TLabel")
+                if not game_name:
+                    raise ValueError
             setattr(self.obj, attr, v)
             if on_change:
                 on_change(v)
@@ -635,11 +646,11 @@ class PlayerEditor(ttk.Frame):
         f = Form(app, t1); self.forms.append(f)
         f.section("Nombres")
         f.text("Nombre completo", "full_name", hint="Ficha de la base de datos",
-               on_change=lambda _: self._refresh_title())
+               on_change=lambda _: self._refresh_title(), game_name=True)
         f.text("Nombre corto", "short_name", hint="Listas y plantilla",
-               on_change=lambda _: self._refresh_title())
+               on_change=lambda _: self._refresh_title(), game_name=True)
         f.text("Nombre en listados", "surname", width=20, maxlen=15,
-               hint="Máx. 15 caracteres (se ve en el partido)")
+               hint="Máx. 15 caracteres (se ve en el partido)", game_name=True)
         f.section("Equipo")
         f.number("Dorsal", "dorsal", 0, 99)
         f.choice("Posición", "position", list(enumerate(POS_LABELS)))
@@ -897,8 +908,8 @@ class TeamEditor(ttk.Frame):
         self.coach_form = Form(app, inner)
         self.coach_form.row = f.row
         self.coach_form.section("Entrenador")
-        self.coach_form.text("Nombre completo", "full_name")
-        self.coach_form.text("Nombre corto", "short_name")
+        self.coach_form.text("Nombre completo", "full_name", game_name=True)
+        self.coach_form.text("Nombre corto", "short_name", game_name=True)
 
         t2 = ttk.Frame(nb)
         nb.add(t2, text="  Historia  ")
@@ -1674,8 +1685,10 @@ class App(tk.Tk):
             sts = parche.status(game, patch)
         except Exception:  # noqa: BLE001
             return
-        if any(st in (parche.MISSING, parche.UNKNOWN) for _, st in sts):
-            return  # no es una copia original: que el usuario use el botón si quiere
+        if any(st in (parche.MISSING, parche.UNKNOWN, parche.FROM_BAK) for _, st in sts):
+            # no es una copia original, o tiene cambios hechos a mano que instalar
+            # borraría: que el usuario use el botón si quiere
+            return
         if all(st == parche.APPLIED for _, st in sts):
             return
         self.install_patch(game, sts)
