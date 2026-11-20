@@ -5,16 +5,21 @@ from __future__ import annotations
 
 import datetime
 import sys
+import time
 import tkinter as tk
 from tkinter import messagebox, ttk
 
 import logros
 import logros_mem
+import retroarch_cmd
 
 TOAST_MS = 5000          # tiempo en pantalla de cada aviso
 TOPMOST_REFRESH_MS = 250 # el juego a pantalla completa puede taparlo: se vuelve a subir
 TOAST_MARGIN = 16        # separación de la esquina superior izquierda
 POLL_MS = 2000           # cada cuánto se revisan las partidas guardadas
+RA_CHECK_MS = 60000      # cada cuánto se mira si hay que preparar retroarch.cfg
+RA_EXE_KEY = "retroarch_exe"          # en LOGROS.JSON
+RA_ASKED_KEY = "retroarch_avisos"     # "si" / "no": respuesta a activar los avisos
 
 BG = "#1b1f27"
 FG = "#ffffff"
@@ -153,6 +158,7 @@ class AchievementTracker:
         self.live = False           # True si se está leyendo la liga en directo
         self.on_change = on_change
         self._job = None
+        self._next_ra_check = 0.0
 
     def set_game_dir(self, game_dir: str | None):
         if self.watcher and game_dir and self.watcher.game_dir == game_dir:
@@ -180,12 +186,75 @@ class AchievementTracker:
             league = None
         was_live, self.live = self.live, league is not None
         new += [i for i in self.watcher.poll_live(league) if i not in new]
+        try:
+            match = self.memory.read_match()
+        except Exception:  # noqa: BLE001
+            match = None
+        new += [i for i in self.watcher.poll_match(match, league) if i not in new]
         if was_live != self.live and self.on_change:
             self.on_change()
+        self._check_retroarch()
         for i in new:
             self.toasts.push(logros.BY_ID[i].name)
+            self._show_in_retroarch(logros.BY_ID[i].name)
         if new and self.on_change:
             self.on_change()
+
+    # ---- avisos dentro de RetroArch ------------------------------------------
+    def _retroarch_cfg(self) -> str | None:
+        extra = self.watcher.progress.extra
+        return retroarch_cmd.find_config(extra.get(RA_EXE_KEY))
+
+    def _show_in_retroarch(self, name: str):
+        """El aviso del editor puede quedar tapado por RetroArch a pantalla
+        completa; RetroArch lo pinta encima del juego (SHOW_MSG)."""
+        try:
+            if self.memory.running():
+                port = retroarch_cmd.command_port(self._retroarch_cfg())
+                if port:
+                    retroarch_cmd.show_message(port, f"Logro superado: {name}")
+        except Exception:  # noqa: BLE001 - es un extra
+            pass
+
+    def _check_retroarch(self):
+        """Recuerda dónde está RetroArch y, con RetroArch cerrado, ofrece una vez
+        activar su interfaz de comandos para que los logros se vean en el juego."""
+        now = time.monotonic()
+        if now < self._next_ra_check:
+            return
+        self._next_ra_check = now + RA_CHECK_MS / 1000
+        extra = self.watcher.progress.extra
+        try:
+            if self.memory.running():
+                exe = self.memory.exe_path()
+                if exe and extra.get(RA_EXE_KEY) != exe:
+                    extra[RA_EXE_KEY] = exe
+                    self.watcher.progress.save()
+                return
+            if extra.get(RA_ASKED_KEY) == "no" or RA_EXE_KEY not in extra:
+                return
+            cfg = self._retroarch_cfg()
+            port = retroarch_cmd.needed_change(cfg) if cfg else None
+        except Exception:  # noqa: BLE001
+            return
+        if port is None:
+            return
+        ok = messagebox.askyesno("Logros en RetroArch", (
+            "Si juegas en RetroArch a pantalla completa, los avisos de logros del editor "
+            "pueden quedar ocultos detrás del juego.\n\n"
+            "El editor puede hacer que sea RetroArch quien los muestre dentro del juego. "
+            "Para eso hay que activar sus «comandos de red» en retroarch.cfg "
+            f"(puerto {port}). Se guarda una copia como retroarch.cfg.antes_logros.\n\n"
+            "¿Activarlo ahora? (RetroArch está cerrado, que es cuando se puede cambiar.)"),
+            parent=self.root)
+        extra[RA_ASKED_KEY] = "si" if ok else "no"
+        if ok:
+            try:
+                retroarch_cmd.enable(cfg, port)
+            except OSError as e:
+                messagebox.showerror("Logros en RetroArch",
+                                     f"No se pudo cambiar retroarch.cfg:\n{e}", parent=self.root)
+        self.watcher.progress.save()
 
 
 def _fmt_date(iso: str) -> str:
@@ -273,7 +342,7 @@ class AchievementsWindow(tk.Toplevel):
                  anchor="w").pack(fill="x")
         if when:
             status, color = f"SUPERADO\n{_fmt_date(when)}", "#b07d00"
-        elif a.check is None:
+        elif a.check is None and not a.live_match:
             status, color = "Pendiente\n(aún en preparación)", "#9a9a9a"
         else:
             status, color = "Pendiente", "#6b6b6b"

@@ -257,3 +257,18 @@ Mientras se juega, la liga está en la memoria del juego con casi el mismo forma
 | ancla − `0xE704` | `0x119E2` | Resultados |
 
 El ancla se localiza buscando la serie de bloques de equipo («Ordenador» cada `0x52C` bytes). Las direcciones absolutas cambian en cada arranque de RetroArch. El resultado de una jornada aparece en memoria cuando se termina de simular la jornada entera, no al acabar tu partido.
+
+### El partido jugado en memoria (simulador)
+
+Mientras se juega un partido en la cancha (amistoso o de liga), sus datos están en la RAM del DOS justo detrás del texto `ESTO solo ES... DE PRUEBA   `. En la RAM de 16 MB de DOSBox Pure, P cae en `0x214B5C`. Los partidos que simula el mánager no pasan por aquí. Las posiciones son relativas a P, el byte que sigue a la firma:
+
+| Offset | Contenido |
+|---|---|
+| `+0x00` | Los dos equipos, u8 cada uno (índices del DBC). No siempre van en el orden de las fichas: en un amistoso Burgos-Joventut ponía `06 0D`, pero la Joventut iba primero en las fichas y en el marcador |
+| `+0x16` | Tanteos, u16 cada uno, en el orden de las fichas |
+| `+0x18C8` | Fichas de los 5 jugadores en pista del primer equipo, de 199 bytes. El nombre ocupa 16 caracteres |
+| `+0x18C8 + 1001` | Fichas de los 5 en pista del segundo equipo |
+
+Dentro de cada ficha, contando desde el nombre: −5 T2 anotados, −4 T3 anotados, +29 T2 intentados y +30 T3 intentados. En un cambio, la ficha del que entra ocupa el hueco del que sale y las cifras de este desaparecen (no se encontraron en otra parte de la memoria). En algunas pantallas la zona queda tapada con otros datos y la firma no está.
+
+El logro «Francotirador» suma en directo cada subida del contador de triples de una ficha mientras el jugador siga en pista (`logros.ThreesCounter`).

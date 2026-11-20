@@ -27,10 +27,13 @@ Por la misma razón: algunos equipos tenían 9 o 10 jugadores en 1996, así que 
 El modo mánager empieza la liga con 11 jugadores por equipo para dejar un hueco libre para fichar; también lo hacía con los datos de 1996. El que se queda fuera es el 12.º de la plantilla, así que la actualización coloca ahí al suplente más flojo.
 
 ### El aviso de los logros no sale encima del juego
-Pasa con RetroArch a pantalla completa en tarjetas NVIDIA. La solución está en la [guía del editor](guia-del-editor.md#logros).
+Pasa con RetroArch a pantalla completa en tarjetas NVIDIA. El editor se ofrece a activar los *comandos de red* de RetroArch para que sea RetroArch quien muestre el logro dentro del juego. Los detalles están en la [guía del editor](guia-del-editor.md#logros).
+
+### El juego se cuelga cuando un jugador anota o hace falta
+Suele ser una letra que el juego no tiene en el nombre del jugador, como una mayúscula con tilde (*Á*). Se cuelga al mostrar su ficha con foto. El editor ya no deja guardar esas letras: abre el equipo, revisa los nombres y guarda.
 
 ### Un nombre sale sin tildes o con letras raras
-El juego solo admite el alfabeto latino básico (Latin-1). Los nombres con *ć*, *š* y letras parecidas se escriben sin el signo. El marcador tampoco muestra bien las tildes, así que allí se usan mayúsculas sin ellas.
+El juego solo tiene las letras de los datos de 1996: sin tilde, *á é í ó ú*, *ñ* y *ç*. Los nombres con *Á*, *ü*, *ć*, *š* y letras parecidas se guardan sin el signo. El marcador tampoco muestra bien las tildes, así que allí se usan mayúsculas sin ellas.
 
 ### ¿Se actualizarán las plantillas durante la temporada?
 Los scripts de la carpeta [`plantillas/`](../plantillas/LEEME.md) permiten volver a descargar los datos y generar un parche nuevo. Las nuevas versiones se publicarán en [Releases](https://github.com/bodickerdev/pcbasketeditor/releases).

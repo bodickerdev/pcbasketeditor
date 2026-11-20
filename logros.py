@@ -66,6 +66,9 @@ NO_SCORE = 0xFFFF
 EURO_END_MARK = 0x28        # último byte del archivo
 NO_TEAM = 0xFF
 
+SNIPER_THREES = 10          # «Francotirador»: triples de tu equipo en un partido jugado
+MAX_THREES_STEP = 3         # más subida que esto entre dos lecturas = datos raros
+
 PROGRESS_FILE = "LOGROS.JSON"
 
 
@@ -251,6 +254,39 @@ class LeagueSave:
         return teams
 
 
+@dataclass
+class LiveMatch:
+    """Partido que se está jugando en la cancha (leído de la memoria del juego)."""
+    teams: tuple            # (local, visitante), índices del DBC
+    score: tuple            # (local, visitante)
+    sides: List[List[tuple]]   # por lado, los 5 en pista: (nombre, triples anotados)
+
+
+class ThreesCounter:
+    """Triples de cada equipo en el partido jugado que se está viendo.
+
+    Las fichas de la memoria son las de los 5 jugadores en pista, y las cifras
+    del que se sienta desaparecen. Por eso se suma cada subida del contador
+    de una ficha mientras siga el mismo jugador; en los cambios no se suma nada."""
+
+    def __init__(self):
+        self.match: Optional[LiveMatch] = None
+        self.threes = [0, 0]
+
+    def update(self, m: LiveMatch) -> tuple:
+        prev = self.match
+        if prev is None or prev.teams != m.teams or sum(m.score) < sum(prev.score):
+            # partido nuevo: lo que ya hubiera en las fichas también cuenta
+            self.threes = [sum(t for _, t in side) for side in m.sides]
+        else:
+            for s in range(2):
+                for (name0, t0), (name1, t1) in zip(prev.sides[s], m.sides[s]):
+                    if name0 == name1 and 0 < t1 - t0 <= MAX_THREES_STEP:
+                        self.threes[s] += t1 - t0
+        self.match = m
+        return tuple(self.threes)
+
+
 # --------------------------------------------------------------------------
 # Logros
 # --------------------------------------------------------------------------
@@ -260,6 +296,7 @@ class Achievement:
     name: str
     description: str
     check: Optional[Callable[[LeagueSave], bool]] = None   # None = aún no se detecta
+    live_match: bool = False    # se detecta en directo durante un partido jugado
 
 
 def _signed_someone(s: LeagueSave) -> bool:
@@ -330,6 +367,9 @@ ACHIEVEMENTS: List[Achievement] = [
                 "Gana la Copa de Europa con Leyma Coruña.", lambda s: _euro_title(s, CORUNA)),
     Achievement("mano_hierro", "Mano de hierro",
                 "Termina la liga regular con menos de 5 derrotas.", _iron_hand),
+    Achievement("francotirador", "Francotirador",
+                f"Mete {SNIPER_THREES} triples con tu equipo en un partido jugado "
+                "en el simulador (amistoso o de liga).", live_match=True),
 ]
 BY_ID: Dict[str, Achievement] = {a.id: a for a in ACHIEVEMENTS}
 
@@ -363,12 +403,15 @@ class Progress:
         self.since = _now()                  # solo cuentan partidas guardadas después
         self.unlocked: Dict[str, str] = {}   # id -> fecha
         self.seen: Dict[str, float] = {}     # partida -> mtime ya revisado
+        self.extra: Dict[str, object] = {}   # otros ajustes (RetroArch...), se conservan
         try:
             with open(self.path, encoding="utf-8") as f:
                 d = json.load(f)
             self.since = d.get("desde", self.since)
             self.unlocked = {k: v for k, v in d.get("logros", {}).items() if k in BY_ID}
             self.seen = d.get("revisadas", {})
+            self.extra = {k: v for k, v in d.items()
+                          if k not in ("desde", "logros", "revisadas")}
         except (OSError, ValueError):
             self.save()
 
@@ -376,7 +419,7 @@ class Progress:
         tmp = self.path + ".tmp"
         with open(tmp, "w", encoding="utf-8") as f:
             json.dump({"desde": self.since, "logros": self.unlocked,
-                       "revisadas": self.seen}, f, indent=2, ensure_ascii=False)
+                       "revisadas": self.seen, **self.extra}, f, indent=2, ensure_ascii=False)
         os.replace(tmp, self.path)
 
     def reset(self):
@@ -398,6 +441,7 @@ class Watcher:
         self.progress = Progress(game_dir)
         self.live_key = None            # liga que se está leyendo de la memoria
         self.live_baseline: Set[str] = set()
+        self.threes = ThreesCounter()
 
     def saves(self) -> List[str]:
         return sorted(glob.glob(os.path.join(self.game_dir, "SAVE*", "LIGAS*.DAT")))
@@ -442,3 +486,19 @@ class Watcher:
         if new:
             self.progress.save()
         return new
+
+    def poll_match(self, match: Optional[LiveMatch],
+                   league: Optional[LeagueSave] = None) -> List[str]:
+        """Partido jugado leído de la memoria. Aún no se sabe qué lado controla
+        el jugador: el orden de las fichas no siempre es el de los equipos de la
+        cabecera (en un amistoso Burgos-Joventut, la Joventut iba primero en las
+        fichas y en el marcador). Por eso cuentan los dos lados."""
+        if match is None:
+            return []
+        threes = self.threes.update(match)
+        if max(threes) >= SNIPER_THREES:
+            new = self.progress.unlock(["francotirador"])
+            if new:
+                self.progress.save()
+            return new
+        return []

@@ -21,6 +21,25 @@ bytes después del cuadro y acaba en 0x28.
 Se localiza el ancla buscando la serie de bloques de equipo («Ordenador»
 cada 0x52C bytes). La posición cambia en cada arranque, así que se busca de
 nuevo cuando deja de cuadrar.
+
+Partido jugado (simulador arcade, amistoso o de liga). Solo existe en
+memoria mientras se juega; los partidos simulados por el mánager no pasan
+por aquí. Lo precede el texto «ESTO solo ES... DE PRUEBA»:
+
+    P = fin de «DE PRUEBA\0\0\0»
+    P+0     2 x u8   los dos equipos (índices del DBC); OJO: no siempre en el
+                     mismo orden que las fichas y el marcador
+    P+0x16  2 x u16  marcador, en el orden de las fichas
+    P+0x18C8         fichas del 1.er equipo en pista (5), 199 bytes cada una
+    P+0x18C8+1001    fichas del 2.º equipo en pista
+    En cada ficha, respecto al nombre (16 caracteres): -5 T2 anotados,
+    -4 T3 anotados, +29 T2 intentados, +30 T3 intentados.
+
+Al hacer un cambio, la ficha del que entra sustituye a la del que sale, y
+las cifras del que se sienta desaparecen de la ficha. Por eso los triples
+se van sumando en directo, cada vez que sube el contador de una ficha.
+En algunas pantallas (cambios, menús) la zona se tapa con otros datos y
+el texto de la firma no está: esas lecturas se descartan.
 """
 from __future__ import annotations
 
@@ -45,6 +64,14 @@ RESCAN_SECONDS = 10
 PLAYOFFS_SIGNATURE = bytes(range(1, 0x32))
 PLAYOFFS_SEARCH = 0x200000      # se busca en ±2 MB alrededor del ancla
 EURO_FROM_PLAYOFFS = 0xAE0     # sin liga cargada, no buscar en toda la memoria a cada momento
+MATCH_SIGNATURE = b"DE PRUEBA\0\0\0"
+MATCH_SCORE = 0x16
+MATCH_SLOTS = 0x18C8
+SLOT_SIZE = 199
+SIDE_SIZE = 5 * SLOT_SIZE + 6
+SLOT_NAME_LEN = 16
+SLOT_T3_MADE = -4
+MATCH_READ = MATCH_SLOTS + 2 * SIDE_SIZE
 
 
 if sys.platform == "win32":
@@ -103,6 +130,9 @@ class MemoryReader:
         self.anchor: Optional[int] = None
         self.playoffs_addr: Optional[int] = None
         self._next_scan = 0.0
+        self.match_addr: Optional[int] = None
+        self.match_region: Optional[tuple] = None   # (base, tamaño) donde se encontró
+        self._next_match_scan = 0.0
 
     # ---- proceso ---------------------------------------------------------
     def _alive(self) -> bool:
@@ -125,10 +155,23 @@ class MemoryReader:
         self.pid, self.handle = pid, h
         return True
 
+    def exe_path(self) -> Optional[str]:
+        """Ruta de retroarch.exe (para encontrar su retroarch.cfg)."""
+        if not self.available or not self._attach():
+            return None
+        buf = ctypes.create_unicode_buffer(1024)
+        n = wt.DWORD(len(buf))
+        if _k.QueryFullProcessImageNameW(self.handle, 0, buf, ctypes.byref(n)):
+            return buf.value
+        return None
+
+    def running(self) -> bool:
+        return self.available and self._attach()
+
     def close(self):
         if self.handle:
             _k.CloseHandle(self.handle)
-        self.pid = self.handle = self.anchor = self.playoffs_addr = None
+        self.pid = self.handle = self.anchor = self.playoffs_addr = self.match_addr = self.match_region = None
 
     def _read(self, addr: int, size: int) -> Optional[bytes]:
         buf = ctypes.create_string_buffer(size)
@@ -149,6 +192,20 @@ class MemoryReader:
                 return False
             cpu += name == CPU_MARK
         return cpu >= MIN_CPU_TEAMS
+
+    def _regions(self):
+        """(base, contenido) de cada zona de memoria legible del proceso."""
+        m = _MBI()
+        addr = 0
+        while _k.VirtualQueryEx(self.handle, ctypes.c_void_p(addr), ctypes.byref(m), ctypes.sizeof(m)):
+            base, size = m.BaseAddress or 0, m.RegionSize
+            if m.State == 0x1000 and m.Protect in _READABLE and size < MAX_REGION:
+                data = self._read(base, size)
+                if data:
+                    yield base, data
+            addr = base + size
+            if addr >= 1 << 47:
+                break
 
     def _scan(self) -> Optional[int]:
         m = _MBI()
@@ -226,6 +283,64 @@ class MemoryReader:
                     return addr
             tail = chunk[-len(PLAYOFFS_SIGNATURE):]
         return None
+
+
+    # ---- partido jugado (simulador) -----------------------------------------
+    def read_match(self) -> Optional[logros.LiveMatch]:
+        """El partido que se está jugando en la cancha, o None (no hay partido,
+        o la pantalla actual tapa los datos)."""
+        if not self.available or not self._attach():
+            return None
+        m = self._parse_match(self.match_addr) if self.match_addr is not None else None
+        if m is None and time.monotonic() >= self._next_match_scan:
+            self._next_match_scan = time.monotonic() + RESCAN_SECONDS
+            # la RAM del DOS es siempre la misma zona: se busca ahí primero
+            # y solo se recorre toda la memoria si aún no se conoce
+            if self.match_region:
+                base, size = self.match_region
+                data = self._read(base, size)
+                regions = [(base, data)] if data else []
+            else:
+                regions = self._regions()
+            for base, data in regions:
+                i = data.find(MATCH_SIGNATURE)
+                while i != -1:
+                    m = self._parse_match(base + i + len(MATCH_SIGNATURE))
+                    if m is not None:
+                        self.match_addr = base + i + len(MATCH_SIGNATURE)
+                        self.match_region = (base, len(data))
+                        return m
+                    i = data.find(MATCH_SIGNATURE, i + 1)
+        return m
+
+    def _parse_match(self, p: int) -> Optional[logros.LiveMatch]:
+        head = self._read(p - len(MATCH_SIGNATURE), len(MATCH_SIGNATURE))
+        d = self._read(p, MATCH_READ)
+        if head != MATCH_SIGNATURE or d is None:
+            return None
+        return parse_match(d)
+
+
+def parse_match(d: bytes) -> Optional[logros.LiveMatch]:
+    """Partido a partir de los bytes que siguen a la firma."""
+    teams = (d[0], d[1])
+    if max(teams) >= logros.N_TEAMS or teams[0] == teams[1]:
+        return None
+    score = (int.from_bytes(d[MATCH_SCORE:MATCH_SCORE + 2], "little"),
+             int.from_bytes(d[MATCH_SCORE + 2:MATCH_SCORE + 4], "little"))
+    if max(score) > 250:
+        return None
+    sides = []
+    for side in range(2):
+        slots = []
+        for k in range(5):
+            n = MATCH_SLOTS + side * SIDE_SIZE + k * SLOT_SIZE
+            raw = d[n:n + SLOT_NAME_LEN]
+            if not raw[:1].isalpha() or any(c < 0x20 for c in raw):
+                return None
+            slots.append((raw.decode("cp850").strip(), d[n + SLOT_T3_MADE]))
+        sides.append(slots)
+    return logros.LiveMatch(teams, score, sides)
 
 
 def _plausible(cal: bytes, scores: bytes) -> bool:

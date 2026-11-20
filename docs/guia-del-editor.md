@@ -127,12 +127,17 @@ El botón **🏆 Logros** abre la lista de logros del modo mánager, con los sup
 - **Dónde se guarda el progreso:** en `LOGROS.JSON`, en la carpeta del juego.
 - Algunos logros aparecen como *aún en preparación*: todavía no se pueden detectar y llegarán en próximas versiones.
 
-**El aviso no se ve si RetroArch está a pantalla completa.** Con tarjetas NVIDIA y el controlador de vídeo `glcore`, Windows no dibuja otras ventanas encima del juego. Para solucionarlo, abre el *Panel de control de NVIDIA* › *Administrar la configuración 3D* › *Configuración de programa*, elige `retroarch.exe` y pon *Método de presentación de Vulkan/OpenGL* en *Preferir capas en la cadena de intercambio DXGI*. Otra opción es cambiar en RetroArch el controlador de vídeo a `d3d11` (*Ajustes › Controladores › Vídeo*).
+- **Francotirador** se consigue jugando tú el partido en la cancha (amistoso o de liga), no simulándolo: mete 10 triples en un partido. Solo se detecta en directo con RetroArch y DOSBox Pure. De momento cuentan los triples de cualquiera de los dos equipos.
+
+**Avisos dentro de RetroArch.** A pantalla completa, RetroArch puede tapar el aviso del editor (pasa con tarjetas NVIDIA y el controlador de vídeo `glcore`). Por eso el editor también le pide a RetroArch que muestre el logro dentro del juego, con sus propios avisos. Para ello hay que activar los *comandos de red* de RetroArch. El editor se ofrece a hacerlo una sola vez, cuando RetroArch está cerrado, después de haberlo visto abierto alguna vez. Cambia dos líneas de `retroarch.cfg` y guarda antes una copia como `retroarch.cfg.antes_logros`.
+
+- **Puerto:** RetroArch usa por defecto el 55355, pero en muchos Windows 11 ese puerto está reservado (por Hyper-V, WSL o Docker) y no se puede abrir. En ese caso el editor elige otro libre, por ejemplo el 45355.
+- **Activarlo a mano:** en RetroArch, *Ajustes › Red › Comandos de red* activado y *Puerto de comandos de red* en uno libre. Hazlo con RetroArch cerrado si editas `retroarch.cfg`, porque al salir lo vuelve a guardar.
 
 ## Reglas importantes
 
 - **Número de jugadores:** no se pueden añadir ni quitar jugadores de un equipo. Para fichar a alguien, sustituye a un jugador existente.
-- **Letras:** el juego solo admite el alfabeto latino básico (Latin-1). Letras como *ć* o *š* deben escribirse sin el signo: *c*, *s*.
+- **Letras de los nombres:** usa solo las letras que tenían los datos de 1996: letras sin tilde, *á é í ó ú*, *ñ Ñ* y *ç Ç*. Una letra que el juego no tiene (por ejemplo *Á*, *ü*, *ć* o *š*) puede colgarlo al mostrar la ficha con foto del jugador en el partido. El editor avisa en naranja y al guardar la cambia por la letra sin tilde: *Á* → *A*, *š* → *s*.
 - **Nombre del marcador:** se guarda en `MANAGER.DAT` y tiene 12 caracteres fijos. Conviene no usar tildes ni Ñ.
 - **All-Star:** los jugadores 1 a 12 forman la Selección USA y los 13 a 21 la Selección Europea. No rellenes su biografía, lugar de nacimiento ni procedencia: en ese equipo, esos campos estropean los nombres de la pantalla del All-Star.
 - **Copias de seguridad:** el botón **Restaurar** recupera los originales de 1996, no tu última versión guardada. Si quieres guardar versiones intermedias, usa **Guardar como…**.
